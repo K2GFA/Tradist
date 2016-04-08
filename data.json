@@ -1,0 +1,32 @@
+[{
+  "id": 1,
+  "name": "111 Emerald Hill",
+  "street_name": "Emerald Hill Road",
+  "type": "Apartment",
+  "postal_district": 9,
+  "market_segment": "CCR",
+  "tenure": "Freehold",
+  "type_of_sale": "Resale",
+  "price": 5118850,
+  "area": 2497,
+  "floor_level": "01 to 05",
+  "unit_price": 2050,
+  "date_of_sale": "Apr-15"
+},
+
+{
+  "id": 2,
+  "name": "111 Emerald Hill",
+  "street_name": "Emerald Hill Road",
+  "type": "Apartment",
+  "postal_district": 9,
+  "market_segment": "CCR",
+  "tenure": "Freehold",
+  "type_of_sale": "Resale",
+  "price": 4950000,
+  "area": 2411,
+  "floor_level": "01 to 05",
+  "unit_price": 2053,
+  "date_of_sale": "Apr-15"
+}
+]
