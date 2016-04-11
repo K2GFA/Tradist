@@ -7,7 +7,7 @@
     "low": 108.2,
     "close": 109.99,
     "volume": 51252400,
-    "rice": 109.99,
+    "price": 109.99,
     "monthly_difference": "0.82%"
   },
   {
@@ -18,7 +18,7 @@
     "low": 97.42,
     "close": 108.99,
     "volume": 34835400,
-    "rice": 108.99,
+    "price": 108.99,
     "monthly_difference": "6.25%"
   },
   {
@@ -29,7 +29,7 @@
     "low": 92.59,
     "close": 96.69,
     "volume": 42018600,
-    "rice": 96.69,
+    "price": 96.69,
     "monthly_difference": "3.29%"
   },
   {
@@ -40,7 +40,7 @@
     "low": 92.39,
     "close": 97.34,
     "volume": 70329700,
-    "rice": 96.81,
+    "price": 96.81,
     "monthly_difference": "6.79%"
   },
   {
@@ -51,7 +51,7 @@
     "low": 104.82,
     "close": 105.26,
     "volume": 43750400,
-    "rice": 104.69,
+    "price": 104.69,
     "monthly_difference": "6.69%"
   },
   {
@@ -62,7 +62,7 @@
     "low": 111,
     "close": 118.3,
     "volume": 39491000,
-    "rice": 117.66,
+    "price": 117.66,
     "monthly_difference": "5.46%"
   },
   {
@@ -73,7 +73,7 @@
     "low": 107.31,
     "close": 119.5,
     "volume": 52797300,
-    "rice": 118.35,
+    "price": 118.35,
     "monthly_difference": "6.09%"
   },
   {
@@ -84,7 +84,7 @@
     "low": 107.36,
     "close": 110.3,
     "volume": 60620000,
-    "rice": 109.24,
+    "price": 109.24,
     "monthly_difference": "4.25%"
   },
   {
@@ -95,7 +95,7 @@
     "low": 92,
     "close": 112.76,
     "volume": 79152700,
-    "rice": 111.67,
+    "price": 111.67,
     "monthly_difference": "14.25%"
   },
   {
@@ -106,7 +106,7 @@
     "low": 119.22,
     "close": 121.3,
     "volume": 50017800,
-    "rice": 119.59,
+    "price": 119.59,
     "monthly_difference": "5.45%"
   },
   {
@@ -117,7 +117,7 @@
     "low": 124.48,
     "close": 125.43,
     "volume": 41949200,
-    "rice": 123.66,
+    "price": 123.66,
     "monthly_difference": "2.70%"
   },
   {
@@ -128,7 +128,7 @@
     "low": 123.36,
     "close": 130.28,
     "volume": 50251800,
-    "rice": 128.44,
+    "price": 128.44,
     "monthly_difference": "3.75%"
   },
   {
@@ -139,7 +139,7 @@
     "low": 123.1,
     "close": 125.15,
     "volume": 51396700,
-    "rice": 122.87,
+    "price": 122.87,
     "monthly_difference": "4.44%"
   },
   {
@@ -150,7 +150,7 @@
     "low": 121.63,
     "close": 124.43,
     "volume": 53669600,
-    "rice": 122.17,
+    "price": 122.17,
     "monthly_difference": "3.43%"
   },
   {
@@ -161,7 +161,7 @@
     "low": 116.08,
     "close": 128.46,
     "volume": 63081500,
-    "rice": 126.12,
+    "price": 126.12,
     "monthly_difference": "7.02%"
   },
   {
@@ -172,7 +172,7 @@
     "low": 104.63,
     "close": 117.16,
     "volume": 69419400,
-    "rice": 114.58,
+    "price": 114.58,
     "monthly_difference": "6.84%"
   },
   {
@@ -183,7 +183,7 @@
     "low": 106.26,
     "close": 110.38,
     "volume": 50681700,
-    "rice": 107.95,
+    "price": 107.95,
     "monthly_difference": "5.76%"
   },
   {
@@ -194,7 +194,7 @@
     "low": 107.72,
     "close": 118.93,
     "volume": 44485400,
-    "rice": 116.31,
+    "price": 116.31,
     "monthly_difference": "5.29%"
   },
   {
@@ -205,7 +205,7 @@
     "low": 95.18,
     "close": 108,
     "volume": 61083400,
-    "rice": 105.16,
+    "price": 105.16,
     "monthly_difference": "6.33%"
   },
   {
@@ -216,7 +216,7 @@
     "low": 96.14,
     "close": 100.75,
     "volume": 75318200,
-    "rice": 98.1,
+    "price": 98.1,
     "monthly_difference": "3.80%"
   },
   {
@@ -227,7 +227,7 @@
     "low": 93.28,
     "close": 102.5,
     "volume": 46746200,
-    "rice": 99.81,
+    "price": 99.81,
     "monthly_difference": "4.90%"
   },
   {
@@ -238,7 +238,7 @@
     "low": 92.57,
     "close": 95.6,
     "volume": 49633100,
-    "rice": 92.63,
+    "price": 92.63,
     "monthly_difference": "3.58%"
   },
   {
@@ -249,7 +249,7 @@
     "low": 89.65,
     "close": 92.93,
     "volume": 59829300,
-    "rice": 90.04,
+    "price": 90.04,
     "monthly_difference": "75.80%"
   },
   {
@@ -260,7 +260,7 @@
     "low": 580.33,
     "close": 633,
     "volume": 74996300,
-    "rice": 87.62,
+    "price": 87.62,
     "monthly_difference": "5.21%"
   },
   {
@@ -271,7 +271,7 @@
     "low": 511.33,
     "close": 590.09,
     "volume": 82044000,
-    "rice": 81.22,
+    "price": 81.22,
     "monthly_difference": "7.93%"
   },
   {
@@ -282,7 +282,7 @@
     "low": 522.81,
     "close": 536.74,
     "volume": 61552000,
-    "rice": 73.88,
+    "price": 73.88,
     "monthly_difference": "2.44%"
   },
   {
@@ -293,7 +293,7 @@
     "low": 499.3,
     "close": 526.24,
     "volume": 82267500,
-    "rice": 72.43,
+    "price": 72.43,
     "monthly_difference": "4.94%"
   },
   {
@@ -304,7 +304,7 @@
     "low": 493.55,
     "close": 500.6,
     "volume": 109889900,
-    "rice": 68.5,
+    "price": 68.5,
     "monthly_difference": "6.33%"
   },
   {
@@ -315,7 +315,7 @@
     "low": 538.8,
     "close": 561.02,
     "volume": 86672400,
-    "rice": 76.76,
+    "price": 76.76,
     "monthly_difference": "3.26%"
   },
   {
@@ -326,7 +326,7 @@
     "low": 512.38,
     "close": 556.07,
     "volume": 69291000,
-    "rice": 76.09,
+    "price": 76.09,
     "monthly_difference": "4.29%"
   },
   {
@@ -337,7 +337,7 @@
     "low": 478.28,
     "close": 522.7,
     "volume": 88189400,
-    "rice": 71.1,
+    "price": 71.1,
     "monthly_difference": "5.99%"
   },
   {
@@ -348,7 +348,7 @@
     "low": 447.22,
     "close": 476.75,
     "volume": 111138700,
-    "rice": 64.85,
+    "price": 64.85,
     "monthly_difference": "6.36%"
   },
   {
@@ -359,7 +359,7 @@
     "low": 453.26,
     "close": 487.22,
     "volume": 94666300,
-    "rice": 66.28,
+    "price": 66.28,
     "monthly_difference": "6.25%"
   },
   {
@@ -370,7 +370,7 @@
     "low": 401.22,
     "close": 452.53,
     "volume": 77966700,
-    "rice": 61.15,
+    "price": 61.15,
     "monthly_difference": "6.54%"
   },
   {
@@ -381,7 +381,7 @@
     "low": 388.87,
     "close": 396.53,
     "volume": 94963100,
-    "rice": 53.59,
+    "price": 53.59,
     "monthly_difference": "7.77%"
   },
   {
@@ -392,7 +392,7 @@
     "low": 418.9,
     "close": 449.73,
     "volume": 111725300,
-    "rice": 60.78,
+    "price": 60.78,
     "monthly_difference": "5.30%"
   },
   {
@@ -403,7 +403,7 @@
     "low": 385.1,
     "close": 442.78,
     "volume": 132443500,
-    "rice": 59.44,
+    "price": 59.44,
     "monthly_difference": "7.24%"
   },
   {
@@ -414,7 +414,7 @@
     "low": 419,
     "close": 442.66,
     "volume": 120246400,
-    "rice": 59.43,
+    "price": 59.43,
     "monthly_difference": "5.73%"
   },
   {
@@ -425,7 +425,7 @@
     "low": 437.66,
     "close": 441.4,
     "volume": 127191400,
-    "rice": 59.26,
+    "price": 59.26,
     "monthly_difference": "5.12%"
   },
   {
@@ -436,7 +436,7 @@
     "low": 435,
     "close": 455.49,
     "volume": 160032800,
-    "rice": 60.8,
+    "price": 60.8,
     "monthly_difference": "12.12%"
   },
   {
@@ -447,7 +447,7 @@
     "low": 501.23,
     "close": 532.17,
     "volume": 159903000,
-    "rice": 71.03,
+    "price": 71.03,
     "monthly_difference": "8.52%"
   },
   {
@@ -458,7 +458,7 @@
     "low": 505.75,
     "close": 585.28,
     "volume": 158585300,
-    "rice": 78.12,
+    "price": 78.12,
     "monthly_difference": "8.77%"
   },
   {
@@ -469,7 +469,7 @@
     "low": 587.7,
     "close": 595.32,
     "volume": 150628900,
-    "rice": 79.1,
+    "price": 79.1,
     "monthly_difference": "7.04%"
   },
   {
@@ -480,7 +480,7 @@
     "low": 656,
     "close": 667.1,
     "volume": 128080400,
-    "rice": 88.64,
+    "price": 88.64,
     "monthly_difference": "3.61%"
   },
   {
@@ -491,7 +491,7 @@
     "low": 600.25,
     "close": 665.24,
     "volume": 93636100,
-    "rice": 88.39,
+    "price": 88.39,
     "monthly_difference": "6.29%"
   },
   {
@@ -502,7 +502,7 @@
     "low": 570,
     "close": 610.76,
     "volume": 111571100,
-    "rice": 80.8,
+    "price": 80.8,
     "monthly_difference": "4.19%"
   },
   {
@@ -513,7 +513,7 @@
     "low": 548.5,
     "close": 584,
     "volume": 98539600,
-    "rice": 77.26,
+    "price": 77.26,
     "monthly_difference": "3.65%"
   },
   {
@@ -524,7 +524,7 @@
     "low": 522.18,
     "close": 577.73,
     "volume": 131795600,
-    "rice": 76.43,
+    "price": 76.43,
     "monthly_difference": "6.67%"
   },
   {
@@ -535,7 +535,7 @@
     "low": 555,
     "close": 583.98,
     "volume": 201314100,
-    "rice": 77.26,
+    "price": 77.26,
     "monthly_difference": "7.42%"
   },
   {
@@ -546,7 +546,7 @@
     "low": 516.22,
     "close": 599.55,
     "volume": 185402000,
-    "rice": 79.32,
+    "price": 79.32,
     "monthly_difference": "9.25%"
   },
   {
@@ -557,7 +557,7 @@
     "low": 453.98,
     "close": 542.44,
     "volume": 154007000,
-    "rice": 71.76,
+    "price": 71.76,
     "monthly_difference": "9.35%"
   },
   {
@@ -568,7 +568,7 @@
     "low": 409,
     "close": 456.48,
     "volume": 90644200,
-    "rice": 60.39,
+    "price": 60.39,
     "monthly_difference": "5.68%"
   },
   {
@@ -579,7 +579,7 @@
     "low": 377.68,
     "close": 405,
     "volume": 77216600,
-    "rice": 53.58,
+    "price": 53.58,
     "monthly_difference": "3.99%"
   },
   {
@@ -590,7 +590,7 @@
     "low": 363.32,
     "close": 382.2,
     "volume": 111543300,
-    "rice": 50.56,
+    "price": 50.56,
     "monthly_difference": "5.79%"
   },
   {
@@ -601,7 +601,7 @@
     "low": 354.24,
     "close": 404.78,
     "volume": 161034800,
-    "rice": 53.55,
+    "price": 53.55,
     "monthly_difference": "9.28%"
   },
   {
@@ -612,7 +612,7 @@
     "low": 366.48,
     "close": 381.32,
     "volume": 149108200,
-    "rice": 50.45,
+    "price": 50.45,
     "monthly_difference": "7.14%"
   },
   {
@@ -623,7 +623,7 @@
     "low": 353.02,
     "close": 384.83,
     "volume": 181143300,
-    "rice": 50.91,
+    "price": 50.91,
     "monthly_difference": "6.18%"
   },
   {
@@ -634,7 +634,7 @@
     "low": 334.2,
     "close": 390.48,
     "volume": 141081600,
-    "rice": 51.66,
+    "price": 51.66,
     "monthly_difference": "9.52%"
   },
   {
@@ -645,7 +645,7 @@
     "low": 310.5,
     "close": 335.67,
     "volume": 108940900,
-    "rice": 44.41,
+    "price": 44.41,
     "monthly_difference": "6.28%"
   },
   {
@@ -656,7 +656,7 @@
     "low": 329.42,
     "close": 347.83,
     "volume": 87259700,
-    "rice": 46.02,
+    "price": 46.02,
     "monthly_difference": "3.29%"
   },
   {
@@ -667,7 +667,7 @@
     "low": 320.16,
     "close": 350.13,
     "volume": 128252100,
-    "rice": 46.32,
+    "price": 46.32,
     "monthly_difference": "5.18%"
   },
   {
