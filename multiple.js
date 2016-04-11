@@ -1,4 +1,4 @@
-var json1 = [
+var gold = [
   {
     "Date": "2011-04-01",
     "Price": 1474.431
@@ -244,13 +244,13 @@ var json1 = [
 x_val = [];
 y_val = [];
 
-  for (var i = 0; i < json1.length; i++) {
-      	x_val.push(json1[i]["Date"]);
-        y_val.push(json1[i]["Price"]);
+  for (var i = 0; i < gold.length; i++) {
+      	x_val.push(gold[i]["Date"]);
+        y_val.push(gold[i]["Price"]);
       };
 
 
-var json2 = [
+var crudeOil = [
   {
 "Date": "2011-04-01",
 "Price": 109.53
@@ -496,10 +496,265 @@ var json2 = [
   x_val2 = [];
   y_val2 = [];
 
-    for (var i = 0; i < json2.length; i++) {
-        	x_val2.push(json2[i]["Date"]);
-          y_val2.push(json2[i]["Price"]);
+    for (var i = 0; i < crudeOil.length; i++) {
+        	x_val2.push(crudeOil[i]["Date"]);
+          y_val2.push(crudeOil[i]["Price"]);
         };
+
+var ironOre = [
+    {
+      "Date": "2011-03-01",
+      "Price": 169.36
+    },
+    {
+      "Date": "2011-04-01",
+      "Price": 179.26
+    },
+    {
+      "Date": "2011-05-01",
+      "Price": 177.1
+    },
+    {
+      "Date": "2011-06-01",
+      "Price": 170.88
+    },
+    {
+      "Date": "2011-07-01",
+      "Price": 172.98
+    },
+    {
+      "Date": "2011-08-01",
+      "Price": 177.45
+    },
+    {
+      "Date": "2011-09-01",
+      "Price": 177.23
+    },
+    {
+      "Date": "2011-10-01",
+      "Price": 150.43
+    },
+    {
+      "Date": "2011-11-01",
+      "Price": 135.54
+    },
+    {
+      "Date": "2011-12-01",
+      "Price": 136.46
+    },
+    {
+      "Date": "2012-01-01",
+      "Price": 140.35
+    },
+    {
+      "Date": "2012-02-01",
+      "Price": 140.4
+    },
+    {
+      "Date": "2012-03-01",
+      "Price": 144.66
+    },
+    {
+      "Date": "2012-04-01",
+      "Price": 147.65
+    },
+    {
+      "Date": "2012-05-01",
+      "Price": 136.27
+    },
+    {
+      "Date": "2012-06-01",
+      "Price": 134.62
+    },
+    {
+      "Date": "2012-07-01",
+      "Price": 127.94
+    },
+    {
+      "Date": "2012-08-01",
+      "Price": 107.8
+    },
+    {
+      "Date": "2012-09-01",
+      "Price": 99.47
+    },
+    {
+      "Date": "2012-10-01",
+      "Price": 113.95
+    },
+    {
+      "Date": "2012-11-01",
+      "Price": 120.35
+    },
+    {
+      "Date": "2012-12-01",
+      "Price": 128.87
+    },
+    {
+      "Date": "2013-01-01",
+      "Price": 150.49
+    },
+    {
+      "Date": "2013-02-01",
+      "Price": 154.64
+    },
+    {
+      "Date": "2013-03-01",
+      "Price": 139.87
+    },
+    {
+      "Date": "2013-04-01",
+      "Price": 137.39
+    },
+    {
+      "Date": "2013-05-01",
+      "Price": 124.01
+    },
+    {
+      "Date": "2013-06-01",
+      "Price": 114.82
+    },
+    {
+      "Date": "2013-07-01",
+      "Price": 127.19
+    },
+    {
+      "Date": "2013-08-01",
+      "Price": 137.06
+    },
+    {
+      "Date": "2013-09-01",
+      "Price": 134.19
+    },
+    {
+      "Date": "2013-10-01",
+      "Price": 132.57
+    },
+    {
+      "Date": "2013-11-01",
+      "Price": 136.32
+    },
+    {
+      "Date": "2013-12-01",
+      "Price": 135.79
+    },
+    {
+      "Date": "2014-01-01",
+      "Price": 128.12
+    },
+    {
+      "Date": "2014-02-01",
+      "Price": 121.37
+    },
+    {
+      "Date": "2014-03-01",
+      "Price": 111.83
+    },
+    {
+      "Date": "2014-04-01",
+      "Price": 114.58
+    },
+    {
+      "Date": "2014-05-01",
+      "Price": 100.56
+    },
+    {
+      "Date": "2014-06-01",
+      "Price": 92.74
+    },
+    {
+      "Date": "2014-07-01",
+      "Price": 95.97
+    },
+    {
+      "Date": "2014-08-01",
+      "Price": 92.63
+    },
+    {
+      "Date": "2014-09-01",
+      "Price": 82.27
+    },
+    {
+      "Date": "2014-10-01",
+      "Price": 80.09
+    },
+    {
+      "Date": "2014-11-01",
+      "Price": 73.13
+    },
+    {
+      "Date": "2014-12-01",
+      "Price": 68.8
+    },
+    {
+      "Date": "2015-01-01",
+      "Price": 67.39
+    },
+    {
+      "Date": "2015-02-01",
+      "Price": 62.69
+    },
+    {
+      "Date": "2015-03-01",
+      "Price": 56.94
+    },
+    {
+      "Date": "2015-04-01",
+      "Price": 51.15
+    },
+    {
+      "Date": "2015-05-01",
+      "Price": 60.23
+    },
+    {
+      "Date": "2015-06-01",
+      "Price": 62.29
+    },
+    {
+      "Date": "2015-07-01",
+      "Price": 51.5
+    },
+    {
+      "Date": "2015-08-01",
+      "Price": 55.38
+    },
+    {
+      "Date": "2015-09-01",
+      "Price": 56.43
+    },
+    {
+      "Date": "2015-10-01",
+      "Price": 52.74
+    },
+    {
+      "Date": "2015-11-01",
+      "Price": 46.16
+    },
+    {
+      "Date": "2015-12-01",
+      "Price": 39.6
+    },
+    {
+      "Date": "2016-01-01",
+      "Price": 41.25
+    },
+    {
+      "Date": "2016-02-01",
+      "Price": 46.18
+    },
+    {
+      "Date": "2016-03-01",
+      "Price": 55.52
+    }
+];
+
+x_val3 = [];
+y_val3 = [];
+
+  for (var i = 0; i < ironOre.length; i++) {
+      	x_val3.push(ironOre[i]["Date"]);
+        y_val3.push(ironOre[i]["Price"]);
+      };
 
 // var trace2 = {
 //   x: ["2011-04-01",
@@ -517,10 +772,10 @@ var json2 = [
 // };
 
 
-var data = [{x:x_val, y:y_val, name: 'Gold (USD)', type: 'scatter'}, { x:x_val2, y:y_val2, name: 'Crude Oil (USD)', yaxis: 'y2', type: 'scatter'}];
+var data = [{x:x_val, y:y_val, name: 'Gold (USD)', type: 'scatter'}, { x:x_val2, y:y_val2, name: 'Crude Oil (USD)', yaxis: 'y2', type: 'scatter'}, {x:x_val3, y:y_val3, name: 'Iron Ore (USD)', type: 'scatter'}];
 
 var layout = {
-  title: 'Gold vs Crude Oil',
+  title: data[0]["name"] + " vs " + data[2]["name"],
   yaxis: {
           title: 'Gold Prices',
           titlefont: {color: 'rgb(39, 0, 170)'},

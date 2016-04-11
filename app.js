@@ -1,5 +1,7 @@
 var express = require("express");
 var app = express();
+var mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/tradist');
 var port = process.env.PORT || 3000;
 var router = require('./config/routes');
 var morgan = require('morgan');
