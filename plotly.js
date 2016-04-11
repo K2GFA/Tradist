@@ -10,8 +10,8 @@ var data = [{
   y: [42702133],
   x: [3.46]
 },{
-  name:"BP",
-  text: "British Petroleum",
+  name: "BP",
+  text: ["British Petroleum"],
   marker: {
     sizemode: "area",
     sizeref: 0.1,
@@ -24,7 +24,7 @@ var data = [{
 },
 {
   name: "SBUX",
-  text: "Starbucks",
+  text: ["Starbucks"],
   marker: {
     sizemode: "area",
     sizeref: 0.1,
