@@ -1,13 +1,13 @@
-var express = require('express');
-var router = express.Router();
-const data = require('../data.json');
-// var lease = require('../leases/lease');
-
-// INDEX
-router.get('/transactions',(req,res) =>
-{
-	res.json(data);
-})
+// var express = require('express');
+// var router = express.Router();
+// const data = require('../data.json');
+// // var lease = require('../leases/lease');
+//
+// // INDEX
+// router.get('/',(req,res) =>
+// {
+// 	res.json(data);
+// })
 
 // app.get('/api/highscores', (req,res) => {
 //   res.json(data);
