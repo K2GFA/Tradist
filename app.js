@@ -42,5 +42,9 @@ app.get('/heatmap', function(req, res) {
     res.render('heatmap');
 });
 
+app.get('/histogram', function(req, res) {
+    res.render('histogram');
+});
+
 app.listen(port);
 console.log(`server started on port ${port}`);
