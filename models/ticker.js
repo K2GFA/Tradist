@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var mongoose = require('mongoose');
 
 var tickerSchema = mongoose.Schema({
