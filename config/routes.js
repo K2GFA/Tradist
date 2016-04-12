@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-var Bubble = require("../models/bubbles");
+var Bubble = require("../models/bubble");
 
 // Bubble Chart.
 // Query the bubbles collection and return the bubbles json.
