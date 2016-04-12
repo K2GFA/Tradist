@@ -44,7 +44,7 @@ var data2 = [
     "5_yr_vol": 11992849,
     "5_yr_pchg": "5.43%"
   }
-]
+];
 
 var data = [{
   name: data2[0]["Counter"],

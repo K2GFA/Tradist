@@ -1,13 +1,23 @@
 var express = require('express');
 var router = express.Router();
-const data = require('../data.json');
 // var lease = require('../leases/lease');
 
-// INDEX
-router.get('/transactions',(req,res) =>
-{
-	res.json(data);
-})
+var Bubble = require("../models/bubbles");
+
+// Bubble Chart.
+// Query the bubbles collection and return the bubbles json.
+router.get('/bubbles', function(req,res) {
+		Bubble.find({}, function(err, stocks) {
+		if (err) res.json({Message: "Stocks cannot be found."});
+
+		res.json(stocks);
+		// res.render('index');
+		});
+});
+
+router.get('/bubblechart', function(req, res){
+		res.render('index.html');
+});
 
 // app.get('/api/highscores', (req,res) => {
 //   res.json(data);
