@@ -3,20 +3,21 @@ var app           = express();
 var port          = process.env.PORT || 3000;
 var ejs           = require("ejs");
 var path          = require("path");
-var router        = require('./config/routes');
+// var router        = require('./config/routes');
 var morgan        = require('morgan');
 var bodyParser    = require("body-parser");
 
 var mongoose      = require('mongoose');
 mongoose.connect('mongodb://localhost/tradist');
 
-var Bubble = require("./models/bubbles");
-var Ticker = require("./models/tickers");
+var Bubble = require("./models/bubble");
+var Ticker = require("./models/ticker");
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(morgan('dev'));
 // app.use('/api',router);
+app.use(express.static('public'));
 
 app.set('views', path.join(__dirname, 'views'));
 app.engine('html', require('ejs').renderFile);
@@ -46,6 +47,17 @@ app.get('/heatmap', function(req, res) {
 
 app.get('/histogram', function(req, res) {
     res.render('histogram');
+});
+
+app.get('/bubbles', function(req,res) {
+		Bubble.find({}, function(err, stocks) {
+		if (err) res.json({Message: "Stocks cannot be found."});
+		res.json(stocks);
+		});
+});
+
+app.get('/bubblechart', function(req, res){
+		res.render('index');
 });
 
 app.listen(port);
