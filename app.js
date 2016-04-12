@@ -10,8 +10,9 @@ var bodyParser    = require("body-parser");
 var mongoose      = require('mongoose');
 mongoose.connect('mongodb://localhost/tradist');
 
+var Bubble = require("./models/bubbles");
+var Ticker = require("./models/tickers");
 
-var Ticker = require('./models/Ticker');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(morgan('dev'));
@@ -37,6 +38,7 @@ app.get('/timeseries', function(req, res) {
 
 app.get('/candlestick', function(req, res) {
     res.render('candlestick');
+});
 
 app.get('/heatmap', function(req, res) {
     res.render('heatmap');

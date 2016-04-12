@@ -1,0 +1,50 @@
+[
+  {
+    "counter": "AAPL",
+    "name": "Apple",
+    "industry": "Technology",
+    "mkt_cap": 609.85,
+    "vol_3_mth": 42702133,
+    "pchg_3_mth": 3.46,
+    "vol_6_mth": 46946250,
+    "pchg_6_mth": 4.89,
+    "vol_1_yr": 51374077,
+    "pchg_1_yr": 5.48,
+    "vol_3_yr": 68097754,
+    "pchg_3_yr": 7.37,
+    "vol_5_yr": 94045497,
+    "pchg_5_yr": 7.10
+  },
+  {
+    "counter": "BP",
+    "name": "British Petroleum",
+    "industry": "Energy",
+    "mkt_cap": 99.1,
+    "vol_3_mth": 11972500,
+    "pchg_3_mth": 4.44,
+    "vol_6_mth": 10404267,
+    "pchg_6_mth": 5.96,
+    "vol_1_yr": 8635862,
+    "pchg_1_yr": 6.04,
+    "vol_3_yr": 7001922,
+    "pchg_3_yr": 4.75,
+    "vol_5_yr": 7301836,
+    "pchg_5_yr": 4.96
+  },
+  {
+    "counter": "SBUX",
+    "name": "Starbucks",
+    "industry": "Retail",
+    "mkt_cap": 90.19,
+    "vol_3_mth": 12922300,
+    "pchg_3_mth": 4.26,
+    "vol_6_mth": 11507067,
+    "pchg_6_mth": 4.08,
+    "vol_1_yr": 10060631,
+    "pchg_1_yr": 5.52,
+    "vol_3_yr": 9882154,
+    "pchg_3_yr": 5.32,
+    "vol_5_yr": 11992849,
+    "pchg_5_yr": 5.43
+  }
+]
