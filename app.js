@@ -42,17 +42,17 @@ app.get('/ticker/:name/:date', function(req, res) {
 //
 // });
 
-app.get('/ticker/:name', function(req, res) {
-    var data = {
-        "ticker": {
-            "name": req.params.name,
-            "date": req.params.date
-        }
-    };
-    console.log(data);
-    res.json(data);
-
-});
+// app.get('/ticker/:name', function(req, res) {
+//     var data = {
+//         "ticker": {
+//             "name": req.params.name,
+//             "date": req.params.date
+//         }
+//     };
+//     console.log(data);
+//     res.json(data);
+//
+// });
 
 app.listen(port);
 console.log(`server started on port ${port}`);
