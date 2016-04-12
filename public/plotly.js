@@ -47,7 +47,7 @@
 // ];
 
 $(document).ready(function() {
-    $.get("/api/bubbles", function(stocks) {
+    $.get("/bubbles", function(stocks) {
 
       var data = [];
       feedData();
