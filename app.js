@@ -1,13 +1,13 @@
-var express     = require("express");
-var app         = express();
-var port        = process.env.PORT || 3000;
-var ejs         = require('ejs');
-var path        = require('path');
-// var router = require('./config/routes');
-var morgan      = require('morgan');
-var bodyParser  = require('body-parser');
+var express       = require("express");
+var app           = express();
+var port          = process.env.PORT || 3000;
+var ejs           = require("ejs");
+var path          = require("path");
+// var router        = require('./config/routes');
+var morgan        = require('morgan');
+var bodyParser    = require("body-parser");
 
-var mongoose    = require('mongoose');
+var mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/tradist');
 
 var Ticker = require('./models/Ticker');
@@ -27,8 +27,13 @@ app.get('/api/ticker/:name', function(req, res) {
     res.json(data);
   });
 });
+
 app.get('/timeseries', function(req, res) {
     res.render('multiple');
+});
+
+app.get('/candlestick', function(req, res) {
+    res.render('candlestick');
 });
 
 app.listen(port);
