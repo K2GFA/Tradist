@@ -12,4 +12,5 @@ var tickerSchema = mongoose.Schema({
   volume: Number
 });
 
+
 module.exports = mongoose.model('Ticker', tickerSchema);
