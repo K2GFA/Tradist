@@ -9,13 +9,78 @@
 </head>
 
 <body>
-  <p>Histogram View</p>
+
+<select id="tickerSelector">
+  <option value="Apple">Apple</option>
+  <option value="British Petroleum">British Petroleum</option>
+  <option value="Chevron">Chevron</option>
+  <option value="Chipotle Mexican Grill">Chipotle Mexican Grill</option>
+  <option value="Alphabet">Google</option>
+  <option value="MacDonalds">MacDonalds</option>
+  <option value="Starbucks">Starbucks</option>
+  <option value="Yahoo">Yahoo</option>
+  <option value="Allergan">Allergan</option>
+  <option value="DJIA">Dow Jones Industrial</option>
+  <option value="Gold">Gold</option>
+  <option value="Crude Oil">Crude Oil</option>
+  <option value="Iron Ore">Iron Ore</option>
+  <option value="Coffee">Coffee</option>
+  <option value="Copper">Copper</option>
+  <option value="10YRT">10 Year Treasury Bonds</option>
+</select>
+    
+    
+    
   <div id="myDiv" style="width: 100%; height: 600px;"></div>
+
+
   <script>
+      
+       $('select').on('change', function() {
+           
+            console.log(tickerSelector.value);
+         
+        
+     $('select').on('change', function() {
+        test = this.value;
+         alert(test);
+         $.get({
+        url: '/api/ticker/' + test,
+        success: function (data) {
+                  console.log(data);
+                  makeplot(data, data[0].name);
+                  }
+        });   
+     });  
+           
+           
+           
+           
+           
+           
+           
+        test = this.value;
+         alert(test);
+         $.get({
+        url: '/api/ticker/' + test,
+        success: function (data) {
+                  console.log(data);
+                  makeplot(data, data[0].name);
+                  }
+        });   
+     });   
+        
+      
+      
+      
+
   $(document).ready(function() {
-    $.get('/api/ticker/Apple', function (data1) {
-      console.log(data1);
-      makeplot(data1);
+    $.get({
+        url: '/api/ticker/<%= stockName %>',
+        success: function (data1) {
+                  console.log(data1);
+                  makeplot(data1);
+                  }
     });
   });
 

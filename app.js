@@ -26,27 +26,30 @@ app.set('view engine', 'ejs');
 app.get('/api/ticker/:name', function(req, res) {
   Ticker.find({name: req.params.name}, function (err, data) {
     if(err) res.json({message: 'Could not find commodities b/c:' + err});
-
     // if this is just the API, we will respond this msg
     res.json(data);
   });
 });
 
-
-app.get('/timeseries', function(req, res) {
-    res.render('multiple');
+app.get('/home', function(req, res) {
+    res.render('home');
 });
 
-app.get('/candlestick', function(req, res) {
-    res.render('candlestick');
+
+app.get('/timeseries/:name1/:name2', function(req, res) {
+  res.render('multiple',{stockName1: req.params.name1, stockName2: req.params.name2});
+});
+
+app.get('/candlestick/:name', function(req, res) {
+    res.render('candlestick', {stockName: req.params.name});
 });
 
 app.get('/heatmap', function(req, res) {
     res.render('heatmap');
 });
 
-app.get('/histogram', function(req, res) {
-    res.render('histogram');
+app.get('/histogram/:name', function(req, res) {
+    res.render('histogram', {stockName: req.params.name});
 });
 
 app.get('/bubbles', function(req,res) {
@@ -62,3 +65,9 @@ app.get('/bubblechart', function(req, res){
 
 app.listen(port);
 console.log(`server started on port ${port}`);
+
+
+
+
+
+
