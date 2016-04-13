@@ -23,18 +23,22 @@ app.set('views', path.join(__dirname, 'views'));
 app.engine('html', require('ejs').renderFile);
 app.set('view engine', 'ejs');
 
-app.get('/api/ticker/:name', function(req, res) {
-  Ticker.find({name: req.params.name}, function (err, data) {
+app.get('/api/ticker/', function(req, res) {
+  Ticker.find({}, function (err, data) {
     if(err) res.json({message: 'Could not find commodities b/c:' + err});
-
     // if this is just the API, we will respond this msg
     res.json(data);
   });
 });
 
 
-app.get('/timeseries', function(req, res) {
-    res.render('multiple');
+app.get('/timeseries/:name1/:name2', function(req, res) {
+  console.log(req.params.name1);
+  console.log(req.params.name2);
+  Ticker.find({name: {$in: [req.params.name1, req.params.name2]}}, function(err, data) {
+    // console.log(data);
+    res.render('multiple',{datas: data});
+  });
 });
 
 app.get('/candlestick', function(req, res) {
