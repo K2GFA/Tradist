@@ -11,7 +11,6 @@
 
 <body>
   <div id="myDiv" style="width: 100%; height: 500px;"></div>
-  <% console.log(datas) %>
 </body>
 
 
@@ -19,63 +18,87 @@
 
 $(document).ready(function() {
 
-    // console.log(datas);
-//   var gold = {};
-//   var crudeOil = {};
-//
-//     gold = data1
-//     crudeOil = data2;
-//     plotMe(gold, crudeOil);
-//   });
-//
-//
-//     function plotMe(data1, data2){
-//
-//         x_val = [];
-//         y_val = [];
-//
-//
-//         console.log(data1[1]["date"]);
-//         for (var i = 0; i < data1.length; i++) {
-//             	x_val.push(data1[i]["date"]);
-//               y_val.push(data1[i]["price"]);
-//         };
-//
-//
-//         x_val2 = [];
-//         y_val2 = [];
-//
-//         for (var i = 0; i < data2.length; i++) {
-//               x_val2.push(data2[i]["date"]);
-//               y_val2.push(data2[i]["price"]);
-//             };
-//
-//         console.log(x_val2);
-//
-//         var dataCombine = [{x:x_val, y:y_val, name: gold[0].name, type: 'scatter'}, { x:x_val2, y:y_val2, name: crudeOil[0].name, yaxis: 'y2', type: 'scatter'}];
-//
-//         var layout = {
-//             title: gold[0]["name"] + " vs " + crudeOil[0]["name"],
-//             yaxis: {
-//                     title: gold[0].name + " Prices",
-//                     titlefont: {color: 'rgb(39, 0, 170)'},
-//                     tickfont: {color: 'rgb(89, 30, 250)'}
-//                   },
-//             yaxis2: {
-//               title: crudeOil[0].name + " Prices",
-//               titlefont: {color: 'rgb(255, 137, 0)'},
-//               tickfont: {color: 'rgb(186, 100, 0)'},
-//               overlaying: 'y',
-//               side: 'right'
-//             },
-//             xaxis: { title: "Date",
-//                     tickformat: "%x"
-//                    }
-//             };
-//
-//         Plotly.newPlot('myDiv', dataCombine, layout);
-//     };
-//
+  var type1 = {};
+  var type2 = {};
+
+  // $.get('/api/ticker/<%=stockName1%>', function(data1) {
+  //   console.log(data1);
+  //   type1 = data1;
+
+    $.get({
+        url: '/api/ticker/<%= stockName1 %>',
+        success: function (data1) {
+                    console.log(data1);
+                    type1 = data1;
+
+                    $.get({
+                        url: '/api/ticker/<%= stockName2 %>',
+                        success: function (data2) {
+                                    console.log(data2);
+                                    type2 = data2;
+                                    plotMe(type1, type2);
+                                  }
+                    });
+                  }
+    });
+
+  // $.get('/api/ticker/<%=stockName2%>', function(data2) {
+  //     console.log(data2)
+  //     type2 = data2;
+  //     plotMe(type1, type2);
+  //   });
+  // });
+
+
+    function plotMe(data1, data2){
+
+        x_val = [];
+        y_val = [];
+
+        for (var i = 0; i < data1.length; i++) {
+            	x_val.push(data1[i]["date"]);
+              y_val.push(data1[i]["price"]);
+        };
+
+
+        x_val2 = [];
+        y_val2 = [];
+
+        for (var i = 0; i < data2.length; i++) {
+              x_val2.push(data2[i]["date"]);
+              y_val2.push(data2[i]["price"]);
+        };
+
+        console.log(x_val);
+        console.log(y_val);
+
+        console.log(x_val2);
+        console.log(y_val2);
+
+        var dataCombine = [{x:x_val, y:y_val, name: type1[0].name, type: 'scatter'}, { x:x_val, y:y_val2, name: type2[0].name, yaxis: 'y2', type: 'scatter'}];
+
+        var layout = {
+            title: type1[0]["name"] + " vs " + type2[0]["name"],
+            yaxis: {
+                    title: type1[0].name + " Prices",
+                    titlefont: {color: 'rgb(39, 0, 170)'},
+                    tickfont: {color: 'rgb(89, 30, 250)'}
+                  },
+            yaxis2: {
+              title: type2[0].name + " Prices",
+              titlefont: {color: 'rgb(255, 137, 0)'},
+              tickfont: {color: 'rgb(186, 100, 0)'},
+              overlaying: 'y',
+              side: 'right'
+            },
+            xaxis: { title: "Date",
+                    tickformat: "%x"
+                   }
+            };
+
+        Plotly.newPlot('myDiv', dataCombine, layout);
+    };
+
 });
 
   </script>

@@ -9,8 +9,6 @@
 </head>
 <body>
 
-  <p>Candlestick Test</p>
-
   <div id="myDiv" style="width: 100%; height: 600px;"><!-- Plotly chart will be drawn inside this DIV --></div>
 
   <!-- <div id="tester" style="width:800px;height:400px;"></div> -->
@@ -19,14 +17,17 @@
 
   $(document).ready(function() {
 
-    $.get( '/api/ticker/Starbucks', function( data ) {
-      console.log(data);
-      makeplot(data);
+    $.get({
+        url: '/api/ticker/<%= stockName %>',
+        success: function (data) {
+                  console.log(data);
+                  makeplot(data, data[0].name);
+                  }
     });
 
   });
 
-  function makeplot(data) {
+  function makeplot(data, name) {
     var data_open = [], data_close = [], data_high = [], data_low = [], data_dates = [];
 
     for (var i=0; i<data.length; i++) {
@@ -39,12 +40,12 @@
          return new Date(d[0], d[1]-1, d[2].substring(0,1));
        }))
     }
-    makePlotly( data_open, data_close, data_high, data_low, data_dates);
+    makePlotly( data_open, data_close, data_high, data_low, data_dates, name);
     console.log(data_dates.length);
 
 };
 
-function makePlotly( data_open, data_close, data_high, data_low, data_dates){
+function makePlotly( data_open, data_close, data_high, data_low, data_dates, name){
   var dateArray = []
 
   data_dates.forEach(function(e){
@@ -60,6 +61,13 @@ function makePlotly( data_open, data_close, data_high, data_low, data_dates){
     close: data_close,
     dates: dateArray
   });
+
+  console.log(dateArray);
+  console.log(data_close);
+
+  fig.layout.title = name + " Prices between " + data_dates[data_dates.length-1].toString().substring(0,15) + " and " + data_dates[0].toString().substring(0,15);
+  fig.layout.xaxis.title = 'Dates';
+  fig.layout.yaxis.title = 'Price';
 
   Plotly.newPlot('myDiv', fig.data, fig.layout);
 };
