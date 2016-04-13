@@ -1,21 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Tradist - your porfolio, visualized</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <!-- <link rel="stylesheet" href="css/style.css"> -->
-</head>
-<body>
-  <h1>Tradist</h1>
-  <div class="container">
-    Your portfolio, visualized
-  </div>
+  <head>
+    <meta charset="UTF-8">
+    <title>Tradist - your porfolio, visualized</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.rawgit.com/etpinard/plotlyjs-finance/master/plotlyjs-finance.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  </head>
 
-  <hr>
-  <div class="container">
-    <% include ./partials/form.ejs %>
-  </div>
+  <body>
 
-</body>
+      <div class="col-md-3" id="side-nav-bar">
+        <div id="side-menu">
+          <ul>Profile
+            <li>Name</li>
+            <li>Account Type</li>
+          </ul>
+          <ul>Charts
+            <li><a href="">Candlestick</a></li>
+            <li><a href="">Heatmap</a></li>
+            <li><a href="">Histogram</a></li>
+            <li><a href="">Time Series</a></li>
+            <li><a href="">Bubble</a></li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="col-md-9">
+
+          <h1>Tradist</h1>
+
+          <div class="jumbotron">
+            Your portfolio, visualized
+          </div>
+
+          <div class="jumbotron">
+            <% include ./partials/form.ejs %>
+          </div>
+
+          <div class="jumbotron">
+            <% include ./partials/candlestick.ejs %>
+          </div>
+
+          <div class="jumbotron">
+            <% include ./partials/heatmap.ejs %>
+          </div>
+
+          <div class="jumbotron">
+            <% include ./partials/histogram.ejs %>
+          </div>
+
+          <div class="jumbotron">
+            <% include ./partials/multiple.ejs %>
+          </div>
+
+      </div>
+
+  </body>
 </html>

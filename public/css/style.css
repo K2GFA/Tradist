@@ -1,0 +1,25 @@
+body {
+  background-color: whitesmoke;
+}
+
+#side-nav-bar {
+  background-color: #2A3F54;
+  min-height: 3400px;
+  max-width: 300px;
+  color: white;
+}
+
+#side-menu {
+  margin-top: 100px;
+  background-color: #111921;
+}
+
+#side-menu ul {
+  list-style-type: none;
+  font-size: 1.5em;
+}
+
+#side-menu li {
+  list-style-type: none;
+  font-size: 0.8em;
+}

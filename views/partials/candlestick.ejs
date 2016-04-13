@@ -1,0 +1,54 @@
+  <p>Candlestick Test</p>
+
+  <div id="candlestick" style="width: 100%; height: 600px;"></div>
+
+  <script>
+
+          $(document).ready(function() {
+
+            $.get( '/api/ticker/Starbucks', function( data ) {
+              console.log(data);
+              makePlotForCandlestick(data);
+            });
+
+          });
+
+          function makePlotForCandlestick(data) {
+            var data_open = [], data_close = [], data_high = [], data_low = [], data_dates = [];
+
+            for (var i=0; i<data.length; i++) {
+               var data_obj = data[i];
+               data_close.push(parseFloat(data_obj["close"]));
+               data_high.push(parseFloat(data_obj["high"]));
+               data_low.push(parseFloat(data_obj["low"]));
+               data_open.push(parseFloat(data_obj["open"]));
+               data_dates.push([data_obj["date"].split("-")].map(function(d) {
+                 return new Date(d[0], d[1]-1, d[2].substring(0,1));
+               }))
+            }
+            makePlotly( data_open, data_close, data_high, data_low, data_dates);
+            console.log(data_dates.length);
+
+        };
+
+        function makePlotly( data_open, data_close, data_high, data_low, data_dates){
+          var dateArray = []
+
+          data_dates.forEach(function(e){
+            dateArray.push(e[0])
+          })
+
+          console.log(dateArray[1]);
+
+          var fig = PlotlyFinance.createCandlestick({
+            open: data_open,
+            high: data_high,
+            low: data_low,
+            close: data_close,
+            dates: dateArray
+          });
+
+          Plotly.newPlot('candlestick', fig.data, fig.layout);
+        };
+
+    </script>

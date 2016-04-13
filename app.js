@@ -37,8 +37,12 @@ app.get('/timeseries', function(req, res) {
     res.render('multiple');
 });
 
-app.get('/candlestick', function(req, res) {
-    res.render('candlestick');
+// app.get('/candlestick', function(req, res) {
+//     res.render('candlestick');
+// });
+
+app.get('/candlestick/:name', function(req, res) {
+    res.render('candlestick', {stockName: req.params.name});
 });
 
 app.get('/heatmap', function(req, res) {
@@ -61,7 +65,7 @@ app.get('/bubblechart', function(req, res){
 });
 
 // INDEX, with form
-app.get('/tickers', function(req, res) {
+app.get('/home', function(req, res) {
     res.render('layout');
 });
 
