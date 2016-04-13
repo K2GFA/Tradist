@@ -1,641 +1,14 @@
 [
   {
     "name": "Apple",
-    "date": "2016-04-01",
-    "open": 108.78,
-    "high": 110,
-    "low": 108.2,
-    "close": 109.99,
-    "volume": 51252400,
-    "price": 109.99,
-    "monthly_difference": "0.82%"
-  },
-  {
-    "name": "Apple",
-    "date": "2016-03-01",
-    "open": 97.65,
-    "high": 110.42,
-    "low": 97.42,
-    "close": 108.99,
-    "volume": 34835400,
-    "price": 108.99,
-    "monthly_difference": "6.25%"
-  },
-  {
-    "name": "Apple",
-    "date": "2016-02-01",
-    "open": 96.47,
-    "high": 98.89,
-    "low": 92.59,
-    "close": 96.69,
-    "volume": 42018600,
-    "price": 96.69,
-    "monthly_difference": "3.29%"
-  },
-  {
-    "name": "Apple",
-    "date": "2016-01-04",
-    "open": 102.61,
-    "high": 105.85,
-    "low": 92.39,
-    "close": 97.34,
-    "volume": 70329700,
-    "price": 96.81,
-    "monthly_difference": "6.79%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-12-01",
-    "open": 118.75,
-    "high": 119.86,
-    "low": 104.82,
-    "close": 105.26,
-    "volume": 43750400,
-    "price": 104.69,
-    "monthly_difference": "6.69%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-11-02",
-    "open": 120.8,
-    "high": 123.82,
-    "low": 111,
-    "close": 118.3,
-    "volume": 39491000,
-    "price": 117.66,
-    "monthly_difference": "5.46%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-10-01",
-    "open": 109.07,
-    "high": 121.22,
-    "low": 107.31,
-    "close": 119.5,
-    "volume": 52797300,
-    "price": 118.35,
-    "monthly_difference": "6.09%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-09-01",
-    "open": 110.15,
-    "high": 116.89,
-    "low": 107.36,
-    "close": 110.3,
-    "volume": 60620000,
-    "price": 109.24,
-    "monthly_difference": "4.25%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-08-03",
-    "open": 121.5,
-    "high": 122.57,
-    "low": 92,
-    "close": 112.76,
-    "volume": 79152700,
-    "price": 111.67,
-    "monthly_difference": "14.25%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-07-01",
-    "open": 126.9,
-    "high": 132.97,
-    "low": 119.22,
-    "close": 121.3,
-    "volume": 50017800,
-    "price": 119.59,
-    "monthly_difference": "5.45%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-06-01",
-    "open": 130.28,
-    "high": 131.39,
-    "low": 124.48,
-    "close": 125.43,
-    "volume": 41949200,
-    "price": 123.66,
-    "monthly_difference": "2.70%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-05-01",
-    "open": 126.1,
-    "high": 132.97,
-    "low": 123.36,
-    "close": 130.28,
-    "volume": 50251800,
-    "price": 128.44,
-    "monthly_difference": "3.75%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-04-01",
-    "open": 124.82,
-    "high": 134.54,
-    "low": 123.1,
-    "close": 125.15,
-    "volume": 51396700,
-    "price": 122.87,
-    "monthly_difference": "4.44%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-03-02",
-    "open": 129.25,
-    "high": 130.28,
-    "low": 121.63,
-    "close": 124.43,
-    "volume": 53669600,
-    "price": 122.17,
-    "monthly_difference": "3.43%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-02-02",
-    "open": 118.05,
-    "high": 133.6,
-    "low": 116.08,
-    "close": 128.46,
-    "volume": 63081500,
-    "price": 126.12,
-    "monthly_difference": "7.02%"
-  },
-  {
-    "name": "Apple",
-    "date": "2015-01-02",
-    "open": 111.39,
-    "high": 120,
-    "low": 104.63,
-    "close": 117.16,
-    "volume": 69419400,
-    "price": 114.58,
-    "monthly_difference": "6.84%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-12-01",
-    "open": 118.81,
-    "high": 119.25,
-    "low": 106.26,
-    "close": 110.38,
-    "volume": 50681700,
-    "price": 107.95,
-    "monthly_difference": "5.76%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-11-03",
-    "open": 108.22,
-    "high": 119.75,
-    "low": 107.72,
-    "close": 118.93,
-    "volume": 44485400,
-    "price": 116.31,
-    "monthly_difference": "5.29%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-10-01",
-    "open": 100.59,
-    "high": 108.04,
-    "low": 95.18,
-    "close": 108,
-    "volume": 61083400,
-    "price": 105.16,
-    "monthly_difference": "6.33%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-09-02",
-    "open": 103.06,
-    "high": 103.74,
-    "low": 96.14,
-    "close": 100.75,
-    "volume": 75318200,
-    "price": 98.1,
-    "monthly_difference": "3.80%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-08-01",
-    "open": 94.9,
-    "high": 102.9,
-    "low": 93.28,
-    "close": 102.5,
-    "volume": 46746200,
-    "price": 99.81,
-    "monthly_difference": "4.90%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-07-01",
-    "open": 93.52,
-    "high": 99.44,
-    "low": 92.57,
-    "close": 95.6,
-    "volume": 49633100,
-    "price": 92.63,
-    "monthly_difference": "3.58%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-06-02",
-    "open": 633.96,
-    "high": 651.26,
-    "low": 89.65,
-    "close": 92.93,
-    "volume": 59829300,
-    "price": 90.04,
-    "monthly_difference": "75.80%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-05-01",
-    "open": 592,
-    "high": 644.17,
-    "low": 580.33,
-    "close": 633,
-    "volume": 74996300,
-    "price": 87.62,
-    "monthly_difference": "5.21%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-04-01",
-    "open": 537.76,
-    "high": 599.43,
-    "low": 511.33,
-    "close": 590.09,
-    "volume": 82044000,
-    "price": 81.22,
-    "monthly_difference": "7.93%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-03-03",
-    "open": 523.42,
-    "high": 549,
-    "low": 522.81,
-    "close": 536.74,
-    "volume": 61552000,
-    "price": 73.88,
-    "monthly_difference": "2.44%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-02-03",
-    "open": 502.61,
-    "high": 551.19,
-    "low": 499.3,
-    "close": 526.24,
-    "volume": 82267500,
-    "price": 72.43,
-    "monthly_difference": "4.94%"
-  },
-  {
-    "name": "Apple",
-    "date": "2014-01-02",
-    "open": 555.68,
-    "high": 560.2,
-    "low": 493.55,
-    "close": 500.6,
-    "volume": 109889900,
-    "price": 68.5,
-    "monthly_difference": "6.33%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-12-02",
-    "open": 558,
-    "high": 575.14,
-    "low": 538.8,
-    "close": 561.02,
-    "volume": 86672400,
-    "price": 76.76,
-    "monthly_difference": "3.26%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-11-01",
-    "open": 524.02,
-    "high": 558.33,
-    "low": 512.38,
-    "close": 556.07,
-    "volume": 69291000,
-    "price": 76.09,
-    "monthly_difference": "4.29%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-10-01",
-    "open": 478.45,
-    "high": 539.25,
-    "low": 478.28,
-    "close": 522.7,
-    "volume": 88189400,
-    "price": 71.1,
-    "monthly_difference": "5.99%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-09-03",
-    "open": 493.1,
-    "high": 507.92,
-    "low": 447.22,
-    "close": 476.75,
-    "volume": 111138700,
-    "price": 64.85,
-    "monthly_difference": "6.36%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-08-01",
-    "open": 455.75,
-    "high": 513.74,
-    "low": 453.26,
-    "close": 487.22,
-    "volume": 94666300,
-    "price": 66.28,
-    "monthly_difference": "6.25%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-07-01",
-    "open": 402.69,
-    "high": 457.34,
-    "low": 401.22,
-    "close": 452.53,
-    "volume": 77966700,
-    "price": 61.15,
-    "monthly_difference": "6.54%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-06-03",
-    "open": 450.73,
-    "high": 454.43,
-    "low": 388.87,
-    "close": 396.53,
-    "volume": 94963100,
-    "price": 53.59,
-    "monthly_difference": "7.77%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-05-01",
-    "open": 444.46,
-    "high": 465.75,
-    "low": 418.9,
-    "close": 449.73,
-    "volume": 111725300,
-    "price": 60.78,
-    "monthly_difference": "5.30%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-04-01",
-    "open": 441.9,
-    "high": 445.25,
-    "low": 385.1,
-    "close": 442.78,
-    "volume": 132443500,
-    "price": 59.44,
-    "monthly_difference": "7.24%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-03-01",
-    "open": 438,
-    "high": 469.95,
-    "low": 419,
-    "close": 442.66,
-    "volume": 120246400,
-    "price": 59.43,
-    "monthly_difference": "5.73%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-02-01",
-    "open": 459.11,
-    "high": 484.94,
-    "low": 437.66,
-    "close": 441.4,
-    "volume": 127191400,
-    "price": 59.26,
-    "monthly_difference": "5.12%"
-  },
-  {
-    "name": "Apple",
-    "date": "2013-01-02",
-    "open": 553.82,
-    "high": 555,
-    "low": 435,
-    "close": 455.49,
-    "volume": 160032800,
-    "price": 60.8,
-    "monthly_difference": "12.12%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-12-03",
-    "open": 593.65,
-    "high": 594.59,
-    "low": 501.23,
-    "close": 532.17,
-    "volume": 159903000,
-    "price": 71.03,
-    "monthly_difference": "8.52%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-11-01",
-    "open": 598.22,
-    "high": 603,
-    "low": 505.75,
-    "close": 585.28,
-    "volume": 158585300,
-    "price": 78.12,
-    "monthly_difference": "8.77%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-10-01",
-    "open": 671.16,
-    "high": 676.75,
-    "low": 587.7,
-    "close": 595.32,
-    "volume": 150628900,
-    "price": 79.1,
-    "monthly_difference": "7.04%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-09-04",
-    "open": 665.76,
-    "high": 705.07,
-    "low": 656,
-    "close": 667.1,
-    "volume": 128080400,
-    "price": 88.64,
-    "monthly_difference": "3.61%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-08-01",
-    "open": 615.91,
-    "high": 680.87,
-    "low": 600.25,
-    "close": 665.24,
-    "volume": 93636100,
-    "price": 88.39,
-    "monthly_difference": "6.29%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-07-02",
-    "open": 584.73,
-    "high": 619.87,
-    "low": 570,
-    "close": 610.76,
-    "volume": 111571100,
-    "price": 80.8,
-    "monthly_difference": "4.19%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-06-01",
-    "open": 569.16,
-    "high": 590,
-    "low": 548.5,
-    "close": 584,
-    "volume": 98539600,
-    "price": 77.26,
-    "monthly_difference": "3.65%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-05-01",
-    "open": 584.9,
-    "high": 596.76,
-    "low": 522.18,
-    "close": 577.73,
-    "volume": 131795600,
-    "price": 76.43,
-    "monthly_difference": "6.67%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-04-02",
-    "open": 601.83,
-    "high": 644,
-    "low": 555,
-    "close": 583.98,
-    "volume": 201314100,
-    "price": 77.26,
-    "monthly_difference": "7.42%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-03-01",
-    "open": 548.17,
-    "high": 621.45,
-    "low": 516.22,
-    "close": 599.55,
-    "volume": 185402000,
-    "price": 79.32,
-    "monthly_difference": "9.25%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-02-01",
-    "open": 458.41,
-    "high": 547.61,
-    "low": 453.98,
-    "close": 542.44,
-    "volume": 154007000,
-    "price": 71.76,
-    "monthly_difference": "9.35%"
-  },
-  {
-    "name": "Apple",
-    "date": "2012-01-03",
-    "open": 409.4,
-    "high": 458.24,
-    "low": 409,
-    "close": 456.48,
-    "volume": 90644200,
-    "price": 60.39,
-    "monthly_difference": "5.68%"
-  },
-  {
-    "name": "Apple",
-    "date": "2011-12-01",
-    "open": 382.54,
-    "high": 409.09,
-    "low": 377.68,
-    "close": 405,
-    "volume": 77216600,
-    "price": 53.58,
-    "monthly_difference": "3.99%"
-  },
-  {
-    "name": "Apple",
-    "date": "2011-11-01",
-    "open": 397.41,
-    "high": 408,
-    "low": 363.32,
-    "close": 382.2,
-    "volume": 111543300,
-    "price": 50.56,
-    "monthly_difference": "5.79%"
-  },
-  {
-    "name": "Apple",
-    "date": "2011-10-03",
-    "open": 380.37,
-    "high": 426.7,
-    "low": 354.24,
-    "close": 404.78,
-    "volume": 161034800,
-    "price": 53.55,
-    "monthly_difference": "9.28%"
-  },
-  {
-    "name": "Apple",
-    "date": "2011-09-01",
-    "open": 385.82,
-    "high": 422.86,
-    "low": 366.48,
-    "close": 381.32,
-    "volume": 149108200,
-    "price": 50.45,
-    "monthly_difference": "7.14%"
-  },
-  {
-    "name": "Apple",
-    "date": "2011-08-01",
-    "open": 397.78,
-    "high": 399.5,
-    "low": 353.02,
-    "close": 384.83,
-    "volume": 181143300,
-    "price": 50.91,
-    "monthly_difference": "6.18%"
-  },
-  {
-    "name": "Apple",
-    "date": "2011-07-01",
-    "open": 335.95,
-    "high": 404.5,
-    "low": 334.2,
-    "close": 390.48,
-    "volume": 141081600,
-    "price": 51.66,
-    "monthly_difference": "9.52%"
+    "date": "2011-05-02",
+    "open": 349.74,
+    "high": 351.83,
+    "low": 329.42,
+    "close": 347.83,
+    "volume": 87259700,
+    "price": 46.02,
+    "monthly_difference": 3.29
   },
   {
     "name": "Apple",
@@ -646,678 +19,656 @@
     "close": 335.67,
     "volume": 108940900,
     "price": 44.41,
-    "monthly_difference": "6.28%"
+    "monthly_difference": 6.28
   },
   {
     "name": "Apple",
-    "date": "2011-05-02",
-    "open": 349.74,
-    "high": 351.83,
-    "low": 329.42,
-    "close": 347.83,
-    "volume": 87259700,
-    "price": 46.02,
-    "monthly_difference": "3.29%"
-  },
-  {
-    "name": "Apple",
-    "date": "2011-04-01",
-    "open": 351.11,
-    "high": 355.13,
-    "low": 320.16,
-    "close": 350.13,
-    "volume": 128252100,
-    "price": 46.32,
-    "monthly_difference": "5.18%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2016-04-01",
-    "open": 29.29,
-    "high": 29.64,
-    "low": 29.23,
-    "close": 29.57,
-    "volume": 17771800,
-    "price": 29.57,
-    "monthly_difference": "0.70%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2016-03-01",
-    "open": 29.45,
-    "high": 31.74,
-    "low": 29.1,
-    "close": 30.18,
-    "volume": 7950800,
-    "price": 30.18,
-    "monthly_difference": "4.34%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2016-02-01",
-    "open": 31.18,
-    "high": 31.89,
-    "low": 27.01,
-    "close": 29.09,
-    "volume": 10194900,
-    "price": 29.09,
-    "monthly_difference": "8.29%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2016-01-04",
-    "open": 30.8,
-    "high": 32.38,
-    "low": 27.56,
-    "close": 32.37,
-    "volume": 11626200,
-    "price": 31.7,
-    "monthly_difference": "8.04%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-12-01",
-    "open": 34.77,
-    "high": 34.95,
-    "low": 29.9,
-    "close": 31.26,
-    "volume": 8660700,
-    "price": 30.61,
-    "monthly_difference": "7.79%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-11-02",
-    "open": 35.64,
-    "high": 37.53,
-    "low": 32.89,
-    "close": 34.6,
-    "volume": 6221200,
-    "price": 33.88,
-    "monthly_difference": "6.59%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-10-01",
-    "open": 31.66,
-    "high": 36.31,
-    "low": 30.78,
-    "close": 35.7,
-    "volume": 8795800,
-    "price": 34.4,
-    "monthly_difference": "8.24%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-09-01",
-    "open": 32.37,
-    "high": 32.89,
-    "low": 29.35,
-    "close": 30.56,
-    "volume": 9607000,
-    "price": 29.44,
-    "monthly_difference": "5.69%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-08-03",
-    "open": 36.63,
-    "high": 36.85,
-    "low": 30.53,
-    "close": 33.54,
-    "volume": 8201700,
-    "price": 32.32,
-    "monthly_difference": "9.38%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-07-01",
-    "open": 39.65,
-    "high": 41.52,
-    "low": 35.87,
-    "close": 36.97,
-    "volume": 6676000,
-    "price": 35.04,
-    "monthly_difference": "7.30%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-06-01",
-    "open": 41.18,
-    "high": 42.2,
-    "low": 39.7,
-    "close": 39.96,
-    "volume": 4741000,
-    "price": 37.87,
-    "monthly_difference": "3.05%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-05-01",
-    "open": 42.82,
-    "high": 43.85,
-    "low": 41.21,
-    "close": 41.46,
-    "volume": 4477200,
-    "price": 39.29,
-    "monthly_difference": "3.10%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-04-01",
-    "open": 39.38,
-    "high": 43.83,
-    "low": 39.27,
-    "close": 43.16,
-    "volume": 7341900,
-    "price": 40.33,
-    "monthly_difference": "5.49%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-03-02",
-    "open": 41.18,
-    "high": 41.88,
-    "low": 36.88,
-    "close": 39.11,
-    "volume": 6508000,
-    "price": 36.55,
-    "monthly_difference": "6.35%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-02-02",
-    "open": 39.4,
-    "high": 42.1,
-    "low": 39.19,
-    "close": 41.44,
-    "volume": 7079800,
-    "price": 38.72,
-    "monthly_difference": "3.58%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2015-01-02",
-    "open": 38.21,
-    "high": 40.44,
-    "low": 34.93,
-    "close": 38.83,
-    "volume": 10077100,
-    "price": 35.76,
-    "monthly_difference": "7.31%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-12-01",
-    "open": 39.62,
-    "high": 41.59,
-    "low": 34.88,
-    "close": 38.12,
-    "volume": 10698400,
-    "price": 35.1,
-    "monthly_difference": "8.77%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-11-03",
-    "open": 42.94,
-    "high": 43.08,
-    "low": 39.19,
-    "close": 39.32,
-    "volume": 6696400,
-    "price": 36.21,
-    "monthly_difference": "4.73%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-10-01",
-    "open": 43.84,
-    "high": 44.14,
-    "low": 39.45,
-    "close": 43.46,
-    "volume": 7259500,
-    "price": 39.45,
-    "monthly_difference": "5.61%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-09-02",
-    "open": 47.57,
-    "high": 48.11,
-    "low": 43.8,
-    "close": 43.95,
-    "volume": 9599900,
-    "price": 39.89,
-    "monthly_difference": "4.69%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-08-01",
-    "open": 48.66,
-    "high": 49.39,
-    "low": 46.77,
-    "close": 47.84,
-    "volume": 4680900,
-    "price": 43.42,
-    "monthly_difference": "2.72%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-07-01",
-    "open": 52.9,
-    "high": 53.48,
-    "low": 48.7,
-    "close": 48.97,
-    "volume": 4246000,
-    "price": 43.91,
-    "monthly_difference": "4.68%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-06-02",
-    "open": 50.76,
-    "high": 53.48,
-    "low": 49.87,
-    "close": 52.75,
-    "volume": 3447100,
-    "price": 47.3,
-    "monthly_difference": "3.49%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-05-01",
-    "open": 50.56,
-    "high": 51.56,
-    "low": 50.21,
-    "close": 50.45,
-    "volume": 4193500,
-    "price": 45.24,
-    "monthly_difference": "1.33%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-04-01",
-    "open": 48.31,
-    "high": 50.77,
-    "low": 47.14,
-    "close": 50.62,
-    "volume": 4637400,
-    "price": 44.87,
-    "monthly_difference": "3.71%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-03-03",
-    "open": 49.39,
-    "high": 49.87,
-    "low": 46.29,
-    "close": 48.1,
-    "volume": 6344000,
-    "price": 42.64,
-    "monthly_difference": "3.72%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-02-03",
-    "open": 46.73,
-    "high": 51.02,
-    "low": 45.83,
-    "close": 50.61,
-    "volume": 5753100,
-    "price": 44.86,
-    "monthly_difference": "5.36%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2014-01-02",
-    "open": 48.43,
-    "high": 49.2,
-    "low": 46.62,
-    "close": 46.89,
-    "volume": 6146900,
-    "price": 41.08,
-    "monthly_difference": "2.69%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-12-02",
-    "open": 46.73,
-    "high": 48.65,
-    "low": 45.3,
-    "close": 48.61,
-    "volume": 4200300,
-    "price": 42.58,
-    "monthly_difference": "3.57%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-11-01",
-    "open": 46.47,
-    "high": 48.03,
-    "low": 45.72,
-    "close": 47.01,
-    "volume": 5353200,
-    "price": 41.18,
-    "monthly_difference": "2.46%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-10-01",
-    "open": 41.95,
-    "high": 46.65,
-    "low": 41.3,
-    "close": 46.5,
-    "volume": 7452500,
-    "price": 40.24,
-    "monthly_difference": "6.08%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-09-03",
-    "open": 41.39,
-    "high": 42.86,
-    "low": 41.08,
-    "close": 42.03,
-    "volume": 4425500,
-    "price": 36.37,
-    "monthly_difference": "2.12%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-08-01",
-    "open": 41.57,
-    "high": 42.22,
-    "low": 40.51,
-    "close": 41.3,
-    "volume": 4375700,
-    "price": 35.74,
-    "monthly_difference": "2.07%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-07-01",
-    "open": 41.98,
-    "high": 43.75,
-    "low": 40.68,
-    "close": 41.44,
-    "volume": 6426000,
-    "price": 35.4,
-    "monthly_difference": "3.64%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-06-03",
-    "open": 43.08,
-    "high": 43.47,
-    "low": 41.16,
-    "close": 41.74,
-    "volume": 4987400,
-    "price": 35.66,
-    "monthly_difference": "2.73%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-05-01",
-    "open": 43.77,
-    "high": 44.27,
-    "low": 42.63,
-    "close": 42.91,
-    "volume": 5219300,
-    "price": 36.66,
-    "monthly_difference": "1.89%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-04-01",
-    "open": 42.35,
-    "high": 43.73,
-    "low": 40.12,
-    "close": 43.6,
-    "volume": 6997000,
-    "price": 36.79,
-    "monthly_difference": "4.31%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-03-01",
-    "open": 40.17,
-    "high": 42.41,
-    "low": 39.99,
-    "close": 42.35,
-    "volume": 6565800,
-    "price": 35.73,
-    "monthly_difference": "2.94%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-02-01",
-    "open": 44.65,
-    "high": 44.96,
-    "low": 40.16,
-    "close": 40.4,
-    "volume": 9861500,
-    "price": 34.09,
-    "monthly_difference": "5.64%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2013-01-02",
-    "open": 42.45,
-    "high": 45.45,
-    "low": 42.05,
-    "close": 44.52,
-    "volume": 6290700,
-    "price": 37.1,
-    "monthly_difference": "3.89%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-12-03",
-    "open": 41.71,
-    "high": 42.31,
-    "low": 40.81,
-    "close": 41.64,
-    "volume": 4974700,
-    "price": 34.7,
-    "monthly_difference": "1.80%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-11-01",
-    "open": 43.21,
-    "high": 43.24,
-    "low": 39.58,
-    "close": 41.76,
-    "volume": 5771800,
-    "price": 34.8,
-    "monthly_difference": "4.42%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-10-01",
-    "open": 42.42,
-    "high": 43.9,
-    "low": 41.27,
-    "close": 42.89,
-    "volume": 6275800,
-    "price": 35.29,
-    "monthly_difference": "3.09%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-09-04",
-    "open": 42.11,
-    "high": 44.16,
-    "low": 40.33,
-    "close": 42.36,
-    "volume": 5770300,
-    "price": 34.85,
-    "monthly_difference": "4.53%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-08-01",
-    "open": 39.8,
-    "high": 42.87,
-    "low": 39.5,
-    "close": 42.06,
-    "volume": 4253200,
-    "price": 34.61,
-    "monthly_difference": "4.09%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-07-02",
-    "open": 40.57,
-    "high": 42.05,
-    "low": 39.13,
-    "close": 39.9,
-    "volume": 6394100,
-    "price": 32.46,
-    "monthly_difference": "3.60%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-06-01",
-    "open": 37.13,
-    "high": 40.59,
-    "low": 36.25,
-    "close": 40.54,
-    "volume": 7058700,
-    "price": 32.98,
-    "monthly_difference": "5.65%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-05-01",
-    "open": 42.54,
-    "high": 43.13,
-    "low": 36.25,
-    "close": 36.46,
-    "volume": 7676400,
-    "price": 29.66,
-    "monthly_difference": "8.67%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-04-02",
-    "open": 44.64,
-    "high": 45.6,
-    "low": 41.34,
-    "close": 43.41,
-    "volume": 6204100,
-    "price": 34.9,
-    "monthly_difference": "4.90%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-03-01",
-    "open": 47.31,
-    "high": 48.34,
-    "low": 43.65,
-    "close": 45,
-    "volume": 8078300,
-    "price": 36.17,
-    "monthly_difference": "5.10%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-02-01",
-    "open": 45.81,
-    "high": 48,
-    "low": 45.22,
-    "close": 47.16,
-    "volume": 10555200,
-    "price": 37.91,
-    "monthly_difference": "2.98%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2012-01-03",
-    "open": 43.79,
-    "high": 46.03,
-    "low": 42.84,
-    "close": 45.91,
-    "volume": 8630700,
-    "price": 36.52,
-    "monthly_difference": "3.59%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2011-12-01",
-    "open": 43.18,
-    "high": 44.26,
-    "low": 40.4,
-    "close": 42.74,
-    "volume": 5220600,
-    "price": 34,
-    "monthly_difference": "4.56%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2011-11-01",
-    "open": 41.91,
-    "high": 44.89,
-    "low": 39.41,
-    "close": 43.55,
-    "volume": 7519500,
-    "price": 34.65,
-    "monthly_difference": "6.50%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2011-10-03",
-    "open": 35.89,
-    "high": 45.84,
-    "low": 33.62,
-    "close": 44.18,
-    "volume": 10661100,
-    "price": 34.8,
-    "monthly_difference": "15.38%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2011-09-01",
-    "open": 38.73,
-    "high": 39.72,
-    "low": 35.1,
-    "close": 36.07,
-    "volume": 11496900,
-    "price": 28.41,
-    "monthly_difference": "6.17%"
-  },
-  {
-    "name": "British Petroleum",
-    "date": "2011-08-01",
-    "open": 45.95,
-    "high": 46.03,
-    "low": 36.8,
-    "close": 39.39,
-    "volume": 12459300,
-    "price": 31.03,
-    "monthly_difference": "11.14%"
-  },
-  {
-    "name": "British Petroleum",
     "date": "2011-07-01",
-    "open": 43.94,
-    "high": 47.09,
-    "low": 43.31,
-    "close": 45.44,
-    "volume": 9713900,
-    "price": 35.45,
-    "monthly_difference": "4.18%"
+    "open": 335.95,
+    "high": 404.5,
+    "low": 334.2,
+    "close": 390.48,
+    "volume": 141081600,
+    "price": 51.66,
+    "monthly_difference": 9.52
+  },
+  {
+    "name": "Apple",
+    "date": "2011-08-01",
+    "open": 397.78,
+    "high": 399.5,
+    "low": 353.02,
+    "close": 384.83,
+    "volume": 181143300,
+    "price": 50.91,
+    "monthly_difference": 6.18
+  },
+  {
+    "name": "Apple",
+    "date": "2011-09-01",
+    "open": 385.82,
+    "high": 422.86,
+    "low": 366.48,
+    "close": 381.32,
+    "volume": 149108200,
+    "price": 50.45,
+    "monthly_difference": 7.14
+  },
+  {
+    "name": "Apple",
+    "date": "2011-10-03",
+    "open": 380.37,
+    "high": 426.7,
+    "low": 354.24,
+    "close": 404.78,
+    "volume": 161034800,
+    "price": 53.55,
+    "monthly_difference": 9.28
+  },
+  {
+    "name": "Apple",
+    "date": "2011-11-01",
+    "open": 397.41,
+    "high": 408,
+    "low": 363.32,
+    "close": 382.2,
+    "volume": 111543300,
+    "price": 50.56,
+    "monthly_difference": 5.79
+  },
+  {
+    "name": "Apple",
+    "date": "2011-12-01",
+    "open": 382.54,
+    "high": 409.09,
+    "low": 377.68,
+    "close": 405,
+    "volume": 77216600,
+    "price": 53.58,
+    "monthly_difference": 3.99
+  },
+  {
+    "name": "Apple",
+    "date": "2012-01-03",
+    "open": 409.4,
+    "high": 458.24,
+    "low": 409,
+    "close": 456.48,
+    "volume": 90644200,
+    "price": 60.39,
+    "monthly_difference": 5.68
+  },
+  {
+    "name": "Apple",
+    "date": "2012-02-01",
+    "open": 458.41,
+    "high": 547.61,
+    "low": 453.98,
+    "close": 542.44,
+    "volume": 154007000,
+    "price": 71.76,
+    "monthly_difference": 9.35
+  },
+  {
+    "name": "Apple",
+    "date": "2012-03-01",
+    "open": 548.17,
+    "high": 621.45,
+    "low": 516.22,
+    "close": 599.55,
+    "volume": 185402000,
+    "price": 79.32,
+    "monthly_difference": 9.25
+  },
+  {
+    "name": "Apple",
+    "date": "2012-04-02",
+    "open": 601.83,
+    "high": 644,
+    "low": 555,
+    "close": 583.98,
+    "volume": 201314100,
+    "price": 77.26,
+    "monthly_difference": 7.42
+  },
+  {
+    "name": "Apple",
+    "date": "2012-05-01",
+    "open": 584.9,
+    "high": 596.76,
+    "low": 522.18,
+    "close": 577.73,
+    "volume": 131795600,
+    "price": 76.43,
+    "monthly_difference": 6.67
+  },
+  {
+    "name": "Apple",
+    "date": "2012-06-01",
+    "open": 569.16,
+    "high": 590,
+    "low": 548.5,
+    "close": 584,
+    "volume": 98539600,
+    "price": 77.26,
+    "monthly_difference": 3.65
+  },
+  {
+    "name": "Apple",
+    "date": "2012-07-02",
+    "open": 584.73,
+    "high": 619.87,
+    "low": 570,
+    "close": 610.76,
+    "volume": 111571100,
+    "price": 80.8,
+    "monthly_difference": 4.19
+  },
+  {
+    "name": "Apple",
+    "date": "2012-08-01",
+    "open": 615.91,
+    "high": 680.87,
+    "low": 600.25,
+    "close": 665.24,
+    "volume": 93636100,
+    "price": 88.39,
+    "monthly_difference": 6.29
+  },
+  {
+    "name": "Apple",
+    "date": "2012-09-04",
+    "open": 665.76,
+    "high": 705.07,
+    "low": 656,
+    "close": 667.1,
+    "volume": 128080400,
+    "price": 88.64,
+    "monthly_difference": 3.61
+  },
+  {
+    "name": "Apple",
+    "date": "2012-10-01",
+    "open": 671.16,
+    "high": 676.75,
+    "low": 587.7,
+    "close": 595.32,
+    "volume": 150628900,
+    "price": 79.1,
+    "monthly_difference": 7.04
+  },
+  {
+    "name": "Apple",
+    "date": "2012-11-01",
+    "open": 598.22,
+    "high": 603,
+    "low": 505.75,
+    "close": 585.28,
+    "volume": 158585300,
+    "price": 78.12,
+    "monthly_difference": 8.77
+  },
+  {
+    "name": "Apple",
+    "date": "2012-12-03",
+    "open": 593.65,
+    "high": 594.59,
+    "low": 501.23,
+    "close": 532.17,
+    "volume": 159903000,
+    "price": 71.03,
+    "monthly_difference": 8.52
+  },
+  {
+    "name": "Apple",
+    "date": "2013-01-02",
+    "open": 553.82,
+    "high": 555,
+    "low": 435,
+    "close": 455.49,
+    "volume": 160032800,
+    "price": 60.8,
+    "monthly_difference": 12.12
+  },
+  {
+    "name": "Apple",
+    "date": "2013-02-01",
+    "open": 459.11,
+    "high": 484.94,
+    "low": 437.66,
+    "close": 441.4,
+    "volume": 127191400,
+    "price": 59.26,
+    "monthly_difference": 5.12
+  },
+  {
+    "name": "Apple",
+    "date": "2013-03-01",
+    "open": 438,
+    "high": 469.95,
+    "low": 419,
+    "close": 442.66,
+    "volume": 120246400,
+    "price": 59.43,
+    "monthly_difference": 5.73
+  },
+  {
+    "name": "Apple",
+    "date": "2013-04-01",
+    "open": 441.9,
+    "high": 445.25,
+    "low": 385.1,
+    "close": 442.78,
+    "volume": 132443500,
+    "price": 59.44,
+    "monthly_difference": 7.24
+  },
+  {
+    "name": "Apple",
+    "date": "2013-05-01",
+    "open": 444.46,
+    "high": 465.75,
+    "low": 418.9,
+    "close": 449.73,
+    "volume": 111725300,
+    "price": 60.78,
+    "monthly_difference": 5.3
+  },
+  {
+    "name": "Apple",
+    "date": "2013-06-03",
+    "open": 450.73,
+    "high": 454.43,
+    "low": 388.87,
+    "close": 396.53,
+    "volume": 94963100,
+    "price": 53.59,
+    "monthly_difference": 7.77
+  },
+  {
+    "name": "Apple",
+    "date": "2013-07-01",
+    "open": 402.69,
+    "high": 457.34,
+    "low": 401.22,
+    "close": 452.53,
+    "volume": 77966700,
+    "price": 61.15,
+    "monthly_difference": 6.54
+  },
+  {
+    "name": "Apple",
+    "date": "2013-08-01",
+    "open": 455.75,
+    "high": 513.74,
+    "low": 453.26,
+    "close": 487.22,
+    "volume": 94666300,
+    "price": 66.28,
+    "monthly_difference": 6.25
+  },
+  {
+    "name": "Apple",
+    "date": "2013-09-03",
+    "open": 493.1,
+    "high": 507.92,
+    "low": 447.22,
+    "close": 476.75,
+    "volume": 111138700,
+    "price": 64.85,
+    "monthly_difference": 6.36
+  },
+  {
+    "name": "Apple",
+    "date": "2013-10-01",
+    "open": 478.45,
+    "high": 539.25,
+    "low": 478.28,
+    "close": 522.7,
+    "volume": 88189400,
+    "price": 71.1,
+    "monthly_difference": 5.99
+  },
+  {
+    "name": "Apple",
+    "date": "2013-11-01",
+    "open": 524.02,
+    "high": 558.33,
+    "low": 512.38,
+    "close": 556.07,
+    "volume": 69291000,
+    "price": 76.09,
+    "monthly_difference": 4.29
+  },
+  {
+    "name": "Apple",
+    "date": "2013-12-02",
+    "open": 558,
+    "high": 575.14,
+    "low": 538.8,
+    "close": 561.02,
+    "volume": 86672400,
+    "price": 76.76,
+    "monthly_difference": 3.26
+  },
+  {
+    "name": "Apple",
+    "date": "2014-01-02",
+    "open": 555.68,
+    "high": 560.2,
+    "low": 493.55,
+    "close": 500.6,
+    "volume": 109889900,
+    "price": 68.5,
+    "monthly_difference": 6.33
+  },
+  {
+    "name": "Apple",
+    "date": "2014-02-03",
+    "open": 502.61,
+    "high": 551.19,
+    "low": 499.3,
+    "close": 526.24,
+    "volume": 82267500,
+    "price": 72.43,
+    "monthly_difference": 4.94
+  },
+  {
+    "name": "Apple",
+    "date": "2014-03-03",
+    "open": 523.42,
+    "high": 549,
+    "low": 522.81,
+    "close": 536.74,
+    "volume": 61552000,
+    "price": 73.88,
+    "monthly_difference": 2.44
+  },
+  {
+    "name": "Apple",
+    "date": "2014-04-01",
+    "open": 537.76,
+    "high": 599.43,
+    "low": 511.33,
+    "close": 590.09,
+    "volume": 82044000,
+    "price": 81.22,
+    "monthly_difference": 7.93
+  },
+  {
+    "name": "Apple",
+    "date": "2014-05-01",
+    "open": 592,
+    "high": 644.17,
+    "low": 580.33,
+    "close": 633,
+    "volume": 74996300,
+    "price": 87.62,
+    "monthly_difference": 5.21
+  },
+  {
+    "name": "Apple",
+    "date": "2014-06-02",
+    "open": 633.96,
+    "high": 651.26,
+    "low": 89.65,
+    "close": 92.93,
+    "volume": 59829300,
+    "price": 90.04,
+    "monthly_difference": 75.8
+  },
+  {
+    "name": "Apple",
+    "date": "2014-07-01",
+    "open": 93.52,
+    "high": 99.44,
+    "low": 92.57,
+    "close": 95.6,
+    "volume": 49633100,
+    "price": 92.63,
+    "monthly_difference": 3.58
+  },
+  {
+    "name": "Apple",
+    "date": "2014-08-01",
+    "open": 94.9,
+    "high": 102.9,
+    "low": 93.28,
+    "close": 102.5,
+    "volume": 46746200,
+    "price": 99.81,
+    "monthly_difference": 4.9
+  },
+  {
+    "name": "Apple",
+    "date": "2014-09-02",
+    "open": 103.06,
+    "high": 103.74,
+    "low": 96.14,
+    "close": 100.75,
+    "volume": 75318200,
+    "price": 98.1,
+    "monthly_difference": 3.8
+  },
+  {
+    "name": "Apple",
+    "date": "2014-10-01",
+    "open": 100.59,
+    "high": 108.04,
+    "low": 95.18,
+    "close": 108,
+    "volume": 61083400,
+    "price": 105.16,
+    "monthly_difference": 6.33
+  },
+  {
+    "name": "Apple",
+    "date": "2014-11-03",
+    "open": 108.22,
+    "high": 119.75,
+    "low": 107.72,
+    "close": 118.93,
+    "volume": 44485400,
+    "price": 116.31,
+    "monthly_difference": 5.29
+  },
+  {
+    "name": "Apple",
+    "date": "2014-12-01",
+    "open": 118.81,
+    "high": 119.25,
+    "low": 106.26,
+    "close": 110.38,
+    "volume": 50681700,
+    "price": 107.95,
+    "monthly_difference": 5.76
+  },
+  {
+    "name": "Apple",
+    "date": "2015-01-02",
+    "open": 111.39,
+    "high": 120,
+    "low": 104.63,
+    "close": 117.16,
+    "volume": 69419400,
+    "price": 114.58,
+    "monthly_difference": 6.84
+  },
+  {
+    "name": "Apple",
+    "date": "2015-02-02",
+    "open": 118.05,
+    "high": 133.6,
+    "low": 116.08,
+    "close": 128.46,
+    "volume": 63081500,
+    "price": 126.12,
+    "monthly_difference": 7.02
+  },
+  {
+    "name": "Apple",
+    "date": "2015-03-02",
+    "open": 129.25,
+    "high": 130.28,
+    "low": 121.63,
+    "close": 124.43,
+    "volume": 53669600,
+    "price": 122.17,
+    "monthly_difference": 3.43
+  },
+  {
+    "name": "Apple",
+    "date": "2015-04-01",
+    "open": 124.82,
+    "high": 134.54,
+    "low": 123.1,
+    "close": 125.15,
+    "volume": 51396700,
+    "price": 122.87,
+    "monthly_difference": 4.44
+  },
+  {
+    "name": "Apple",
+    "date": "2015-05-01",
+    "open": 126.1,
+    "high": 132.97,
+    "low": 123.36,
+    "close": 130.28,
+    "volume": 50251800,
+    "price": 128.44,
+    "monthly_difference": 3.75
+  },
+  {
+    "name": "Apple",
+    "date": "2015-06-01",
+    "open": 130.28,
+    "high": 131.39,
+    "low": 124.48,
+    "close": 125.43,
+    "volume": 41949200,
+    "price": 123.66,
+    "monthly_difference": 2.7
+  },
+  {
+    "name": "Apple",
+    "date": "2015-07-01",
+    "open": 126.9,
+    "high": 132.97,
+    "low": 119.22,
+    "close": 121.3,
+    "volume": 50017800,
+    "price": 119.59,
+    "monthly_difference": 5.45
+  },
+  {
+    "name": "Apple",
+    "date": "2015-08-03",
+    "open": 121.5,
+    "high": 122.57,
+    "low": 92,
+    "close": 112.76,
+    "volume": 79152700,
+    "price": 111.67,
+    "monthly_difference": 14.25
+  },
+  {
+    "name": "Apple",
+    "date": "2015-09-01",
+    "open": 110.15,
+    "high": 116.89,
+    "low": 107.36,
+    "close": 110.3,
+    "volume": 60620000,
+    "price": 109.24,
+    "monthly_difference": 4.25
+  },
+  {
+    "name": "Apple",
+    "date": "2015-10-01",
+    "open": 109.07,
+    "high": 121.22,
+    "low": 107.31,
+    "close": 119.5,
+    "volume": 52797300,
+    "price": 118.35,
+    "monthly_difference": 6.09
+  },
+  {
+    "name": "Apple",
+    "date": "2015-11-02",
+    "open": 120.8,
+    "high": 123.82,
+    "low": 111,
+    "close": 118.3,
+    "volume": 39491000,
+    "price": 117.66,
+    "monthly_difference": 5.46
+  },
+  {
+    "name": "Apple",
+    "date": "2015-12-01",
+    "open": 118.75,
+    "high": 119.86,
+    "low": 104.82,
+    "close": 105.26,
+    "volume": 43750400,
+    "price": 104.69,
+    "monthly_difference": 6.69
+  },
+  {
+    "name": "Apple",
+    "date": "2016-01-04",
+    "open": 102.61,
+    "high": 105.85,
+    "low": 92.39,
+    "close": 97.34,
+    "volume": 70329700,
+    "price": 96.81,
+    "monthly_difference": 6.79
+  },
+  {
+    "name": "Apple",
+    "date": "2016-02-01",
+    "open": 96.47,
+    "high": 98.89,
+    "low": 92.59,
+    "close": 96.69,
+    "volume": 42018600,
+    "price": 96.69,
+    "monthly_difference": 3.29
+  },
+  {
+    "name": "Apple",
+    "date": "2016-03-01",
+    "open": 97.65,
+    "high": 110.42,
+    "low": 97.42,
+    "close": 108.99,
+    "volume": 34835400,
+    "price": 108.99,
+    "monthly_difference": 6.25
+  },
+  {
+    "name": "Apple",
+    "date": "2016-04-01",
+    "open": 108.78,
+    "high": 110,
+    "low": 108.2,
+    "close": 109.99,
+    "volume": 51252400,
+    "price": 109.99,
+    "monthly_difference": 0.82
   },
   {
     "name": "British Petroleum",
-    "date": "2011-06-01",
-    "open": 46.16,
-    "high": 46.29,
-    "low": 41.26,
-    "close": 44.29,
-    "volume": 7255900,
-    "price": 34.55,
-    "monthly_difference": "5.75%"
+    "date": "2011-04-01",
+    "open": 45.2,
+    "high": 47.45,
+    "low": 44.04,
+    "close": 46.14,
+    "volume": 8505600,
+    "price": 35.66,
+    "monthly_difference": "3.73%"
   },
   {
     "name": "British Petroleum",
@@ -1332,663 +683,3303 @@
   },
   {
     "name": "British Petroleum",
-    "date": "2011-04-01",
-    "open": 45.2,
-    "high": 47.45,
-    "low": 44.04,
-    "close": 46.14,
-    "volume": 8505600,
-    "price": 35.66,
-    "monthly_difference": "3.73%"
+    "date": "2011-06-01",
+    "open": 46.16,
+    "high": 46.29,
+    "low": 41.26,
+    "close": 44.29,
+    "volume": 7255900,
+    "price": 34.55,
+    "monthly_difference": "5.75%"
   },
   {
-    "name": "Starbucks",
-    "date": "2016-04-01",
-    "open": 59.61,
-    "high": 61.17,
-    "low": 59.41,
-    "close": 61.02,
-    "volume": 18786400,
-    "price": 61.02,
-    "monthly_difference": "1.46%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2016-03-01",
-    "open": 58.77,
-    "high": 60.45,
-    "low": 56.57,
-    "close": 59.7,
-    "volume": 8445700,
-    "price": 59.7,
-    "monthly_difference": "3.32%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2016-02-01",
-    "open": 60.66,
-    "high": 61.79,
-    "low": 52.63,
-    "close": 58.21,
-    "volume": 11534800,
-    "price": 58.21,
-    "monthly_difference": "8.01%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2016-01-04",
-    "open": 58.77,
-    "high": 60.88,
-    "low": 54.94,
-    "close": 60.77,
-    "volume": 14532000,
-    "price": 60.57,
-    "monthly_difference": "5.13%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-12-01",
-    "open": 61.08,
-    "high": 62.54,
-    "low": 58.27,
-    "close": 60.03,
-    "volume": 8172900,
-    "price": 59.83,
-    "monthly_difference": "3.53%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-11-02",
-    "open": 63.01,
-    "high": 63.19,
-    "low": 59.5,
-    "close": 61.39,
-    "volume": 7570600,
-    "price": 61.19,
-    "monthly_difference": "3.01%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-10-01",
-    "open": 56.99,
-    "high": 64,
-    "low": 55.89,
-    "close": 62.57,
-    "volume": 9657000,
-    "price": 62.16,
-    "monthly_difference": "6.76%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-09-01",
-    "open": 53,
-    "high": 58.96,
-    "low": 52.74,
-    "close": 56.84,
-    "volume": 9402100,
-    "price": 56.47,
-    "monthly_difference": "5.57%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-08-03",
-    "open": 58.62,
-    "high": 59.32,
-    "low": 42.05,
-    "close": 54.71,
-    "volume": 11027800,
-    "price": 54.36,
-    "monthly_difference": "17.04%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-07-01",
-    "open": 53.86,
-    "high": 59.31,
-    "low": 53.31,
-    "close": 57.93,
-    "volume": 8381400,
-    "price": 57.4,
-    "monthly_difference": "5.33%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-06-01",
-    "open": 51.96,
-    "high": 54.75,
-    "low": 51.1,
-    "close": 53.62,
-    "volume": 7301100,
-    "price": 53.13,
-    "monthly_difference": "3.45%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-05-01",
-    "open": 49.95,
-    "high": 52.23,
-    "low": 48.57,
-    "close": 51.96,
-    "volume": 7193600,
-    "price": 51.48,
-    "monthly_difference": "3.63%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-04-01",
-    "open": 94.28,
-    "high": 95.28,
-    "low": 47.25,
-    "close": 49.58,
-    "volume": 8782800,
-    "price": 48.97,
-    "monthly_difference": "33.70%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-03-02",
-    "open": 93.33,
-    "high": 99.2,
-    "low": 91.22,
-    "close": 94.7,
-    "volume": 9302200,
-    "price": 46.77,
-    "monthly_difference": "4.19%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-02-02",
-    "open": 87.68,
-    "high": 94.83,
-    "low": 85.86,
-    "close": 93.49,
-    "volume": 8364300,
-    "price": 46.17,
-    "monthly_difference": "4.96%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2015-01-02",
-    "open": 82.13,
-    "high": 89.59,
-    "low": 78.56,
-    "close": 87.53,
-    "volume": 13870200,
-    "price": 43.07,
-    "monthly_difference": "6.56%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-12-01",
-    "open": 81,
-    "high": 84.2,
-    "low": 78.44,
-    "close": 82.05,
-    "volume": 10441700,
-    "price": 40.37,
-    "monthly_difference": "3.54%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-11-03",
-    "open": 75.97,
-    "high": 81.64,
-    "low": 75.47,
-    "close": 81.21,
-    "volume": 7751000,
-    "price": 39.96,
-    "monthly_difference": "3.93%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-10-01",
-    "open": 75.68,
-    "high": 77.67,
-    "low": 70.77,
-    "close": 75.56,
-    "volume": 11662300,
-    "price": 37.02,
-    "monthly_difference": "4.65%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-09-02",
-    "open": 77.7,
-    "high": 77.98,
-    "low": 73.78,
-    "close": 75.46,
-    "volume": 8309800,
-    "price": 36.98,
-    "monthly_difference": "2.77%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-08-01",
-    "open": 77.5,
-    "high": 78.47,
-    "low": 76.16,
-    "close": 77.81,
-    "volume": 6113400,
-    "price": 38.13,
-    "monthly_difference": "1.49%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-07-01",
-    "open": 77.89,
-    "high": 80.64,
-    "low": 77.12,
-    "close": 77.68,
-    "volume": 8288300,
-    "price": 37.94,
-    "monthly_difference": "2.23%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-06-02",
-    "open": 73.22,
-    "high": 78.35,
-    "low": 73.16,
-    "close": 77.38,
-    "volume": 7953700,
-    "price": 37.79,
-    "monthly_difference": "3.43%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-05-01",
-    "open": 70.75,
-    "high": 73.78,
-    "low": 69.14,
-    "close": 73.24,
-    "volume": 8207800,
-    "price": 35.77,
-    "monthly_difference": "3.25%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-04-01",
-    "open": 73.64,
-    "high": 74.98,
-    "low": 67.93,
-    "close": 70.62,
-    "volume": 11299100,
-    "price": 34.36,
-    "monthly_difference": "4.93%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-03-03",
-    "open": 70.01,
-    "high": 78.64,
-    "low": 70,
-    "close": 73.38,
-    "volume": 11981000,
-    "price": 35.7,
-    "monthly_difference": "5.81%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-02-03",
-    "open": 71,
-    "high": 75.19,
-    "low": 68.67,
-    "close": 70.96,
-    "volume": 14859500,
-    "price": 34.53,
-    "monthly_difference": "4.53%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2014-01-02",
-    "open": 78.07,
-    "high": 78.27,
-    "low": 70.87,
-    "close": 71.12,
-    "volume": 14449300,
-    "price": 34.47,
-    "monthly_difference": "4.96%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-12-02",
-    "open": 81.49,
-    "high": 81.69,
-    "low": 75.91,
-    "close": 78.39,
-    "volume": 9177900,
-    "price": 38,
-    "monthly_difference": "3.67%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-11-01",
-    "open": 81.54,
-    "high": 82.5,
-    "low": 79,
-    "close": 81.46,
-    "volume": 9009600,
-    "price": 39.49,
-    "monthly_difference": "2.17%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-10-01",
-    "open": 76.98,
-    "high": 81.62,
-    "low": 74.45,
-    "close": 81.05,
-    "volume": 9803300,
-    "price": 39.16,
-    "monthly_difference": "4.59%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-09-03",
-    "open": 71.7,
-    "high": 77.84,
-    "low": 70.93,
-    "close": 76.97,
-    "volume": 7917400,
-    "price": 37.19,
-    "monthly_difference": "4.64%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-08-01",
-    "open": 72.27,
-    "high": 74.27,
-    "low": 69.86,
-    "close": 70.52,
-    "volume": 6942000,
-    "price": 34.07,
-    "monthly_difference": "3.06%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-07-01",
-    "open": 66.09,
-    "high": 73.52,
-    "low": 65.82,
-    "close": 71.29,
-    "volume": 10386600,
-    "price": 34.35,
-    "monthly_difference": "5.53%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-06-03",
-    "open": 63.26,
-    "high": 67.48,
-    "low": 62.31,
-    "close": 65.51,
-    "volume": 10639400,
-    "price": 31.56,
-    "monthly_difference": "3.98%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-05-01",
-    "open": 60.55,
-    "high": 64.93,
-    "low": 59.6,
-    "close": 63.14,
-    "volume": 8117600,
-    "price": 30.42,
-    "monthly_difference": "4.28%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-04-01",
-    "open": 57.13,
-    "high": 60.92,
-    "low": 56.65,
-    "close": 60.84,
-    "volume": 10004100,
-    "price": 29.21,
-    "monthly_difference": "3.63%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-03-01",
-    "open": 54.63,
-    "high": 58.97,
-    "low": 54,
-    "close": 56.95,
-    "volume": 11386600,
-    "price": 27.35,
-    "monthly_difference": "4.40%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2013-02-01",
-    "open": 56.57,
-    "high": 57.1,
-    "low": 52.52,
-    "close": 54.85,
-    "volume": 10691400,
-    "price": 26.34,
+    "name": "British Petroleum",
+    "date": "2011-07-01",
+    "open": 43.94,
+    "high": 47.09,
+    "low": 43.31,
+    "close": 45.44,
+    "volume": 9713900,
+    "price": 35.45,
     "monthly_difference": "4.18%"
   },
   {
-    "name": "Starbucks",
-    "date": "2013-01-02",
-    "open": 54.59,
-    "high": 57.27,
-    "low": 53.68,
-    "close": 56.12,
-    "volume": 14003100,
-    "price": 26.85,
-    "monthly_difference": "3.24%"
+    "name": "British Petroleum",
+    "date": "2011-08-01",
+    "open": 45.95,
+    "high": 46.03,
+    "low": 36.8,
+    "close": 39.39,
+    "volume": 12459300,
+    "price": 31.03,
+    "monthly_difference": "11.14%"
   },
   {
-    "name": "Starbucks",
-    "date": "2012-12-03",
-    "open": 52.14,
-    "high": 54.9,
-    "low": 49.56,
-    "close": 53.63,
-    "volume": 15941100,
-    "price": 25.66,
-    "monthly_difference": "5.11%"
+    "name": "British Petroleum",
+    "date": "2011-09-01",
+    "open": 38.73,
+    "high": 39.72,
+    "low": 35.1,
+    "close": 36.07,
+    "volume": 11496900,
+    "price": 28.41,
+    "monthly_difference": "6.17%"
   },
   {
-    "name": "Starbucks",
-    "date": "2012-11-01",
-    "open": 45.74,
-    "high": 52.31,
-    "low": 45.39,
-    "close": 51.87,
-    "volume": 16414900,
-    "price": 24.81,
-    "monthly_difference": "7.08%"
+    "name": "British Petroleum",
+    "date": "2011-10-03",
+    "open": 35.89,
+    "high": 45.84,
+    "low": 33.62,
+    "close": 44.18,
+    "volume": 10661100,
+    "price": 34.8,
+    "monthly_difference": "15.38%"
   },
   {
-    "name": "Starbucks",
-    "date": "2012-10-01",
-    "open": 50.93,
-    "high": 51.3,
-    "low": 44.27,
-    "close": 45.9,
-    "volume": 20506000,
-    "price": 21.87,
-    "monthly_difference": "7.36%"
+    "name": "British Petroleum",
+    "date": "2011-11-01",
+    "open": 41.91,
+    "high": 44.89,
+    "low": 39.41,
+    "close": 43.55,
+    "volume": 7519500,
+    "price": 34.65,
+    "monthly_difference": "6.50%"
   },
   {
-    "name": "Starbucks",
-    "date": "2012-09-04",
-    "open": 49.45,
-    "high": 52,
-    "low": 48.99,
-    "close": 50.71,
-    "volume": 15275000,
-    "price": 24.16,
+    "name": "British Petroleum",
+    "date": "2011-12-01",
+    "open": 43.18,
+    "high": 44.26,
+    "low": 40.4,
+    "close": 42.74,
+    "volume": 5220600,
+    "price": 34,
+    "monthly_difference": "4.56%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2012-01-03",
+    "open": 43.79,
+    "high": 46.03,
+    "low": 42.84,
+    "close": 45.91,
+    "volume": 8630700,
+    "price": 36.52,
+    "monthly_difference": "3.59%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2012-02-01",
+    "open": 45.81,
+    "high": 48,
+    "low": 45.22,
+    "close": 47.16,
+    "volume": 10555200,
+    "price": 37.91,
     "monthly_difference": "2.98%"
   },
   {
-    "name": "Starbucks",
-    "date": "2012-08-01",
-    "open": 45.47,
-    "high": 50.06,
-    "low": 43.04,
-    "close": 49.61,
-    "volume": 18684100,
-    "price": 23.63,
-    "monthly_difference": "7.54%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2012-07-02",
-    "open": 53.44,
-    "high": 54.28,
-    "low": 45.09,
-    "close": 45.28,
-    "volume": 17317800,
-    "price": 21.49,
-    "monthly_difference": "9.25%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2012-06-01",
-    "open": 53.11,
-    "high": 55.97,
-    "low": 51.03,
-    "close": 53.32,
-    "volume": 16391200,
-    "price": 25.3,
-    "monthly_difference": "4.62%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2012-05-01",
-    "open": 57.51,
-    "high": 58.43,
-    "low": 51.43,
-    "close": 54.89,
-    "volume": 16772700,
-    "price": 26.05,
-    "monthly_difference": "6.37%"
-  },
-  {
-    "name": "Starbucks",
-    "date": "2012-04-02",
-    "open": 56.03,
-    "high": 62,
-    "low": 55.96,
-    "close": 57.37,
-    "volume": 22120400,
-    "price": 27.14,
-    "monthly_difference": "5.12%"
-  },
-  {
-    "name": "Starbucks",
+    "name": "British Petroleum",
     "date": "2012-03-01",
-    "open": 48.69,
-    "high": 56.55,
-    "low": 48.1,
-    "close": 55.89,
-    "volume": 14162600,
-    "price": 26.44,
-    "monthly_difference": "8.07%"
+    "open": 47.31,
+    "high": 48.34,
+    "low": 43.65,
+    "close": 45,
+    "volume": 8078300,
+    "price": 36.17,
+    "monthly_difference": "5.10%"
   },
   {
-    "name": "Starbucks",
-    "date": "2012-02-01",
-    "open": 48.34,
-    "high": 49.36,
-    "low": 47.41,
-    "close": 48.56,
-    "volume": 9457700,
-    "price": 22.97,
-    "monthly_difference": "2.02%"
+    "name": "British Petroleum",
+    "date": "2012-04-02",
+    "open": 44.64,
+    "high": 45.6,
+    "low": 41.34,
+    "close": 43.41,
+    "volume": 6204100,
+    "price": 34.9,
+    "monthly_difference": "4.90%"
   },
   {
-    "name": "Starbucks",
-    "date": "2012-01-03",
-    "open": 46.85,
-    "high": 48.62,
-    "low": 45.28,
-    "close": 47.92,
-    "volume": 12849700,
-    "price": 22.59,
-    "monthly_difference": "3.56%"
+    "name": "British Petroleum",
+    "date": "2012-05-01",
+    "open": 42.54,
+    "high": 43.13,
+    "low": 36.25,
+    "close": 36.46,
+    "volume": 7676400,
+    "price": 29.66,
+    "monthly_difference": "8.67%"
   },
   {
-    "name": "Starbucks",
-    "date": "2011-12-01",
-    "open": 43.2,
-    "high": 46.5,
-    "low": 42.67,
-    "close": 46.01,
-    "volume": 9976200,
-    "price": 21.69,
-    "monthly_difference": "4.30%"
+    "name": "British Petroleum",
+    "date": "2012-06-01",
+    "open": 37.13,
+    "high": 40.59,
+    "low": 36.25,
+    "close": 40.54,
+    "volume": 7058700,
+    "price": 32.98,
+    "monthly_difference": "5.65%"
   },
   {
-    "name": "Starbucks",
-    "date": "2011-11-01",
-    "open": 41.33,
-    "high": 44.7,
-    "low": 40.55,
-    "close": 43.48,
-    "volume": 14397400,
-    "price": 20.5,
-    "monthly_difference": "4.87%"
+    "name": "British Petroleum",
+    "date": "2012-07-02",
+    "open": 40.57,
+    "high": 42.05,
+    "low": 39.13,
+    "close": 39.9,
+    "volume": 6394100,
+    "price": 32.46,
+    "monthly_difference": "3.60%"
   },
   {
-    "name": "Starbucks",
-    "date": "2011-10-03",
-    "open": 36.85,
-    "high": 43.43,
-    "low": 35.12,
+    "name": "British Petroleum",
+    "date": "2012-08-01",
+    "open": 39.8,
+    "high": 42.87,
+    "low": 39.5,
+    "close": 42.06,
+    "volume": 4253200,
+    "price": 34.61,
+    "monthly_difference": "4.09%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2012-09-04",
+    "open": 42.11,
+    "high": 44.16,
+    "low": 40.33,
     "close": 42.36,
-    "volume": 14783700,
-    "price": 19.89,
-    "monthly_difference": "10.58%"
+    "volume": 5770300,
+    "price": 34.85,
+    "monthly_difference": "4.53%"
   },
   {
-    "name": "Starbucks",
-    "date": "2011-09-01",
-    "open": 38.84,
-    "high": 42,
-    "low": 36.42,
-    "close": 37.29,
-    "volume": 17193300,
-    "price": 17.51,
-    "monthly_difference": "7.12%"
+    "name": "British Petroleum",
+    "date": "2012-10-01",
+    "open": 42.42,
+    "high": 43.9,
+    "low": 41.27,
+    "close": 42.89,
+    "volume": 6275800,
+    "price": 35.29,
+    "monthly_difference": "3.09%"
   },
   {
-    "name": "Starbucks",
-    "date": "2011-08-01",
-    "open": 40.44,
-    "high": 40.77,
-    "low": 33.72,
-    "close": 38.62,
-    "volume": 20648800,
-    "price": 18.14,
-    "monthly_difference": "9.46%"
+    "name": "British Petroleum",
+    "date": "2012-11-01",
+    "open": 43.21,
+    "high": 43.24,
+    "low": 39.58,
+    "close": 41.76,
+    "volume": 5771800,
+    "price": 34.8,
+    "monthly_difference": "4.42%"
   },
   {
-    "name": "Starbucks",
-    "date": "2011-07-01",
+    "name": "British Petroleum",
+    "date": "2012-12-03",
+    "open": 41.71,
+    "high": 42.31,
+    "low": 40.81,
+    "close": 41.64,
+    "volume": 4974700,
+    "price": 34.7,
+    "monthly_difference": "1.80%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-01-02",
+    "open": 42.45,
+    "high": 45.45,
+    "low": 42.05,
+    "close": 44.52,
+    "volume": 6290700,
+    "price": 37.1,
+    "monthly_difference": "3.89%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-02-01",
+    "open": 44.65,
+    "high": 44.96,
+    "low": 40.16,
+    "close": 40.4,
+    "volume": 9861500,
+    "price": 34.09,
+    "monthly_difference": "5.64%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-03-01",
+    "open": 40.17,
+    "high": 42.41,
+    "low": 39.99,
+    "close": 42.35,
+    "volume": 6565800,
+    "price": 35.73,
+    "monthly_difference": "2.94%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-04-01",
+    "open": 42.35,
+    "high": 43.73,
+    "low": 40.12,
+    "close": 43.6,
+    "volume": 6997000,
+    "price": 36.79,
+    "monthly_difference": "4.31%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-05-01",
+    "open": 43.77,
+    "high": 44.27,
+    "low": 42.63,
+    "close": 42.91,
+    "volume": 5219300,
+    "price": 36.66,
+    "monthly_difference": "1.89%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-06-03",
+    "open": 43.08,
+    "high": 43.47,
+    "low": 41.16,
+    "close": 41.74,
+    "volume": 4987400,
+    "price": 35.66,
+    "monthly_difference": "2.73%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-07-01",
+    "open": 41.98,
+    "high": 43.75,
+    "low": 40.68,
+    "close": 41.44,
+    "volume": 6426000,
+    "price": 35.4,
+    "monthly_difference": "3.64%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-08-01",
+    "open": 41.57,
+    "high": 42.22,
+    "low": 40.51,
+    "close": 41.3,
+    "volume": 4375700,
+    "price": 35.74,
+    "monthly_difference": "2.07%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-09-03",
+    "open": 41.39,
+    "high": 42.86,
+    "low": 41.08,
+    "close": 42.03,
+    "volume": 4425500,
+    "price": 36.37,
+    "monthly_difference": "2.12%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-10-01",
+    "open": 41.95,
+    "high": 46.65,
+    "low": 41.3,
+    "close": 46.5,
+    "volume": 7452500,
+    "price": 40.24,
+    "monthly_difference": "6.08%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-11-01",
+    "open": 46.47,
+    "high": 48.03,
+    "low": 45.72,
+    "close": 47.01,
+    "volume": 5353200,
+    "price": 41.18,
+    "monthly_difference": "2.46%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2013-12-02",
+    "open": 46.73,
+    "high": 48.65,
+    "low": 45.3,
+    "close": 48.61,
+    "volume": 4200300,
+    "price": 42.58,
+    "monthly_difference": "3.57%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-01-02",
+    "open": 48.43,
+    "high": 49.2,
+    "low": 46.62,
+    "close": 46.89,
+    "volume": 6146900,
+    "price": 41.08,
+    "monthly_difference": "2.69%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-02-03",
+    "open": 46.73,
+    "high": 51.02,
+    "low": 45.83,
+    "close": 50.61,
+    "volume": 5753100,
+    "price": 44.86,
+    "monthly_difference": "5.36%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-03-03",
+    "open": 49.39,
+    "high": 49.87,
+    "low": 46.29,
+    "close": 48.1,
+    "volume": 6344000,
+    "price": 42.64,
+    "monthly_difference": "3.72%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-04-01",
+    "open": 48.31,
+    "high": 50.77,
+    "low": 47.14,
+    "close": 50.62,
+    "volume": 4637400,
+    "price": 44.87,
+    "monthly_difference": "3.71%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-05-01",
+    "open": 50.56,
+    "high": 51.56,
+    "low": 50.21,
+    "close": 50.45,
+    "volume": 4193500,
+    "price": 45.24,
+    "monthly_difference": "1.33%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-06-02",
+    "open": 50.76,
+    "high": 53.48,
+    "low": 49.87,
+    "close": 52.75,
+    "volume": 3447100,
+    "price": 47.3,
+    "monthly_difference": "3.49%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-07-01",
+    "open": 52.9,
+    "high": 53.48,
+    "low": 48.7,
+    "close": 48.97,
+    "volume": 4246000,
+    "price": 43.91,
+    "monthly_difference": "4.68%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-08-01",
+    "open": 48.66,
+    "high": 49.39,
+    "low": 46.77,
+    "close": 47.84,
+    "volume": 4680900,
+    "price": 43.42,
+    "monthly_difference": "2.72%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-09-02",
+    "open": 47.57,
+    "high": 48.11,
+    "low": 43.8,
+    "close": 43.95,
+    "volume": 9599900,
+    "price": 39.89,
+    "monthly_difference": "4.69%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-10-01",
+    "open": 43.84,
+    "high": 44.14,
+    "low": 39.45,
+    "close": 43.46,
+    "volume": 7259500,
+    "price": 39.45,
+    "monthly_difference": "5.61%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-11-03",
+    "open": 42.94,
+    "high": 43.08,
+    "low": 39.19,
+    "close": 39.32,
+    "volume": 6696400,
+    "price": 36.21,
+    "monthly_difference": "4.73%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2014-12-01",
     "open": 39.62,
-    "high": 41.11,
-    "low": 38.9,
-    "close": 40.09,
-    "volume": 15559700,
-    "price": 18.76,
-    "monthly_difference": "2.76%"
+    "high": 41.59,
+    "low": 34.88,
+    "close": 38.12,
+    "volume": 10698400,
+    "price": 35.1,
+    "monthly_difference": "8.77%"
   },
   {
-    "name": "Starbucks",
+    "name": "British Petroleum",
+    "date": "2015-01-02",
+    "open": 38.21,
+    "high": 40.44,
+    "low": 34.93,
+    "close": 38.83,
+    "volume": 10077100,
+    "price": 35.76,
+    "monthly_difference": "7.31%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-02-02",
+    "open": 39.4,
+    "high": 42.1,
+    "low": 39.19,
+    "close": 41.44,
+    "volume": 7079800,
+    "price": 38.72,
+    "monthly_difference": "3.58%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-03-02",
+    "open": 41.18,
+    "high": 41.88,
+    "low": 36.88,
+    "close": 39.11,
+    "volume": 6508000,
+    "price": 36.55,
+    "monthly_difference": "6.35%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-04-01",
+    "open": 39.38,
+    "high": 43.83,
+    "low": 39.27,
+    "close": 43.16,
+    "volume": 7341900,
+    "price": 40.33,
+    "monthly_difference": "5.49%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-05-01",
+    "open": 42.82,
+    "high": 43.85,
+    "low": 41.21,
+    "close": 41.46,
+    "volume": 4477200,
+    "price": 39.29,
+    "monthly_difference": "3.10%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-06-01",
+    "open": 41.18,
+    "high": 42.2,
+    "low": 39.7,
+    "close": 39.96,
+    "volume": 4741000,
+    "price": 37.87,
+    "monthly_difference": "3.05%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-07-01",
+    "open": 39.65,
+    "high": 41.52,
+    "low": 35.87,
+    "close": 36.97,
+    "volume": 6676000,
+    "price": 35.04,
+    "monthly_difference": "7.30%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-08-03",
+    "open": 36.63,
+    "high": 36.85,
+    "low": 30.53,
+    "close": 33.54,
+    "volume": 8201700,
+    "price": 32.32,
+    "monthly_difference": "9.38%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-09-01",
+    "open": 32.37,
+    "high": 32.89,
+    "low": 29.35,
+    "close": 30.56,
+    "volume": 9607000,
+    "price": 29.44,
+    "monthly_difference": "5.69%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-10-01",
+    "open": 31.66,
+    "high": 36.31,
+    "low": 30.78,
+    "close": 35.7,
+    "volume": 8795800,
+    "price": 34.4,
+    "monthly_difference": "8.24%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-11-02",
+    "open": 35.64,
+    "high": 37.53,
+    "low": 32.89,
+    "close": 34.6,
+    "volume": 6221200,
+    "price": 33.88,
+    "monthly_difference": "6.59%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2015-12-01",
+    "open": 34.77,
+    "high": 34.95,
+    "low": 29.9,
+    "close": 31.26,
+    "volume": 8660700,
+    "price": 30.61,
+    "monthly_difference": "7.79%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2016-01-04",
+    "open": 30.8,
+    "high": 32.38,
+    "low": 27.56,
+    "close": 32.37,
+    "volume": 11626200,
+    "price": 31.7,
+    "monthly_difference": "8.04%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2016-02-01",
+    "open": 31.18,
+    "high": 31.89,
+    "low": 27.01,
+    "close": 29.09,
+    "volume": 10194900,
+    "price": 29.09,
+    "monthly_difference": "8.29%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2016-03-01",
+    "open": 29.45,
+    "high": 31.74,
+    "low": 29.1,
+    "close": 30.18,
+    "volume": 7950800,
+    "price": 30.18,
+    "monthly_difference": "4.34%"
+  },
+  {
+    "name": "British Petroleum",
+    "date": "2016-04-01",
+    "open": 29.29,
+    "high": 29.64,
+    "low": 29.23,
+    "close": 29.57,
+    "volume": 17771800,
+    "price": 29.57,
+    "monthly_difference": "0.70%"
+  },
+  {
+    "name": "Chevron",
+    "date": "2011-05-02",
+    "open": 109.48,
+    "high": 109.58,
+    "low": 99.61,
+    "close": 104.91,
+    "volume": 8523200,
+    "price": 88.21,
+    "monthly_difference": 4.77
+  },
+  {
+    "name": "Chevron",
     "date": "2011-06-01",
-    "open": 36.54,
-    "high": 39.79,
-    "low": 34.61,
-    "close": 39.49,
-    "volume": 13540800,
-    "price": 18.48,
-    "monthly_difference": "6.96%"
+    "open": 104.73,
+    "high": 104.95,
+    "low": 97,
+    "close": 102.84,
+    "volume": 8333700,
+    "price": 86.47,
+    "monthly_difference": 3.94
+  },
+  {
+    "name": "Chevron",
+    "date": "2011-07-01",
+    "open": 102.71,
+    "high": 109.75,
+    "low": 102.01,
+    "close": 104.02,
+    "volume": 7607700,
+    "price": 87.46,
+    "monthly_difference": 3.66
+  },
+  {
+    "name": "Chevron",
+    "date": "2011-08-01",
+    "open": 106.08,
+    "high": 106.13,
+    "low": 87.3,
+    "close": 98.84,
+    "volume": 14147800,
+    "price": 83.77,
+    "monthly_difference": 9.73
+  },
+  {
+    "name": "Chevron",
+    "date": "2011-09-01",
+    "open": 99.01,
+    "high": 100.58,
+    "low": 88.56,
+    "close": 92.59,
+    "volume": 11667600,
+    "price": 78.48,
+    "monthly_difference": 6.36
+  },
+  {
+    "name": "Chevron",
+    "date": "2011-10-03",
+    "open": 91.93,
+    "high": 110.01,
+    "low": 86.68,
+    "close": 105.05,
+    "volume": 10445300,
+    "price": 89.04,
+    "monthly_difference": 11.86
+  },
+  {
+    "name": "Chevron",
+    "date": "2011-11-01",
+    "open": 101.47,
+    "high": 109,
+    "low": 92.29,
+    "close": 102.82,
+    "volume": 11337500,
+    "price": 87.83,
+    "monthly_difference": 8.3
+  },
+  {
+    "name": "Chevron",
+    "date": "2011-12-01",
+    "open": 102.82,
+    "high": 108.49,
+    "low": 99.32,
+    "close": 106.4,
+    "volume": 7855300,
+    "price": 90.89,
+    "monthly_difference": 4.41
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-01-03",
+    "open": 108.74,
+    "high": 110.99,
+    "low": 102.08,
+    "close": 103.12,
+    "volume": 8276400,
+    "price": 88.09,
+    "monthly_difference": 4.18
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-02-01",
+    "open": 104.42,
+    "high": 110.92,
+    "low": 102.68,
+    "close": 109.12,
+    "volume": 7077600,
+    "price": 93.93,
+    "monthly_difference": 3.86
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-03-01",
+    "open": 109.17,
+    "high": 112.28,
+    "low": 104.85,
+    "close": 107.21,
+    "volume": 6959100,
+    "price": 92.29,
+    "monthly_difference": 3.42
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-04-02",
+    "open": 106.85,
+    "high": 108.79,
+    "low": 100.51,
+    "close": 106.56,
+    "volume": 6223100,
+    "price": 91.73,
+    "monthly_difference": 3.96
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-05-01",
+    "open": 106.74,
+    "high": 108.79,
+    "low": 96.68,
+    "close": 98.31,
+    "volume": 7797000,
+    "price": 85.39,
+    "monthly_difference": 5.89
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-06-01",
+    "open": 96.65,
+    "high": 105.51,
+    "low": 95.73,
+    "close": 105.5,
+    "volume": 7996300,
+    "price": 91.63,
+    "monthly_difference": 4.86
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-07-02",
+    "open": 105.59,
+    "high": 110.82,
+    "low": 103.29,
+    "close": 109.58,
+    "volume": 6870400,
+    "price": 95.18,
+    "monthly_difference": 3.52
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-08-01",
+    "open": 109.72,
+    "high": 113.87,
+    "low": 108.47,
+    "close": 112.16,
+    "volume": 5154500,
+    "price": 98.2,
+    "monthly_difference": 2.43
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-09-04",
+    "open": 112.03,
+    "high": 118.53,
+    "low": 110.59,
+    "close": 116.56,
+    "volume": 6501100,
+    "price": 102.05,
+    "monthly_difference": 3.47
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-10-01",
+    "open": 116.92,
+    "high": 118.38,
+    "low": 109.03,
+    "close": 110.24,
+    "volume": 6447800,
+    "price": 96.52,
+    "monthly_difference": 4.11
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-11-01",
+    "open": 110.02,
+    "high": 111.69,
+    "low": 100.66,
+    "close": 105.69,
+    "volume": 6433000,
+    "price": 93.33,
+    "monthly_difference": 5.19
+  },
+  {
+    "name": "Chevron",
+    "date": "2012-12-03",
+    "open": 106,
+    "high": 111.11,
+    "low": 103.94,
+    "close": 108.14,
+    "volume": 6598600,
+    "price": 95.49,
+    "monthly_difference": 3.33
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-01-02",
+    "open": 110.27,
+    "high": 117.5,
+    "low": 108.74,
+    "close": 115.15,
+    "volume": 6057200,
+    "price": 101.68,
+    "monthly_difference": 3.87
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-02-01",
+    "open": 115.84,
+    "high": 117.89,
+    "low": 113.5,
+    "close": 117.15,
+    "volume": 5619200,
+    "price": 104.25,
+    "monthly_difference": 1.9
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-03-01",
+    "open": 116.73,
+    "high": 121.56,
+    "low": 115.95,
+    "close": 118.82,
+    "volume": 6140600,
+    "price": 105.74,
+    "monthly_difference": 2.36
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-04-01",
+    "open": 118.99,
+    "high": 122.01,
+    "low": 114.12,
+    "close": 122.01,
+    "volume": 6344300,
+    "price": 108.58,
+    "monthly_difference": 3.34
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-05-01",
+    "open": 121.25,
+    "high": 127.4,
+    "low": 120.05,
+    "close": 122.75,
+    "volume": 7423600,
+    "price": 110.12,
+    "monthly_difference": 2.97
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-06-03",
+    "open": 122.35,
+    "high": 124.12,
+    "low": 116.02,
+    "close": 118.34,
+    "volume": 6510200,
+    "price": 106.16,
+    "monthly_difference": 3.37
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-07-01",
+    "open": 118.35,
+    "high": 127.83,
+    "low": 118,
+    "close": 125.89,
+    "volume": 5000300,
+    "price": 112.94,
+    "monthly_difference": 4
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-08-01",
+    "open": 126.49,
+    "high": 126.66,
+    "low": 117.22,
+    "close": 120.43,
+    "volume": 5399800,
+    "price": 108.93,
+    "monthly_difference": 3.87
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-09-03",
+    "open": 121.34,
+    "high": 126.43,
+    "low": 119.01,
+    "close": 121.5,
+    "volume": 5456300,
+    "price": 109.9,
+    "monthly_difference": 3.02
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-10-01",
+    "open": 121.27,
+    "high": 122.01,
+    "low": 114.44,
+    "close": 119.96,
+    "volume": 6481400,
+    "price": 108.51,
+    "monthly_difference": 3.2
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-11-01",
+    "open": 119.04,
+    "high": 124.19,
+    "low": 117,
+    "close": 122.44,
+    "volume": 6220000,
+    "price": 111.68,
+    "monthly_difference": 2.98
+  },
+  {
+    "name": "Chevron",
+    "date": "2013-12-02",
+    "open": 122.87,
+    "high": 125.65,
+    "low": 118.25,
+    "close": 124.91,
+    "volume": 5698600,
+    "price": 113.93,
+    "monthly_difference": 3.03
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-01-02",
+    "open": 124.46,
+    "high": 125.32,
+    "low": 111.11,
+    "close": 111.63,
+    "volume": 6993600,
+    "price": 101.82,
+    "monthly_difference": 6.01
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-02-03",
+    "open": 112.35,
+    "high": 116.74,
+    "low": 109.27,
+    "close": 115.33,
+    "volume": 7945300,
+    "price": 106.13,
+    "monthly_difference": 3.31
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-03-03",
+    "open": 114.79,
+    "high": 119.62,
+    "low": 113.68,
+    "close": 118.91,
+    "volume": 6501700,
+    "price": 109.42,
+    "monthly_difference": 2.55
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-04-01",
+    "open": 119.15,
+    "high": 127.27,
+    "low": 116.5,
+    "close": 125.52,
+    "volume": 6500300,
+    "price": 115.51,
+    "monthly_difference": 4.42
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-05-01",
+    "open": 125.66,
+    "high": 126.78,
+    "low": 121.65,
+    "close": 122.79,
+    "volume": 5193000,
+    "price": 113.96,
+    "monthly_difference": 2.06
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-06-02",
+    "open": 122.93,
+    "high": 133.57,
+    "low": 121.72,
+    "close": 130.55,
+    "volume": 6584700,
+    "price": 121.16,
+    "monthly_difference": 4.64
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-07-01",
+    "open": 130.94,
+    "high": 135.1,
+    "low": 128.03,
+    "close": 129.24,
+    "volume": 4986800,
+    "price": 119.94,
+    "monthly_difference": 2.69
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-08-01",
+    "open": 127.76,
+    "high": 129.53,
+    "low": 124.58,
+    "close": 129.45,
+    "volume": 4517700,
+    "price": 121.16,
+    "monthly_difference": 1.95
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-09-02",
+    "open": 129.2,
+    "high": 129.38,
+    "low": 118.66,
+    "close": 119.32,
+    "volume": 6597800,
+    "price": 111.68,
+    "monthly_difference": 4.32
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-10-01",
+    "open": 118.8,
+    "high": 120.17,
+    "low": 106.65,
+    "close": 119.95,
+    "volume": 9039300,
+    "price": 112.27,
+    "monthly_difference": 5.96
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-11-03",
+    "open": 119.83,
+    "high": 119.97,
+    "low": 108.43,
+    "close": 108.87,
+    "volume": 7501400,
+    "price": 102.84,
+    "monthly_difference": 5.05
+  },
+  {
+    "name": "Chevron",
+    "date": "2014-12-01",
+    "open": 109.38,
+    "high": 114.82,
+    "low": 100.15,
+    "close": 112.18,
+    "volume": 10337000,
+    "price": 105.97,
+    "monthly_difference": 6.82
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-01-02",
+    "open": 111.63,
+    "high": 113,
+    "low": 98.88,
+    "close": 102.53,
+    "volume": 11514800,
+    "price": 96.85,
+    "monthly_difference": 6.66
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-02-02",
+    "open": 103.98,
+    "high": 112.93,
+    "low": 102.97,
+    "close": 106.68,
+    "volume": 8136200,
+    "price": 101.76,
+    "monthly_difference": 4.61
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-03-02",
+    "open": 106.32,
+    "high": 107.69,
+    "low": 100.66,
+    "close": 104.98,
+    "volume": 8070800,
+    "price": 100.14,
+    "monthly_difference": 3.37
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-04-01",
+    "open": 105.77,
+    "high": 112.2,
+    "low": 104.08,
+    "close": 111.06,
+    "volume": 6509800,
+    "price": 105.94,
+    "monthly_difference": 3.75
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-05-01",
+    "open": 110.28,
+    "high": 110.8,
+    "low": 102.38,
+    "close": 103,
+    "volume": 6977200,
+    "price": 99.23,
+    "monthly_difference": 3.95
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-06-01",
+    "open": 103.47,
+    "high": 103.75,
+    "low": 96.22,
+    "close": 96.47,
+    "volume": 7669800,
+    "price": 92.94,
+    "monthly_difference": 3.77
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-07-01",
+    "open": 96.3,
+    "high": 96.67,
+    "low": 88.01,
+    "close": 88.48,
+    "volume": 9256100,
+    "price": 85.24,
+    "monthly_difference": 4.69
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-08-03",
+    "open": 87.28,
+    "high": 87.33,
+    "low": 69.58,
+    "close": 80.99,
+    "volume": 14511800,
+    "price": 79.01,
+    "monthly_difference": 11.31
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-09-01",
+    "open": 78.76,
+    "high": 80.47,
+    "low": 74.31,
+    "close": 78.88,
+    "volume": 12395100,
+    "price": 76.95,
+    "monthly_difference": 3.98
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-10-01",
+    "open": 79.72,
+    "high": 91.98,
+    "low": 77.31,
+    "close": 90.88,
+    "volume": 10738400,
+    "price": 88.66,
+    "monthly_difference": 8.67
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-11-02",
+    "open": 90.61,
+    "high": 98.64,
+    "low": 87.79,
+    "close": 91.32,
+    "volume": 9443900,
+    "price": 90.18,
+    "monthly_difference": 5.82
+  },
+  {
+    "name": "Chevron",
+    "date": "2015-12-01",
+    "open": 90.97,
+    "high": 94,
+    "low": 84.25,
+    "close": 89.96,
+    "volume": 12198400,
+    "price": 88.83,
+    "monthly_difference": 5.47
+  },
+  {
+    "name": "Chevron",
+    "date": "2016-01-04",
+    "open": 89.53,
+    "high": 90.11,
+    "low": 75.33,
+    "close": 86.47,
+    "volume": 15807700,
+    "price": 85.39,
+    "monthly_difference": 8.93
+  },
+  {
+    "name": "Chevron",
+    "date": "2016-02-01",
+    "open": 85.15,
+    "high": 89.84,
+    "low": 79.85,
+    "close": 83.44,
+    "volume": 12242000,
+    "price": 83.44,
+    "monthly_difference": 5.89
+  },
+  {
+    "name": "Chevron",
+    "date": "2016-03-01",
+    "open": 84.12,
+    "high": 97.91,
+    "low": 83.37,
+    "close": 95.4,
+    "volume": 9974300,
+    "price": 95.4,
+    "monthly_difference": 8.02
+  },
+  {
+    "name": "Chevron",
+    "date": "2016-04-01",
+    "open": 93.69,
+    "high": 94.78,
+    "low": 93.32,
+    "close": 94.26,
+    "volume": 15047800,
+    "price": 94.26,
+    "monthly_difference": 0.78
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-05-02",
+    "open": 268.8,
+    "high": 295.99,
+    "low": 249.58,
+    "close": 289.07,
+    "volume": 856000,
+    "price": 289.07,
+    "monthly_difference": 8.50669734
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-06-01",
+    "open": 288.5,
+    "high": 308.93,
+    "low": 267.43,
+    "close": 308.19,
+    "volume": 770100,
+    "price": 308.19,
+    "monthly_difference": 7.20036106
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-07-01",
+    "open": 307.24,
+    "high": 337.32,
+    "low": 305.88,
+    "close": 324.58,
+    "volume": 921100,
+    "price": 324.58,
+    "monthly_difference": 4.888059921
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-08-01",
+    "open": 328.97,
+    "high": 330.59,
+    "low": 271.53,
+    "close": 313.37,
+    "volume": 1098000,
+    "price": 313.37,
+    "monthly_difference": 9.808675595
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-09-01",
+    "open": 314.03,
+    "high": 346.78,
+    "low": 297.7,
+    "close": 302.95,
+    "volume": 1060100,
+    "price": 302.95,
+    "monthly_difference": 7.61543976
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-10-03",
+    "open": 300.81,
+    "high": 347.94,
+    "low": 285.39,
+    "close": 336.12,
+    "volume": 1022000,
+    "price": 336.12,
+    "monthly_difference": 9.876365453
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-11-01",
+    "open": 326.64,
+    "high": 342.74,
+    "low": 300,
+    "close": 321.56,
+    "volume": 588700,
+    "price": 321.56,
+    "monthly_difference": 6.649654707
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2011-12-01",
+    "open": 318.5,
+    "high": 342,
+    "low": 315.93,
+    "close": 337.74,
+    "volume": 487500,
+    "price": 337.74,
+    "monthly_difference": 3.96242872
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-01-03",
+    "open": 343.7,
+    "high": 370.35,
+    "low": 336.29,
+    "close": 367.29,
+    "volume": 495900,
+    "price": 367.29,
+    "monthly_difference": 4.81999268
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-02-01",
+    "open": 368,
+    "high": 392.35,
+    "low": 358.6,
+    "close": 390.22,
+    "volume": 549500,
+    "price": 390.22,
+    "monthly_difference": 4.494307139
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-03-01",
+    "open": 391.85,
+    "high": 426.57,
+    "low": 386.44,
+    "close": 418,
+    "volume": 412900,
+    "price": 418,
+    "monthly_difference": 4.935979208
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-04-02",
+    "open": 417,
+    "high": 442.4,
+    "low": 401.03,
+    "close": 414.15,
+    "volume": 777000,
+    "price": 414.15,
+    "monthly_difference": 4.904970815
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-05-01",
+    "open": 415.41,
+    "high": 424.41,
+    "low": 384.49,
+    "close": 413.07,
+    "volume": 597000,
+    "price": 413.07,
+    "monthly_difference": 4.935098813
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-06-01",
+    "open": 404.87,
+    "high": 419.69,
+    "low": 370.19,
+    "close": 379.95,
+    "volume": 677800,
+    "price": 379.95,
+    "monthly_difference": 6.266774668
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-07-02",
+    "open": 386.03,
+    "high": 404.59,
+    "low": 287.03,
+    "close": 292.33,
+    "volume": 1298000,
+    "price": 292.33,
+    "monthly_difference": 16.99777303
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-08-01",
+    "open": 292.87,
+    "high": 307.28,
+    "low": 277.26,
+    "close": 288.64,
+    "volume": 626100,
+    "price": 288.64,
+    "monthly_difference": 5.135660269
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-09-04",
+    "open": 289.73,
+    "high": 351.8,
+    "low": 283.68,
+    "close": 317.54,
+    "volume": 885900,
+    "price": 317.54,
+    "monthly_difference": 10.71945569
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-10-01",
+    "open": 319.58,
+    "high": 322.92,
+    "low": 233.82,
+    "close": 254.53,
+    "volume": 1643300,
+    "price": 254.53,
+    "monthly_difference": 16.00388023
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-11-01",
+    "open": 251.56,
+    "high": 284.57,
+    "low": 251.56,
+    "close": 263.78,
+    "volume": 758200,
+    "price": 263.78,
+    "monthly_difference": 6.157090387
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2012-12-03",
+    "open": 265.05,
+    "high": 298.2,
+    "low": 260.01,
+    "close": 297.46,
+    "volume": 558100,
+    "price": 297.46,
+    "monthly_difference": 6.841511348
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-01-02",
+    "open": 304.26,
+    "high": 314.99,
+    "low": 266.02,
+    "close": 307.01,
+    "volume": 683900,
+    "price": 307.01,
+    "monthly_difference": 8.428426838
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-02-01",
+    "open": 308.5,
+    "high": 326.99,
+    "low": 303.5,
+    "close": 316.79,
+    "volume": 651800,
+    "price": 316.79,
+    "monthly_difference": 3.725672155
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-03-01",
+    "open": 316.75,
+    "high": 334.89,
+    "low": 314.5,
+    "close": 325.87,
+    "volume": 356800,
+    "price": 325.87,
+    "monthly_difference": 3.139871961
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-04-01",
+    "open": 327.42,
+    "high": 372.99,
+    "low": 316.87,
+    "close": 363.19,
+    "volume": 710400,
+    "price": 363.19,
+    "monthly_difference": 8.134983362
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-05-01",
+    "open": 360.95,
+    "high": 379.15,
+    "low": 358.5,
+    "close": 361,
+    "volume": 412400,
+    "price": 361,
+    "monthly_difference": 2.799429834
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-06-03",
+    "open": 361.01,
+    "high": 372.66,
+    "low": 350.66,
+    "close": 364.35,
+    "volume": 393400,
+    "price": 364.35,
+    "monthly_difference": 3.041530686
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-07-01",
+    "open": 366.45,
+    "high": 414.9,
+    "low": 362.3,
+    "close": 412.27,
+    "volume": 538100,
+    "price": 412.27,
+    "monthly_difference": 6.767885643
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-08-01",
+    "open": 414.9,
+    "high": 418.23,
+    "low": 397.01,
+    "close": 408.17,
+    "volume": 242400,
+    "price": 408.17,
+    "monthly_difference": 2.602914535
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-09-03",
+    "open": 410.25,
+    "high": 429.78,
+    "low": 403.37,
+    "close": 428.8,
+    "volume": 297600,
+    "price": 428.8,
+    "monthly_difference": 3.16989788
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-10-01",
+    "open": 429.19,
+    "high": 531.43,
+    "low": 420.2,
+    "close": 526.97,
+    "volume": 586100,
+    "price": 526.97,
+    "monthly_difference": 11.68836422
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-11-01",
+    "open": 526.78,
+    "high": 550.28,
+    "low": 523.12,
+    "close": 523.86,
+    "volume": 323200,
+    "price": 523.86,
+    "monthly_difference": 2.530280733
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2013-12-02",
+    "open": 521.5,
+    "high": 537,
+    "low": 506.44,
+    "close": 532.78,
+    "volume": 303500,
+    "price": 532.78,
+    "monthly_difference": 2.928773858
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-01-02",
+    "open": 530,
+    "high": 568.9,
+    "low": 480.87,
+    "close": 551.96,
+    "volume": 705400,
+    "price": 551.96,
+    "monthly_difference": 8.38564899
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-02-03",
+    "open": 550.21,
+    "high": 573.16,
+    "low": 531,
+    "close": 565.21,
+    "volume": 496500,
+    "price": 565.21,
+    "monthly_difference": 3.818284853
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-03-03",
+    "open": 561,
+    "high": 622.9,
+    "low": 551.7,
+    "close": 568.05,
+    "volume": 563600,
+    "price": 568.05,
+    "monthly_difference": 6.06163884
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-04-01",
+    "open": 568.01,
+    "high": 588.69,
+    "low": 472.41,
+    "close": 498.5,
+    "volume": 845300,
+    "price": 498.5,
+    "monthly_difference": 10.9584391
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-05-01",
+    "open": 498.51,
+    "high": 549.27,
+    "low": 490.55,
+    "close": 547.09,
+    "volume": 488900,
+    "price": 547.09,
+    "monthly_difference": 5.647134268
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-06-02",
+    "open": 548,
+    "high": 602.21,
+    "low": 545.27,
+    "close": 592.51,
+    "volume": 391700,
+    "price": 592.51,
+    "monthly_difference": 4.962177983
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-07-01",
+    "open": 596.35,
+    "high": 682.67,
+    "low": 575.92,
+    "close": 672.5,
+    "volume": 538400,
+    "price": 672.5,
+    "monthly_difference": 8.481713893
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-08-01",
+    "open": 674.81,
+    "high": 697.93,
+    "low": 664.24,
+    "close": 678.65,
+    "volume": 325400,
+    "price": 678.65,
+    "monthly_difference": 2.47325983
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-09-02",
+    "open": 678.85,
+    "high": 692.9,
+    "low": 642.64,
+    "close": 666.59,
+    "volume": 343100,
+    "price": 666.59,
+    "monthly_difference": 3.763272349
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-10-01",
+    "open": 666.5,
+    "high": 681.8,
+    "low": 607.55,
+    "close": 638,
+    "volume": 624200,
+    "price": 638,
+    "monthly_difference": 5.758715739
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-11-03",
+    "open": 638.28,
+    "high": 675.24,
+    "low": 635.32,
+    "close": 663.62,
+    "volume": 320100,
+    "price": 663.62,
+    "monthly_difference": 3.046024836
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2014-12-01",
+    "open": 664.66,
+    "high": 696.56,
+    "low": 632.43,
+    "close": 684.51,
+    "volume": 331700,
+    "price": 684.51,
+    "monthly_difference": 4.825469374
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-01-02",
+    "open": 686,
+    "high": 727.97,
+    "low": 653.77,
+    "close": 709.84,
+    "volume": 411900,
+    "price": 709.84,
+    "monthly_difference": 5.370037162
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-02-02",
+    "open": 713.55,
+    "high": 726.63,
+    "low": 647.28,
+    "close": 664.97,
+    "volume": 616100,
+    "price": 664.97,
+    "monthly_difference": 5.775485588
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-03-02",
+    "open": 664.97,
+    "high": 692.43,
+    "low": 650.54,
+    "close": 650.54,
+    "volume": 353300,
+    "price": 650.54,
+    "monthly_difference": 3.119207123
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-04-01",
+    "open": 650,
+    "high": 699.03,
+    "low": 619.72,
+    "close": 621.34,
+    "volume": 805100,
+    "price": 621.34,
+    "monthly_difference": 6.014032834
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-05-01",
+    "open": 628.96,
+    "high": 641.96,
+    "low": 612.26,
+    "close": 615.52,
+    "volume": 517700,
+    "price": 615.52,
+    "monthly_difference": 2.368006509
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-06-01",
+    "open": 615.01,
+    "high": 623.18,
+    "low": 598.04,
+    "close": 604.99,
+    "volume": 424600,
+    "price": 604.99,
+    "monthly_difference": 2.058598418
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-07-01",
+    "open": 606.31,
+    "high": 746.4,
+    "low": 597.33,
+    "close": 742.23,
+    "volume": 788900,
+    "price": 742.23,
+    "monthly_difference": 11.09374669
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-08-03",
+    "open": 743.47,
+    "high": 758.61,
+    "low": 685,
+    "close": 710.01,
+    "volume": 481900,
+    "price": 710.01,
+    "monthly_difference": 5.099021603
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-09-01",
+    "open": 697.95,
+    "high": 741.89,
+    "low": 696.1,
+    "close": 720.25,
+    "volume": 379800,
+    "price": 720.25,
+    "monthly_difference": 3.184308603
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-10-01",
+    "open": 717.6,
+    "high": 757,
+    "low": 640.05,
+    "close": 640.23,
+    "volume": 694400,
+    "price": 640.23,
+    "monthly_difference": 8.371211696
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-11-02",
+    "open": 610,
+    "high": 632.98,
+    "low": 532.03,
+    "close": 579.55,
+    "volume": 1338100,
+    "price": 579.55,
+    "monthly_difference": 8.6651574
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2015-12-01",
+    "open": 583.28,
+    "high": 589.15,
+    "low": 477.97,
+    "close": 479.85,
+    "volume": 1869400,
+    "price": 479.85,
+    "monthly_difference": 10.41869897
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2016-01-04",
+    "open": 468.7,
+    "high": 478.37,
+    "low": 399.14,
+    "close": 452.97,
+    "volume": 2090300,
+    "price": 452.97,
+    "monthly_difference": 9.028954553
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2016-02-01",
+    "open": 476.12,
+    "high": 530.85,
+    "low": 435.87,
+    "close": 509.16,
+    "volume": 1586000,
+    "price": 509.16,
+    "monthly_difference": 9.824973503
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2016-03-01",
+    "open": 514.25,
+    "high": 542.5,
+    "low": 452.78,
+    "close": 470.97,
+    "volume": 1458800,
+    "price": 470.97,
+    "monthly_difference": 9.014548779
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "date": "2016-04-01",
+    "open": 459.33,
+    "high": 467.9,
+    "low": 455.75,
+    "close": 464.81,
+    "volume": 1966800,
+    "price": 464.81,
+    "monthly_difference": 1.315432694
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-05-02",
+    "open": 545.7,
+    "high": 545.73,
+    "low": 513.4,
+    "close": 529.02,
+    "volume": 4589900,
+    "price": 264.25,
+    "monthly_difference": 3.05
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-06-01",
+    "open": 528.04,
+    "high": 533.2,
+    "low": 473.02,
+    "close": 506.38,
+    "volume": 5616600,
+    "price": 252.94,
+    "monthly_difference": 5.98
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-07-01",
+    "open": 506.74,
+    "high": 627.5,
+    "low": 506.38,
+    "close": 603.69,
+    "volume": 8551100,
+    "price": 301.54,
+    "monthly_difference": 10.68
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-08-01",
+    "open": 611.22,
+    "high": 615.5,
+    "low": 490.86,
+    "close": 540.96,
+    "volume": 9554600,
+    "price": 270.21,
+    "monthly_difference": 11.27
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-09-01",
+    "open": 540.75,
+    "high": 558.52,
+    "low": 510.5,
+    "close": 515.04,
+    "volume": 5864900,
+    "price": 257.26,
+    "monthly_difference": 4.49
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-10-03",
+    "open": 509.85,
+    "high": 602.7,
+    "low": 480.6,
+    "close": 592.64,
+    "volume": 7625800,
+    "price": 296.02,
+    "monthly_difference": 11.27
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-11-01",
+    "open": 580.1,
+    "high": 618.3,
+    "low": 561.33,
+    "close": 599.39,
+    "volume": 6089000,
+    "price": 299.4,
+    "monthly_difference": 4.83
+  },
+  {
+    "name": "Alphabet",
+    "date": "2011-12-01",
+    "open": 600,
+    "high": 646.76,
+    "low": 599,
+    "close": 645.9,
+    "volume": 5432500,
+    "price": 322.63,
+    "monthly_difference": 3.83
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-01-03",
+    "open": 652.94,
+    "high": 670.25,
+    "low": 564.55,
+    "close": 580.11,
+    "volume": 7606800,
+    "price": 289.77,
+    "monthly_difference": 8.56
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-02-01",
+    "open": 584.94,
+    "high": 625.6,
+    "low": 579.14,
+    "close": 618.25,
+    "volume": 5068900,
+    "price": 308.82,
+    "monthly_difference": 3.86
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-03-01",
+    "open": 622.26,
+    "high": 658.59,
+    "low": 593.84,
+    "close": 641.24,
+    "volume": 4529600,
+    "price": 320.3,
+    "monthly_difference": 5.17
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-04-02",
+    "open": 640.77,
+    "high": 653.14,
+    "low": 590.2,
+    "close": 604.85,
+    "volume": 6151300,
+    "price": 302.12,
+    "monthly_difference": 5.06
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-05-01",
+    "open": 603.79,
+    "high": 637.85,
+    "low": 579,
+    "close": 580.86,
+    "volume": 5624600,
+    "price": 290.14,
+    "monthly_difference": 4.84
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-06-01",
+    "open": 571.79,
+    "high": 587.89,
+    "low": 556.52,
+    "close": 580.07,
+    "volume": 4686300,
+    "price": 289.75,
+    "monthly_difference": 2.74
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-07-02",
+    "open": 581.82,
+    "high": 642.6,
+    "low": 562.09,
+    "close": 632.97,
+    "volume": 5080900,
+    "price": 316.17,
+    "monthly_difference": 6.68
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-08-01",
+    "open": 637.3,
+    "high": 688.99,
+    "low": 623.41,
+    "close": 685.09,
+    "volume": 4293300,
+    "price": 342.2,
+    "monthly_difference": 5
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-09-04",
+    "open": 684.55,
+    "high": 764.89,
+    "low": 673.5,
+    "close": 754.5,
+    "volume": 6652200,
+    "price": 376.87,
+    "monthly_difference": 6.35
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-10-01",
+    "open": 759.05,
+    "high": 774.38,
+    "low": 669.7,
+    "close": 680.3,
+    "volume": 7010400,
+    "price": 339.81,
+    "monthly_difference": 7.25
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-11-01",
+    "open": 679.5,
+    "high": 699.22,
+    "low": 636,
+    "close": 698.37,
+    "volume": 4764600,
+    "price": 348.84,
+    "monthly_difference": 4.73
+  },
+  {
+    "name": "Alphabet",
+    "date": "2012-12-03",
+    "open": 702.24,
+    "high": 729.1,
+    "low": 682.33,
+    "close": 707.38,
+    "volume": 4385500,
+    "price": 353.34,
+    "monthly_difference": 3.31
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-01-02",
+    "open": 719.42,
+    "high": 760.95,
+    "low": 695.52,
+    "close": 755.69,
+    "volume": 5165700,
+    "price": 377.47,
+    "monthly_difference": 4.49
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-02-01",
+    "open": 758.2,
+    "high": 808.97,
+    "low": 758.1,
+    "close": 801.2,
+    "volume": 5135500,
+    "price": 400.2,
+    "monthly_difference": 3.25
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-03-01",
+    "open": 797.8,
+    "high": 844,
+    "low": 793.3,
+    "close": 794.19,
+    "volume": 4500300,
+    "price": 396.7,
+    "monthly_difference": 3.1
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-04-01",
+    "open": 795.01,
+    "high": 827.64,
+    "low": 761.26,
+    "close": 824.57,
+    "volume": 5096900,
+    "price": 411.87,
+    "monthly_difference": 4.18
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-05-01",
+    "open": 823.26,
+    "high": 920.6,
+    "low": 816.36,
+    "close": 871.22,
+    "volume": 4688900,
+    "price": 435.18,
+    "monthly_difference": 6
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-06-03",
+    "open": 873,
+    "high": 910.84,
+    "low": 847.22,
+    "close": 880.37,
+    "volume": 5111900,
+    "price": 439.75,
+    "monthly_difference": 3.62
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-07-01",
+    "open": 886.45,
+    "high": 928,
+    "low": 875.61,
+    "close": 887.75,
+    "volume": 4874300,
+    "price": 443.43,
+    "monthly_difference": 2.9
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-08-01",
+    "open": 895,
+    "high": 909.71,
+    "low": 845.56,
+    "close": 846.9,
+    "volume": 3225400,
+    "price": 423.03,
+    "monthly_difference": 3.65
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-09-03",
+    "open": 854.36,
+    "high": 905.99,
+    "low": 853.95,
+    "close": 875.91,
+    "volume": 3497500,
+    "price": 437.52,
+    "monthly_difference": 2.96
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-10-01",
+    "open": 880.25,
+    "high": 1041.52,
+    "low": 842.98,
+    "close": 1030.58,
+    "volume": 4963100,
+    "price": 514.78,
+    "monthly_difference": 10.54
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-11-01",
+    "open": 1031.79,
+    "high": 1068,
+    "low": 1005,
+    "close": 1059.59,
+    "volume": 2755100,
+    "price": 529.27,
+    "monthly_difference": 3.04
+  },
+  {
+    "name": "Alphabet",
+    "date": "2013-12-02",
+    "open": 1063.51,
+    "high": 1121,
+    "low": 1049.02,
+    "close": 1120.71,
+    "volume": 3364900,
+    "price": 559.8,
+    "monthly_difference": 3.32
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-01-02",
+    "open": 1115.46,
+    "high": 1186.54,
+    "low": 1082.27,
+    "close": 1180.97,
+    "volume": 5743000,
+    "price": 589.9,
+    "monthly_difference": 4.6
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-02-03",
+    "open": 1179.2,
+    "high": 1228.88,
+    "low": 1128.02,
+    "close": 1215.65,
+    "volume": 4528300,
+    "price": 607.22,
+    "monthly_difference": 4.28
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-03-03",
+    "open": 1206.75,
+    "high": 1226.99,
+    "low": 552.92,
+    "close": 556.97,
+    "volume": 3409800,
+    "price": 556.97,
+    "monthly_difference": 37.87
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-04-01",
+    "open": 558.71,
+    "high": 604.83,
+    "low": 502.8,
+    "close": 526.66,
+    "volume": 3290700,
+    "price": 526.66,
+    "monthly_difference": 9.21
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-05-01",
+    "open": 527.11,
+    "high": 567.84,
+    "low": 503.3,
+    "close": 559.89,
+    "volume": 1828400,
+    "price": 559.89,
+    "monthly_difference": 6.03
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-06-02",
+    "open": 560.7,
+    "high": 582.45,
+    "low": 538.75,
+    "close": 575.28,
+    "volume": 1872100,
+    "price": 575.28,
+    "monthly_difference": 3.9
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-07-01",
+    "open": 578.32,
+    "high": 599.65,
+    "low": 565.01,
+    "close": 571.6,
+    "volume": 1668700,
+    "price": 571.6,
+    "monthly_difference": 2.97
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-08-01",
+    "open": 570.4,
+    "high": 587.34,
+    "low": 560,
+    "close": 571.6,
+    "volume": 1368600,
+    "price": 571.6,
+    "monthly_difference": 2.38
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-09-02",
+    "open": 571.85,
+    "high": 596.48,
+    "low": 568.21,
+    "close": 577.36,
+    "volume": 1673200,
+    "price": 577.36,
+    "monthly_difference": 2.43
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-10-01",
+    "open": 576.01,
+    "high": 581,
+    "low": 508.1,
+    "close": 559.08,
+    "volume": 2356400,
+    "price": 559.08,
+    "monthly_difference": 6.69
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-11-03",
+    "open": 555.5,
+    "high": 557.9,
+    "low": 530.08,
+    "close": 541.83,
+    "volume": 1561400,
+    "price": 541.83,
+    "monthly_difference": 2.56
+  },
+  {
+    "name": "Alphabet",
+    "date": "2014-12-01",
+    "open": 538.9,
+    "high": 541.41,
+    "low": 489,
+    "close": 526.4,
+    "volume": 2146900,
+    "price": 526.4,
+    "monthly_difference": 5.09
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-01-02",
+    "open": 529.01,
+    "high": 542.17,
+    "low": 487.56,
+    "close": 534.52,
+    "volume": 2790600,
+    "price": 534.52,
+    "monthly_difference": 5.3
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-02-02",
+    "open": 531.73,
+    "high": 564.71,
+    "low": 518.55,
+    "close": 558.4,
+    "volume": 1842300,
+    "price": 558.4,
+    "monthly_difference": 4.26
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-03-02",
+    "open": 560.53,
+    "high": 577.91,
+    "low": 544.22,
+    "close": 548,
+    "volume": 1828800,
+    "price": 548,
+    "monthly_difference": 3
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-04-01",
+    "open": 548.6,
+    "high": 571.14,
+    "low": 521.01,
+    "close": 537.34,
+    "volume": 2117000,
+    "price": 537.34,
+    "monthly_difference": 4.59
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-05-01",
+    "open": 538.43,
+    "high": 544.19,
+    "low": 521.09,
+    "close": 532.11,
+    "volume": 1723100,
+    "price": 532.11,
+    "monthly_difference": 2.17
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-06-01",
+    "open": 536.79,
+    "high": 543.74,
+    "low": 520.5,
+    "close": 520.51,
+    "volume": 1660600,
+    "price": 520.51,
+    "monthly_difference": 2.18
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-07-01",
+    "open": 524.73,
+    "high": 678.64,
+    "low": 515.18,
+    "close": 625.61,
+    "volume": 2955500,
+    "price": 625.61,
+    "monthly_difference": 13.69
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-08-03",
+    "open": 625.34,
+    "high": 674.9,
+    "low": 565.05,
+    "close": 618.25,
+    "volume": 2661500,
+    "price": 618.25,
+    "monthly_difference": 8.86
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-09-01",
+    "open": 602.36,
+    "high": 650.9,
+    "low": 589.38,
+    "close": 608.42,
+    "volume": 2398400,
+    "price": 608.42,
+    "monthly_difference": 4.96
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-10-01",
+    "open": 608.37,
+    "high": 730,
+    "low": 599.85,
+    "close": 710.81,
+    "volume": 2333600,
+    "price": 710.81,
+    "monthly_difference": 9.79
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-11-02",
+    "open": 711.06,
+    "high": 762.71,
+    "low": 705.85,
+    "close": 742.6,
+    "volume": 1801600,
+    "price": 742.6,
+    "monthly_difference": 3.87
+  },
+  {
+    "name": "Alphabet",
+    "date": "2015-12-01",
+    "open": 747.11,
+    "high": 779.98,
+    "low": 724.17,
+    "close": 758.88,
+    "volume": 2026100,
+    "price": 758.88,
+    "monthly_difference": 3.71
+  },
+  {
+    "name": "Alphabet",
+    "date": "2016-01-04",
+    "open": 743,
+    "high": 752,
+    "low": 673.26,
+    "close": 742.95,
+    "volume": 2632600,
+    "price": 742.95,
+    "monthly_difference": 5.52
+  },
+  {
+    "name": "Alphabet",
+    "date": "2016-02-01",
+    "open": 750.46,
+    "high": 789.87,
+    "low": 663.06,
+    "close": 697.77,
+    "volume": 3319000,
+    "price": 697.77,
+    "monthly_difference": 8.73
+  },
+  {
+    "name": "Alphabet",
+    "date": "2016-03-01",
+    "open": 703.62,
+    "high": 757.88,
+    "low": 685.34,
+    "close": 744.95,
+    "volume": 1959700,
+    "price": 744.95,
+    "monthly_difference": 5.03
+  },
+  {
+    "name": "Alphabet",
+    "date": "2016-04-01",
+    "open": 738.6,
+    "high": 750.34,
+    "low": 737,
+    "close": 749.91,
+    "volume": 3149800,
+    "price": 749.91,
+    "monthly_difference": 0.9
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-04-01",
+    "open": 76.3,
+    "high": 78.59,
+    "low": 75.66,
+    "close": 78.31,
+    "volume": 5124100,
+    "price": 66.68,
+    "monthly_difference": 1.9
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-05-02",
+    "open": 78.4,
+    "high": 83.08,
+    "low": 78.2,
+    "close": 81.54,
+    "volume": 6057000,
+    "price": 69.95,
+    "monthly_difference": 3.03
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-06-01",
+    "open": 81.47,
+    "high": 84.91,
+    "low": 80,
+    "close": 84.32,
+    "volume": 6067100,
+    "price": 72.33,
+    "monthly_difference": 2.98
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-07-01",
+    "open": 84.16,
+    "high": 89.57,
+    "low": 84.15,
+    "close": 86.48,
+    "volume": 6136200,
+    "price": 74.19,
+    "monthly_difference": 3.12
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-08-01",
+    "open": 87.49,
+    "high": 91.22,
+    "low": 82.01,
+    "close": 90.41,
+    "volume": 9123300,
+    "price": 78.08,
+    "monthly_difference": 5.32
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-09-01",
+    "open": 90.27,
+    "high": 91.09,
+    "low": 83.65,
+    "close": 87.82,
+    "volume": 8310800,
+    "price": 75.85,
+    "monthly_difference": 4.26
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-10-03",
+    "open": 87.43,
+    "high": 93.84,
+    "low": 83.74,
+    "close": 92.85,
+    "volume": 6792900,
+    "price": 80.19,
+    "monthly_difference": 5.69
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-11-01",
+    "open": 92.31,
+    "high": 95.54,
+    "low": 91.22,
+    "close": 95.52,
+    "volume": 5597400,
+    "price": 83.12,
+    "monthly_difference": 2.31
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2011-12-01",
+    "open": 95.44,
+    "high": 101,
+    "low": 94.82,
+    "close": 100.33,
+    "volume": 5402700,
+    "price": 87.3,
+    "monthly_difference": 3.16
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-01-03",
+    "open": 101.33,
+    "high": 102.22,
+    "low": 97.7,
+    "close": 99.05,
+    "volume": 6346300,
+    "price": 86.19,
+    "monthly_difference": 2.26
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-02-01",
+    "open": 99.46,
+    "high": 101.29,
+    "low": 98.26,
+    "close": 99.28,
+    "volume": 4719700,
+    "price": 87,
+    "monthly_difference": 1.52
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-03-01",
+    "open": 99.28,
+    "high": 100.44,
+    "low": 95.13,
+    "close": 98.1,
+    "volume": 6402200,
+    "price": 85.96,
+    "monthly_difference": 2.72
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-04-02",
+    "open": 97.82,
+    "high": 99.5,
+    "low": 94.13,
+    "close": 97.45,
+    "volume": 6867900,
+    "price": 85.39,
+    "monthly_difference": 2.77
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-05-01",
+    "open": 97.23,
+    "high": 98.01,
+    "low": 89.26,
+    "close": 89.34,
+    "volume": 6326700,
+    "price": 78.9,
+    "monthly_difference": 4.67
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-06-01",
+    "open": 87.47,
+    "high": 90.76,
+    "low": 85.92,
+    "close": 88.53,
+    "volume": 7631100,
+    "price": 78.18,
+    "monthly_difference": 2.74
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-07-02",
+    "open": 88.41,
+    "high": 93.32,
+    "low": 87.62,
+    "close": 89.36,
+    "volume": 6193700,
+    "price": 78.92,
+    "monthly_difference": 3.15
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-08-01",
+    "open": 89.49,
+    "high": 90.43,
+    "low": 86.15,
+    "close": 89.49,
+    "volume": 5342200,
+    "price": 79.65,
+    "monthly_difference": 2.42
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-09-04",
+    "open": 89.51,
+    "high": 94,
+    "low": 88.71,
+    "close": 91.75,
+    "volume": 5695800,
+    "price": 81.66,
+    "monthly_difference": 2.9
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-10-01",
+    "open": 92.11,
+    "high": 94.16,
+    "low": 86.37,
+    "close": 86.8,
+    "volume": 6778800,
+    "price": 77.26,
+    "monthly_difference": 4.32
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-11-01",
+    "open": 87,
+    "high": 88.13,
+    "low": 83.31,
+    "close": 87.04,
+    "volume": 6701500,
+    "price": 78.17,
+    "monthly_difference": 2.81
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2012-12-03",
+    "open": 87.42,
+    "high": 90.85,
+    "low": 86.27,
+    "close": 88.21,
+    "volume": 6014000,
+    "price": 79.22,
+    "monthly_difference": 2.59
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-01-02",
+    "open": 89.4,
+    "high": 95.29,
+    "low": 89.25,
+    "close": 95.29,
+    "volume": 5529200,
+    "price": 85.58,
+    "monthly_difference": 3.27
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-02-01",
+    "open": 95.58,
+    "high": 96.78,
+    "low": 93.19,
+    "close": 95.9,
+    "volume": 5369200,
+    "price": 86.82,
+    "monthly_difference": 1.89
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-03-01",
+    "open": 95.68,
+    "high": 99.78,
+    "low": 94.87,
+    "close": 99.69,
+    "volume": 4834100,
+    "price": 90.25,
+    "monthly_difference": 2.52
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-04-01",
+    "open": 99.41,
+    "high": 103.7,
+    "low": 98.38,
+    "close": 102.14,
+    "volume": 4839700,
+    "price": 92.47,
+    "monthly_difference": 2.63
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-05-01",
+    "open": 101.98,
+    "high": 103.34,
+    "low": 96.56,
+    "close": 96.57,
+    "volume": 6246900,
+    "price": 88.11,
+    "monthly_difference": 3.39
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-06-03",
+    "open": 96.77,
+    "high": 100.18,
+    "low": 95.16,
+    "close": 99,
+    "volume": 4875000,
+    "price": 90.33,
+    "monthly_difference": 2.57
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-07-01",
+    "open": 99.35,
+    "high": 101.81,
+    "low": 96.3,
+    "close": 98.08,
+    "volume": 4945800,
+    "price": 89.49,
+    "monthly_difference": 2.78
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-08-01",
+    "open": 98.62,
+    "high": 99.44,
+    "low": 94.01,
+    "close": 94.36,
+    "volume": 5020800,
+    "price": 86.79,
+    "monthly_difference": 2.81
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-09-03",
+    "open": 95.1,
+    "high": 98.99,
+    "low": 94.12,
+    "close": 96.21,
+    "volume": 4418100,
+    "price": 88.49,
+    "monthly_difference": 2.52
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-10-01",
+    "open": 96.18,
+    "high": 96.7,
+    "low": 93.14,
+    "close": 96.52,
+    "volume": 4755600,
+    "price": 88.78,
+    "monthly_difference": 1.88
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-11-01",
+    "open": 96.52,
+    "high": 99.27,
+    "low": 96.32,
+    "close": 97.37,
+    "volume": 6519100,
+    "price": 90.3,
+    "monthly_difference": 1.51
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2013-12-02",
+    "open": 97.29,
+    "high": 97.29,
+    "low": 94.04,
+    "close": 97.03,
+    "volume": 4435300,
+    "price": 89.99,
+    "monthly_difference": 1.7
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-01-02",
+    "open": 96.81,
+    "high": 97.08,
+    "low": 92.87,
+    "close": 94.17,
+    "volume": 5792400,
+    "price": 87.34,
+    "monthly_difference": 2.22
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-02-03",
+    "open": 94.54,
+    "high": 97,
+    "low": 92.22,
+    "close": 95.15,
+    "volume": 5232800,
+    "price": 89,
+    "monthly_difference": 2.53
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-03-03",
+    "open": 94.24,
+    "high": 99.07,
+    "low": 94,
+    "close": 98.03,
+    "volume": 5940200,
+    "price": 91.69,
+    "monthly_difference": 2.63
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-04-01",
+    "open": 98.1,
+    "high": 101.78,
+    "low": 96.52,
+    "close": 101.38,
+    "volume": 5683700,
+    "price": 94.82,
+    "monthly_difference": 2.65
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-05-01",
+    "open": 100.68,
+    "high": 103.78,
+    "low": 100.33,
+    "close": 101.43,
+    "volume": 4321600,
+    "price": 95.63,
+    "monthly_difference": 1.69
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-06-02",
+    "open": 101.39,
+    "high": 102.62,
+    "low": 99.41,
+    "close": 100.74,
+    "volume": 4348900,
+    "price": 94.98,
+    "monthly_difference": 1.59
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-07-01",
+    "open": 100.43,
+    "high": 101.36,
+    "low": 94.56,
+    "close": 94.56,
+    "volume": 5623700,
+    "price": 89.16,
+    "monthly_difference": 3.47
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-08-01",
+    "open": 94.3,
+    "high": 95.37,
+    "low": 92.92,
+    "close": 93.72,
+    "volume": 5167300,
+    "price": 89.13,
+    "monthly_difference": 1.3
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-09-02",
+    "open": 93.24,
+    "high": 97.3,
+    "low": 90.53,
+    "close": 94.81,
+    "volume": 7421000,
+    "price": 90.16,
+    "monthly_difference": 3.6
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-10-01",
+    "open": 94.37,
+    "high": 95.29,
+    "low": 89.34,
+    "close": 93.73,
+    "volume": 6242000,
+    "price": 89.14,
+    "monthly_difference": 3.22
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-11-03",
+    "open": 93.78,
+    "high": 97.5,
+    "low": 93.02,
+    "close": 96.81,
+    "volume": 4900000,
+    "price": 92.88,
+    "monthly_difference": 2.35
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2014-12-01",
+    "open": 96.15,
+    "high": 97.5,
+    "low": 87.62,
+    "close": 93.7,
+    "volume": 7991700,
+    "price": 89.9,
+    "monthly_difference": 5.34
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-01-02",
+    "open": 94.13,
+    "high": 95,
+    "low": 88.77,
+    "close": 92.44,
+    "volume": 8258000,
+    "price": 88.69,
+    "monthly_difference": 3.39
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-02-02",
+    "open": 92.05,
+    "high": 99.88,
+    "low": 91.43,
+    "close": 98.9,
+    "volume": 7832400,
+    "price": 95.71,
+    "monthly_difference": 4.42
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-03-02",
+    "open": 98.9,
+    "high": 101.09,
+    "low": 94.94,
+    "close": 97.44,
+    "volume": 7744900,
+    "price": 94.3,
+    "monthly_difference": 3.14
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-04-01",
+    "open": 96.81,
+    "high": 99.35,
+    "low": 94.46,
+    "close": 96.55,
+    "volume": 6886600,
+    "price": 93.44,
+    "monthly_difference": 2.52
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-05-01",
+    "open": 96.73,
+    "high": 101.08,
+    "low": 95.57,
+    "close": 95.93,
+    "volume": 6904400,
+    "price": 93.64,
+    "monthly_difference": 2.8
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-06-01",
+    "open": 95.84,
+    "high": 97.96,
+    "low": 94.02,
+    "close": 95.07,
+    "volume": 5363800,
+    "price": 92.8,
+    "monthly_difference": 2.05
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-07-01",
+    "open": 95.1,
+    "high": 101.1,
+    "low": 94.73,
+    "close": 99.86,
+    "volume": 5989900,
+    "price": 97.48,
+    "monthly_difference": 3.25
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-08-03",
+    "open": 100,
+    "high": 101.88,
+    "low": 87.5,
+    "close": 95.02,
+    "volume": 6792800,
+    "price": 93.57,
+    "monthly_difference": 7.59
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-09-01",
+    "open": 92.77,
+    "high": 98.97,
+    "low": 92.6,
+    "close": 98.53,
+    "volume": 6164800,
+    "price": 97.03,
+    "monthly_difference": 3.33
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-10-01",
+    "open": 98.5,
+    "high": 113.96,
+    "low": 97.13,
+    "close": 112.25,
+    "volume": 8024600,
+    "price": 110.54,
+    "monthly_difference": 7.97
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-11-02",
+    "open": 112.46,
+    "high": 114.99,
+    "low": 109.6,
+    "close": 114.16,
+    "volume": 6884000,
+    "price": 113.3,
+    "monthly_difference": 2.4
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2015-12-01",
+    "open": 114.52,
+    "high": 120.23,
+    "low": 112.91,
+    "close": 118.14,
+    "volume": 5399000,
+    "price": 117.25,
+    "monthly_difference": 3.14
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2016-01-04",
+    "open": 117.25,
+    "high": 124.35,
+    "low": 113,
+    "close": 123.78,
+    "volume": 9171100,
+    "price": 122.85,
+    "monthly_difference": 4.78
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2016-02-01",
+    "open": 123.08,
+    "high": 124.83,
+    "low": 112.71,
+    "close": 117.19,
+    "volume": 8489500,
+    "price": 117.19,
+    "monthly_difference": 5.1
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2016-03-01",
+    "open": 117.91,
+    "high": 126.96,
+    "low": 115.32,
+    "close": 125.68,
+    "volume": 6606800,
+    "price": 125.68,
+    "monthly_difference": 4.8
+  },
+  {
+    "name": "Mcdonalds",
+    "date": "2016-04-01",
+    "open": 125.19,
+    "high": 127.39,
+    "low": 124.87,
+    "close": 127.02,
+    "volume": 10403400,
+    "price": 127.02,
+    "monthly_difference": 1
   },
   {
     "name": "Starbucks",
@@ -1999,328 +3990,2276 @@
     "close": 36.79,
     "volume": 12528400,
     "price": 17.22,
-    "monthly_difference": "3.90%"
+    "monthly_difference": 3.9
   },
   {
     "name": "Starbucks",
-    "date": "2011-04-01",
-    "open": 37.25,
-    "high": 37.66,
-    "low": 35,
-    "close": 36.2,
-    "volume": 15321500,
-    "price": 16.88,
-    "monthly_difference": "3.66%"
-  },
-  {
-    "name": "Iron Ore",
-    "date": "2011-03-01",
-    "price": 169.36
-  },
-  {
-    "name": "Iron Ore",
-    "date": "2011-04-01",
-    "price": 179.26
-  },
-  {
-    "name": "Iron Ore",
-    "date": "2011-05-01",
-    "price": 177.1
-  },
-  {
-    "name": "Iron Ore",
     "date": "2011-06-01",
-    "price": 170.88
+    "open": 36.54,
+    "high": 39.79,
+    "low": 34.61,
+    "close": 39.49,
+    "volume": 13540800,
+    "price": 18.48,
+    "monthly_difference": 6.96
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2011-07-01",
-    "price": 172.98
+    "open": 39.62,
+    "high": 41.11,
+    "low": 38.9,
+    "close": 40.09,
+    "volume": 15559700,
+    "price": 18.76,
+    "monthly_difference": 2.76
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2011-08-01",
-    "price": 177.45
+    "open": 40.44,
+    "high": 40.77,
+    "low": 33.72,
+    "close": 38.62,
+    "volume": 20648800,
+    "price": 18.14,
+    "monthly_difference": 9.46
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2011-09-01",
-    "price": 177.23
+    "open": 38.84,
+    "high": 42,
+    "low": 36.42,
+    "close": 37.29,
+    "volume": 17193300,
+    "price": 17.51,
+    "monthly_difference": 7.12
   },
   {
-    "name": "Iron Ore",
-    "date": "2011-10-01",
-    "price": 150.43
+    "name": "Starbucks",
+    "date": "2011-10-03",
+    "open": 36.85,
+    "high": 43.43,
+    "low": 35.12,
+    "close": 42.36,
+    "volume": 14783700,
+    "price": 19.89,
+    "monthly_difference": 10.58
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2011-11-01",
-    "price": 135.54
+    "open": 41.33,
+    "high": 44.7,
+    "low": 40.55,
+    "close": 43.48,
+    "volume": 14397400,
+    "price": 20.5,
+    "monthly_difference": 4.87
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2011-12-01",
-    "price": 136.46
+    "open": 43.2,
+    "high": 46.5,
+    "low": 42.67,
+    "close": 46.01,
+    "volume": 9976200,
+    "price": 21.69,
+    "monthly_difference": 4.3
   },
   {
-    "name": "Iron Ore",
-    "date": "2012-01-01",
-    "price": 140.35
+    "name": "Starbucks",
+    "date": "2012-01-03",
+    "open": 46.85,
+    "high": 48.62,
+    "low": 45.28,
+    "close": 47.92,
+    "volume": 12849700,
+    "price": 22.59,
+    "monthly_difference": 3.56
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2012-02-01",
-    "price": 140.4
+    "open": 48.34,
+    "high": 49.36,
+    "low": 47.41,
+    "close": 48.56,
+    "volume": 9457700,
+    "price": 22.97,
+    "monthly_difference": 2.02
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2012-03-01",
-    "price": 144.66
+    "open": 48.69,
+    "high": 56.55,
+    "low": 48.1,
+    "close": 55.89,
+    "volume": 14162600,
+    "price": 26.44,
+    "monthly_difference": 8.07
   },
   {
-    "name": "Iron Ore",
-    "date": "2012-04-01",
-    "price": 147.65
+    "name": "Starbucks",
+    "date": "2012-04-02",
+    "open": 56.03,
+    "high": 62,
+    "low": 55.96,
+    "close": 57.37,
+    "volume": 22120400,
+    "price": 27.14,
+    "monthly_difference": 5.12
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2012-05-01",
-    "price": 136.27
+    "open": 57.51,
+    "high": 58.43,
+    "low": 51.43,
+    "close": 54.89,
+    "volume": 16772700,
+    "price": 26.05,
+    "monthly_difference": 6.37
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2012-06-01",
-    "price": 134.62
+    "open": 53.11,
+    "high": 55.97,
+    "low": 51.03,
+    "close": 53.32,
+    "volume": 16391200,
+    "price": 25.3,
+    "monthly_difference": 4.62
   },
   {
-    "name": "Iron Ore",
-    "date": "2012-07-01",
-    "price": 127.94
+    "name": "Starbucks",
+    "date": "2012-07-02",
+    "open": 53.44,
+    "high": 54.28,
+    "low": 45.09,
+    "close": 45.28,
+    "volume": 17317800,
+    "price": 21.49,
+    "monthly_difference": 9.25
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2012-08-01",
-    "price": 107.8
+    "open": 45.47,
+    "high": 50.06,
+    "low": 43.04,
+    "close": 49.61,
+    "volume": 18684100,
+    "price": 23.63,
+    "monthly_difference": 7.54
   },
   {
-    "name": "Iron Ore",
-    "date": "2012-09-01",
-    "price": 99.47
+    "name": "Starbucks",
+    "date": "2012-09-04",
+    "open": 49.45,
+    "high": 52,
+    "low": 48.99,
+    "close": 50.71,
+    "volume": 15275000,
+    "price": 24.16,
+    "monthly_difference": 2.98
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2012-10-01",
-    "price": 113.95
+    "open": 50.93,
+    "high": 51.3,
+    "low": 44.27,
+    "close": 45.9,
+    "volume": 20506000,
+    "price": 21.87,
+    "monthly_difference": 7.36
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2012-11-01",
-    "price": 120.35
+    "open": 45.74,
+    "high": 52.31,
+    "low": 45.39,
+    "close": 51.87,
+    "volume": 16414900,
+    "price": 24.81,
+    "monthly_difference": 7.08
   },
   {
-    "name": "Iron Ore",
-    "date": "2012-12-01",
-    "price": 128.87
+    "name": "Starbucks",
+    "date": "2012-12-03",
+    "open": 52.14,
+    "high": 54.9,
+    "low": 49.56,
+    "close": 53.63,
+    "volume": 15941100,
+    "price": 25.66,
+    "monthly_difference": 5.11
   },
   {
-    "name": "Iron Ore",
-    "date": "2013-01-01",
-    "price": 150.49
+    "name": "Starbucks",
+    "date": "2013-01-02",
+    "open": 54.59,
+    "high": 57.27,
+    "low": 53.68,
+    "close": 56.12,
+    "volume": 14003100,
+    "price": 26.85,
+    "monthly_difference": 3.24
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-02-01",
-    "price": 154.64
+    "open": 56.57,
+    "high": 57.1,
+    "low": 52.52,
+    "close": 54.85,
+    "volume": 10691400,
+    "price": 26.34,
+    "monthly_difference": 4.18
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-03-01",
-    "price": 139.87
+    "open": 54.63,
+    "high": 58.97,
+    "low": 54,
+    "close": 56.95,
+    "volume": 11386600,
+    "price": 27.35,
+    "monthly_difference": 4.4
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-04-01",
-    "price": 137.39
+    "open": 57.13,
+    "high": 60.92,
+    "low": 56.65,
+    "close": 60.84,
+    "volume": 10004100,
+    "price": 29.21,
+    "monthly_difference": 3.63
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-05-01",
-    "price": 124.01
+    "open": 60.55,
+    "high": 64.93,
+    "low": 59.6,
+    "close": 63.14,
+    "volume": 8117600,
+    "price": 30.42,
+    "monthly_difference": 4.28
   },
   {
-    "name": "Iron Ore",
-    "date": "2013-06-01",
-    "price": 114.82
+    "name": "Starbucks",
+    "date": "2013-06-03",
+    "open": 63.26,
+    "high": 67.48,
+    "low": 62.31,
+    "close": 65.51,
+    "volume": 10639400,
+    "price": 31.56,
+    "monthly_difference": 3.98
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-07-01",
-    "price": 127.19
+    "open": 66.09,
+    "high": 73.52,
+    "low": 65.82,
+    "close": 71.29,
+    "volume": 10386600,
+    "price": 34.35,
+    "monthly_difference": 5.53
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-08-01",
-    "price": 137.06
+    "open": 72.27,
+    "high": 74.27,
+    "low": 69.86,
+    "close": 70.52,
+    "volume": 6942000,
+    "price": 34.07,
+    "monthly_difference": 3.06
   },
   {
-    "name": "Iron Ore",
-    "date": "2013-09-01",
-    "price": 134.19
+    "name": "Starbucks",
+    "date": "2013-09-03",
+    "open": 71.7,
+    "high": 77.84,
+    "low": 70.93,
+    "close": 76.97,
+    "volume": 7917400,
+    "price": 37.19,
+    "monthly_difference": 4.64
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-10-01",
-    "price": 132.57
+    "open": 76.98,
+    "high": 81.62,
+    "low": 74.45,
+    "close": 81.05,
+    "volume": 9803300,
+    "price": 39.16,
+    "monthly_difference": 4.59
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2013-11-01",
-    "price": 136.32
+    "open": 81.54,
+    "high": 82.5,
+    "low": 79,
+    "close": 81.46,
+    "volume": 9009600,
+    "price": 39.49,
+    "monthly_difference": 2.17
   },
   {
-    "name": "Iron Ore",
-    "date": "2013-12-01",
-    "price": 135.79
+    "name": "Starbucks",
+    "date": "2013-12-02",
+    "open": 81.49,
+    "high": 81.69,
+    "low": 75.91,
+    "close": 78.39,
+    "volume": 9177900,
+    "price": 38,
+    "monthly_difference": 3.67
   },
   {
-    "name": "Iron Ore",
-    "date": "2014-01-01",
-    "price": 128.12
+    "name": "Starbucks",
+    "date": "2014-01-02",
+    "open": 78.07,
+    "high": 78.27,
+    "low": 70.87,
+    "close": 71.12,
+    "volume": 14449300,
+    "price": 34.47,
+    "monthly_difference": 4.96
   },
   {
-    "name": "Iron Ore",
-    "date": "2014-02-01",
-    "price": 121.37
+    "name": "Starbucks",
+    "date": "2014-02-03",
+    "open": 71,
+    "high": 75.19,
+    "low": 68.67,
+    "close": 70.96,
+    "volume": 14859500,
+    "price": 34.53,
+    "monthly_difference": 4.53
   },
   {
-    "name": "Iron Ore",
-    "date": "2014-03-01",
-    "price": 111.83
+    "name": "Starbucks",
+    "date": "2014-03-03",
+    "open": 70.01,
+    "high": 78.64,
+    "low": 70,
+    "close": 73.38,
+    "volume": 11981000,
+    "price": 35.7,
+    "monthly_difference": 5.81
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2014-04-01",
-    "price": 114.58
+    "open": 73.64,
+    "high": 74.98,
+    "low": 67.93,
+    "close": 70.62,
+    "volume": 11299100,
+    "price": 34.36,
+    "monthly_difference": 4.93
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2014-05-01",
-    "price": 100.56
+    "open": 70.75,
+    "high": 73.78,
+    "low": 69.14,
+    "close": 73.24,
+    "volume": 8207800,
+    "price": 35.77,
+    "monthly_difference": 3.25
   },
   {
-    "name": "Iron Ore",
-    "date": "2014-06-01",
-    "price": 92.74
+    "name": "Starbucks",
+    "date": "2014-06-02",
+    "open": 73.22,
+    "high": 78.35,
+    "low": 73.16,
+    "close": 77.38,
+    "volume": 7953700,
+    "price": 37.79,
+    "monthly_difference": 3.43
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2014-07-01",
-    "price": 95.97
+    "open": 77.89,
+    "high": 80.64,
+    "low": 77.12,
+    "close": 77.68,
+    "volume": 8288300,
+    "price": 37.94,
+    "monthly_difference": 2.23
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2014-08-01",
-    "price": 92.63
+    "open": 77.5,
+    "high": 78.47,
+    "low": 76.16,
+    "close": 77.81,
+    "volume": 6113400,
+    "price": 38.13,
+    "monthly_difference": 1.49
   },
   {
-    "name": "Iron Ore",
-    "date": "2014-09-01",
-    "price": 82.27
+    "name": "Starbucks",
+    "date": "2014-09-02",
+    "open": 77.7,
+    "high": 77.98,
+    "low": 73.78,
+    "close": 75.46,
+    "volume": 8309800,
+    "price": 36.98,
+    "monthly_difference": 2.77
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2014-10-01",
-    "price": 80.09
+    "open": 75.68,
+    "high": 77.67,
+    "low": 70.77,
+    "close": 75.56,
+    "volume": 11662300,
+    "price": 37.02,
+    "monthly_difference": 4.65
   },
   {
-    "name": "Iron Ore",
-    "date": "2014-11-01",
-    "price": 73.13
+    "name": "Starbucks",
+    "date": "2014-11-03",
+    "open": 75.97,
+    "high": 81.64,
+    "low": 75.47,
+    "close": 81.21,
+    "volume": 7751000,
+    "price": 39.96,
+    "monthly_difference": 3.93
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2014-12-01",
-    "price": 68.8
+    "open": 81,
+    "high": 84.2,
+    "low": 78.44,
+    "close": 82.05,
+    "volume": 10441700,
+    "price": 40.37,
+    "monthly_difference": 3.54
   },
   {
-    "name": "Iron Ore",
-    "date": "2015-01-01",
-    "price": 67.39
+    "name": "Starbucks",
+    "date": "2015-01-02",
+    "open": 82.13,
+    "high": 89.59,
+    "low": 78.56,
+    "close": 87.53,
+    "volume": 13870200,
+    "price": 43.07,
+    "monthly_difference": 6.56
   },
   {
-    "name": "Iron Ore",
-    "date": "2015-02-01",
-    "price": 62.69
+    "name": "Starbucks",
+    "date": "2015-02-02",
+    "open": 87.68,
+    "high": 94.83,
+    "low": 85.86,
+    "close": 93.49,
+    "volume": 8364300,
+    "price": 46.17,
+    "monthly_difference": 4.96
   },
   {
-    "name": "Iron Ore",
-    "date": "2015-03-01",
-    "price": 56.94
+    "name": "Starbucks",
+    "date": "2015-03-02",
+    "open": 93.33,
+    "high": 99.2,
+    "low": 91.22,
+    "close": 94.7,
+    "volume": 9302200,
+    "price": 46.77,
+    "monthly_difference": 4.19
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2015-04-01",
-    "price": 51.15
+    "open": 94.28,
+    "high": 95.28,
+    "low": 47.25,
+    "close": 49.58,
+    "volume": 8782800,
+    "price": 48.97,
+    "monthly_difference": 33.7
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2015-05-01",
-    "price": 60.23
+    "open": 49.95,
+    "high": 52.23,
+    "low": 48.57,
+    "close": 51.96,
+    "volume": 7193600,
+    "price": 51.48,
+    "monthly_difference": 3.63
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2015-06-01",
-    "price": 62.29
+    "open": 51.96,
+    "high": 54.75,
+    "low": 51.1,
+    "close": 53.62,
+    "volume": 7301100,
+    "price": 53.13,
+    "monthly_difference": 3.45
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2015-07-01",
-    "price": 51.5
+    "open": 53.86,
+    "high": 59.31,
+    "low": 53.31,
+    "close": 57.93,
+    "volume": 8381400,
+    "price": 57.4,
+    "monthly_difference": 5.33
   },
   {
-    "name": "Iron Ore",
-    "date": "2015-08-01",
-    "price": 55.38
+    "name": "Starbucks",
+    "date": "2015-08-03",
+    "open": 58.62,
+    "high": 59.32,
+    "low": 42.05,
+    "close": 54.71,
+    "volume": 11027800,
+    "price": 54.36,
+    "monthly_difference": 17.04
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2015-09-01",
-    "price": 56.43
+    "open": 53,
+    "high": 58.96,
+    "low": 52.74,
+    "close": 56.84,
+    "volume": 9402100,
+    "price": 56.47,
+    "monthly_difference": 5.57
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2015-10-01",
-    "price": 52.74
+    "open": 56.99,
+    "high": 64,
+    "low": 55.89,
+    "close": 62.57,
+    "volume": 9657000,
+    "price": 62.16,
+    "monthly_difference": 6.76
   },
   {
-    "name": "Iron Ore",
-    "date": "2015-11-01",
-    "price": 46.16
+    "name": "Starbucks",
+    "date": "2015-11-02",
+    "open": 63.01,
+    "high": 63.19,
+    "low": 59.5,
+    "close": 61.39,
+    "volume": 7570600,
+    "price": 61.19,
+    "monthly_difference": 3.01
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2015-12-01",
-    "price": 39.6
+    "open": 61.08,
+    "high": 62.54,
+    "low": 58.27,
+    "close": 60.03,
+    "volume": 8172900,
+    "price": 59.83,
+    "monthly_difference": 3.53
   },
   {
-    "name": "Iron Ore",
-    "date": "2016-01-01",
-    "price": 41.25
+    "name": "Starbucks",
+    "date": "2016-01-04",
+    "open": 58.77,
+    "high": 60.88,
+    "low": 54.94,
+    "close": 60.77,
+    "volume": 14532000,
+    "price": 60.57,
+    "monthly_difference": 5.13
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2016-02-01",
-    "price": 46.18
+    "open": 60.66,
+    "high": 61.79,
+    "low": 52.63,
+    "close": 58.21,
+    "volume": 11534800,
+    "price": 58.21,
+    "monthly_difference": 8.01
   },
   {
-    "name": "Iron Ore",
+    "name": "Starbucks",
     "date": "2016-03-01",
-    "price": 55.52
+    "open": 58.77,
+    "high": 60.45,
+    "low": 56.57,
+    "close": 59.7,
+    "volume": 8445700,
+    "price": 59.7,
+    "monthly_difference": 3.32
   },
   {
-    "name": "Gold",
-    "date": "2011-04-01",
-    "price": 1474.43
+    "name": "Starbucks",
+    "date": "2016-04-01",
+    "open": 59.61,
+    "high": 61.17,
+    "low": 59.41,
+    "close": 61.02,
+    "volume": 18786400,
+    "price": 61.02,
+    "monthly_difference": 1.46
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-05-02",
+    "open": 17.79,
+    "high": 18.84,
+    "low": 15.63,
+    "close": 16.55,
+    "volume": 41113700,
+    "price": 16.55,
+    "monthly_difference": 9.31
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-06-01",
+    "open": 16.34,
+    "high": 16.43,
+    "low": 14.5,
+    "close": 15.04,
+    "volume": 25772600,
+    "price": 15.04,
+    "monthly_difference": 6.24
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-07-01",
+    "open": 15.08,
+    "high": 15.95,
+    "low": 13.04,
+    "close": 13.1,
+    "volume": 29550000,
+    "price": 13.1,
+    "monthly_difference": 10.04
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-08-01",
+    "open": 13.24,
+    "high": 13.98,
+    "low": 11.09,
+    "close": 13.61,
+    "volume": 33473700,
+    "price": 13.61,
+    "monthly_difference": 11.53
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-09-01",
+    "open": 13.67,
+    "high": 15.4,
+    "low": 12.45,
+    "close": 13.17,
+    "volume": 42743300,
+    "price": 13.17,
+    "monthly_difference": 10.59
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-10-03",
+    "open": 13.7,
+    "high": 16.79,
+    "low": 13.37,
+    "close": 15.64,
+    "volume": 36438000,
+    "price": 15.64,
+    "monthly_difference": 11.34
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-11-01",
+    "open": 14.95,
+    "high": 16.5,
+    "low": 14.75,
+    "close": 15.71,
+    "volume": 24382900,
+    "price": 15.71,
+    "monthly_difference": 5.6
+  },
+  {
+    "name": "Yahoo",
+    "date": "2011-12-01",
+    "open": 16.42,
+    "high": 16.46,
+    "low": 14.57,
+    "close": 16.13,
+    "volume": 21943000,
+    "price": 16.13,
+    "monthly_difference": 6.09
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-01-03",
+    "open": 16.27,
+    "high": 16.39,
+    "low": 15.35,
+    "close": 15.47,
+    "volume": 18167300,
+    "price": 15.47,
+    "monthly_difference": 3.28
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-02-01",
+    "open": 15.57,
+    "high": 16.31,
+    "low": 14.37,
+    "close": 14.83,
+    "volume": 22020900,
+    "price": 14.83,
+    "monthly_difference": 6.32
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-03-01",
+    "open": 14.89,
+    "high": 15.61,
+    "low": 14.35,
+    "close": 15.22,
+    "volume": 15408200,
+    "price": 15.22,
+    "monthly_difference": 4.21
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-04-02",
+    "open": 15.19,
+    "high": 15.7,
+    "low": 14.73,
+    "close": 15.54,
+    "volume": 16640200,
+    "price": 15.54,
+    "monthly_difference": 3.19
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-05-01",
+    "open": 15.51,
+    "high": 16,
+    "low": 14.8,
+    "close": 15.24,
+    "volume": 19935500,
+    "price": 15.24,
+    "monthly_difference": 3.9
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-06-01",
+    "open": 15.04,
+    "high": 15.83,
+    "low": 14.81,
+    "close": 15.83,
+    "volume": 14102700,
+    "price": 15.83,
+    "monthly_difference": 3.33
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-07-02",
+    "open": 15.8,
+    "high": 16.17,
+    "low": 15.23,
+    "close": 15.84,
+    "volume": 15348400,
+    "price": 15.84,
+    "monthly_difference": 2.99
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-08-01",
+    "open": 15.86,
+    "high": 16.37,
+    "low": 14.59,
+    "close": 14.65,
+    "volume": 17527600,
+    "price": 14.65,
+    "monthly_difference": 5.75
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-09-04",
+    "open": 14.64,
+    "high": 16.2,
+    "low": 14.59,
+    "close": 15.98,
+    "volume": 21900500,
+    "price": 15.98,
+    "monthly_difference": 5.23
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-10-01",
+    "open": 16,
+    "high": 16.89,
+    "low": 15.65,
+    "close": 16.84,
+    "volume": 23074600,
+    "price": 16.84,
+    "monthly_difference": 3.81
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-11-01",
+    "open": 16.9,
+    "high": 19.16,
+    "low": 16.86,
+    "close": 18.77,
+    "volume": 27813200,
+    "price": 18.77,
+    "monthly_difference": 6.39
+  },
+  {
+    "name": "Yahoo",
+    "date": "2012-12-03",
+    "open": 18.55,
+    "high": 19.97,
+    "low": 18.34,
+    "close": 19.9,
+    "volume": 21496100,
+    "price": 19.9,
+    "monthly_difference": 4.25
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-01-02",
+    "open": 20.2,
+    "high": 20.88,
+    "low": 18.89,
+    "close": 19.63,
+    "volume": 24686400,
+    "price": 19.63,
+    "monthly_difference": 5
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-02-01",
+    "open": 19.77,
+    "high": 21.57,
+    "low": 19.31,
+    "close": 21.31,
+    "volume": 18966100,
+    "price": 21.31,
+    "monthly_difference": 5.53
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-03-01",
+    "open": 21.36,
+    "high": 23.88,
+    "low": 21.26,
+    "close": 23.53,
+    "volume": 19990700,
+    "price": 23.53,
+    "monthly_difference": 5.8
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-04-01",
+    "open": 23.31,
+    "high": 25.37,
+    "low": 22.7,
+    "close": 24.73,
+    "volume": 18242700,
+    "price": 24.73,
+    "monthly_difference": 5.55
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-05-01",
+    "open": 24.67,
+    "high": 27.68,
+    "low": 24.18,
+    "close": 26.3,
+    "volume": 18279000,
+    "price": 26.3,
+    "monthly_difference": 6.75
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-06-03",
+    "open": 26.37,
+    "high": 27.12,
+    "low": 23.82,
+    "close": 25.13,
+    "volume": 17054000,
+    "price": 25.13,
+    "monthly_difference": 6.48
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-07-01",
+    "open": 25.26,
+    "high": 29.83,
+    "low": 24.82,
+    "close": 28.09,
+    "volume": 22433900,
+    "price": 28.09,
+    "monthly_difference": 9.17
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-08-01",
+    "open": 28.35,
+    "high": 28.6,
+    "low": 26.75,
+    "close": 27.12,
+    "volume": 12955200,
+    "price": 27.12,
+    "monthly_difference": 3.34
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-09-03",
+    "open": 27.38,
+    "high": 33.85,
+    "low": 27.37,
+    "close": 33.17,
+    "volume": 19355900,
+    "price": 33.17,
+    "monthly_difference": 10.58
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-10-01",
+    "open": 33.36,
+    "high": 35.06,
+    "low": 31.7,
+    "close": 32.94,
+    "volume": 24592600,
+    "price": 32.94,
+    "monthly_difference": 5.03
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-11-01",
+    "open": 33.15,
+    "high": 37.35,
+    "low": 32.06,
+    "close": 36.98,
+    "volume": 16738800,
+    "price": 36.98,
+    "monthly_difference": 7.62
+  },
+  {
+    "name": "Yahoo",
+    "date": "2013-12-02",
+    "open": 37.04,
+    "high": 41.05,
+    "low": 36.25,
+    "close": 40.44,
+    "volume": 15105900,
+    "price": 40.44,
+    "monthly_difference": 6.21
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-01-02",
+    "open": 40.37,
+    "high": 41.72,
+    "low": 34.45,
+    "close": 36.01,
+    "volume": 22947000,
+    "price": 36.01,
+    "monthly_difference": 9.54
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-02-03",
+    "open": 35.94,
+    "high": 39.38,
+    "low": 34.66,
+    "close": 38.67,
+    "volume": 15895000,
+    "price": 38.67,
+    "monthly_difference": 6.37
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-03-03",
+    "open": 37.65,
+    "high": 40.15,
+    "low": 35.05,
+    "close": 35.9,
+    "volume": 19714800,
+    "price": 35.9,
+    "monthly_difference": 6.78
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-04-01",
+    "open": 36.16,
+    "high": 37.3,
+    "low": 32.15,
+    "close": 35.95,
+    "volume": 29490300,
+    "price": 35.95,
+    "monthly_difference": 7.42
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-05-01",
+    "open": 36.26,
+    "high": 37.17,
+    "low": 33.1,
+    "close": 34.65,
+    "volume": 20377100,
+    "price": 34.65,
+    "monthly_difference": 5.79
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-06-02",
+    "open": 34.69,
+    "high": 37.06,
+    "low": 33.02,
+    "close": 35.13,
+    "volume": 17672000,
+    "price": 35.13,
+    "monthly_difference": 5.76
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-07-01",
+    "open": 35.5,
+    "high": 36.99,
+    "low": 32.93,
+    "close": 35.81,
+    "volume": 24392600,
+    "price": 35.81,
+    "monthly_difference": 5.81
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-08-01",
+    "open": 35.69,
+    "high": 38.72,
+    "low": 35.15,
+    "close": 38.51,
+    "volume": 14516900,
+    "price": 38.51,
+    "monthly_difference": 4.83
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-09-02",
+    "open": 38.9,
+    "high": 44.01,
+    "low": 37.9,
+    "close": 40.75,
+    "volume": 59562900,
+    "price": 40.75,
+    "monthly_difference": 7.46
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-10-01",
+    "open": 40.66,
+    "high": 46.52,
+    "low": 36.2,
+    "close": 46.05,
+    "volume": 32907000,
+    "price": 46.05,
+    "monthly_difference": 12.48
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-11-03",
+    "open": 46.05,
+    "high": 52.62,
+    "low": 45.74,
+    "close": 51.74,
+    "volume": 25212400,
+    "price": 51.74,
+    "monthly_difference": 6.99
+  },
+  {
+    "name": "Yahoo",
+    "date": "2014-12-01",
+    "open": 51.43,
+    "high": 51.68,
+    "low": 48.29,
+    "close": 50.51,
+    "volume": 16328900,
+    "price": 50.51,
+    "monthly_difference": 3.39
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-01-02",
+    "open": 50.66,
+    "high": 50.78,
+    "low": 41.8,
+    "close": 43.99,
+    "volume": 25554600,
+    "price": 43.99,
+    "monthly_difference": 9.7
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-02-02",
+    "open": 44.43,
+    "high": 45.25,
+    "low": 42.54,
+    "close": 44.28,
+    "volume": 14479100,
+    "price": 44.28,
+    "monthly_difference": 3.09
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-03-02",
+    "open": 44.06,
+    "high": 45.67,
+    "low": 41.97,
+    "close": 44.44,
+    "volume": 13743900,
+    "price": 44.44,
+    "monthly_difference": 4.22
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-04-01",
+    "open": 44.45,
+    "high": 46.17,
+    "low": 42.26,
+    "close": 42.57,
+    "volume": 14137800,
+    "price": 42.57,
+    "monthly_difference": 4.42
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-05-01",
+    "open": 42.55,
+    "high": 45.07,
+    "low": 39.12,
+    "close": 42.94,
+    "volume": 18233000,
+    "price": 42.94,
+    "monthly_difference": 7.07
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-06-01",
+    "open": 43.05,
+    "high": 43.78,
+    "low": 38.85,
+    "close": 39.29,
+    "volume": 11995000,
+    "price": 39.29,
+    "monthly_difference": 5.97
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-07-01",
+    "open": 39.46,
+    "high": 39.98,
+    "low": 36.58,
+    "close": 36.67,
+    "volume": 12851100,
+    "price": 36.67,
+    "monthly_difference": 4.44
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-08-03",
+    "open": 36.67,
+    "high": 37.71,
+    "low": 29,
+    "close": 32.24,
+    "volume": 15719000,
+    "price": 32.24,
+    "monthly_difference": 13.06
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-09-01",
+    "open": 31.49,
+    "high": 32.83,
+    "low": 27.2,
+    "close": 28.91,
+    "volume": 22885600,
+    "price": 28.91,
+    "monthly_difference": 9.38
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-10-01",
+    "open": 28.95,
+    "high": 35.7,
+    "low": 28.43,
+    "close": 35.62,
+    "volume": 17437300,
+    "price": 35.62,
+    "monthly_difference": 11.34
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-11-02",
+    "open": 35.46,
+    "high": 35.48,
+    "low": 32.12,
+    "close": 33.81,
+    "volume": 13888900,
+    "price": 33.81,
+    "monthly_difference": 4.97
+  },
+  {
+    "name": "Yahoo",
+    "date": "2015-12-01",
+    "open": 33.87,
+    "high": 36.39,
+    "low": 32.21,
+    "close": 33.26,
+    "volume": 16745700,
+    "price": 33.26,
+    "monthly_difference": 6.09
+  },
+  {
+    "name": "Yahoo",
+    "date": "2016-01-04",
+    "open": 32.12,
+    "high": 32.46,
+    "low": 27.44,
+    "close": 29.51,
+    "volume": 18633000,
+    "price": 29.51,
+    "monthly_difference": 8.38
+  },
+  {
+    "name": "Yahoo",
+    "date": "2016-02-01",
+    "open": 29.27,
+    "high": 32.46,
+    "low": 26.15,
+    "close": 31.79,
+    "volume": 20665800,
+    "price": 31.79,
+    "monthly_difference": 10.77
+  },
+  {
+    "name": "Yahoo",
+    "date": "2016-03-01",
+    "open": 32.04,
+    "high": 37.28,
+    "low": 32.04,
+    "close": 36.81,
+    "volume": 15947900,
+    "price": 36.81,
+    "monthly_difference": 7.56
+  },
+  {
+    "name": "Yahoo",
+    "date": "2016-04-01",
+    "open": 36.54,
+    "high": 36.88,
+    "low": 36.31,
+    "close": 36.48,
+    "volume": 27300800,
+    "price": 36.48,
+    "monthly_difference": 0.78
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-05-02",
+    "open": 62.3,
+    "high": 64.7,
+    "low": 60.92,
+    "close": 64.35,
+    "volume": 1256800,
+    "price": 64.35,
+    "monthly_difference": 3.01
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-06-01",
+    "open": 64.15,
+    "high": 69.04,
+    "low": 62.9,
+    "close": 68.73,
+    "volume": 1307900,
+    "price": 68.73,
+    "monthly_difference": 4.65
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-07-01",
+    "open": 68.73,
+    "high": 71.5,
+    "low": 66.24,
+    "close": 67.13,
+    "volume": 1221100,
+    "price": 67.13,
+    "monthly_difference": 3.82
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-08-01",
+    "open": 67.67,
+    "high": 68.51,
+    "low": 58.84,
+    "close": 67.12,
+    "volume": 1675600,
+    "price": 67.12,
+    "monthly_difference": 7.59
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-09-01",
+    "open": 67.04,
+    "high": 73.35,
+    "low": 64.3,
+    "close": 68.25,
+    "volume": 1537700,
+    "price": 68.25,
+    "monthly_difference": 6.57
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-10-03",
+    "open": 68.49,
+    "high": 72.06,
+    "low": 63.85,
+    "close": 67.16,
+    "volume": 1344100,
+    "price": 67.16,
+    "monthly_difference": 6.04
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-11-01",
+    "open": 66,
+    "high": 69.82,
+    "low": 62.98,
+    "close": 64.62,
+    "volume": 1727400,
+    "price": 64.62,
+    "monthly_difference": 5.15
+  },
+  {
+    "name": "Allergan",
+    "date": "2011-12-01",
+    "open": 64.4,
+    "high": 64.88,
+    "low": 59.5,
+    "close": 60.34,
+    "volume": 1262900,
+    "price": 60.34,
+    "monthly_difference": 4.33
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-01-03",
+    "open": 61.16,
+    "high": 64.76,
+    "low": 55,
+    "close": 58.63,
+    "volume": 3418100,
+    "price": 58.63,
+    "monthly_difference": 8.15
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-02-01",
+    "open": 58.95,
+    "high": 61.65,
+    "low": 57.16,
+    "close": 58.32,
+    "volume": 1702200,
+    "price": 58.32,
+    "monthly_difference": 3.78
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-03-01",
+    "open": 58.45,
+    "high": 67.5,
+    "low": 57.45,
+    "close": 67.06,
+    "volume": 2204100,
+    "price": 67.06,
+    "monthly_difference": 8.04
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-04-02",
+    "open": 66.83,
+    "high": 77.73,
+    "low": 65.7,
+    "close": 75.36,
+    "volume": 2652800,
+    "price": 75.36,
+    "monthly_difference": 8.39
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-05-01",
+    "open": 75.82,
+    "high": 75.97,
+    "low": 69.7,
+    "close": 71.29,
+    "volume": 2463300,
+    "price": 71.29,
+    "monthly_difference": 4.3
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-06-01",
+    "open": 70.6,
+    "high": 74.41,
+    "low": 67.67,
+    "close": 73.99,
+    "volume": 1758000,
+    "price": 73.99,
+    "monthly_difference": 4.74
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-07-02",
+    "open": 74.36,
+    "high": 81,
+    "low": 73.57,
+    "close": 77.83,
+    "volume": 1482300,
+    "price": 77.83,
+    "monthly_difference": 4.81
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-08-01",
+    "open": 78.47,
+    "high": 83.83,
+    "low": 73.39,
+    "close": 81.35,
+    "volume": 1080000,
+    "price": 81.35,
+    "monthly_difference": 6.64
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-09-04",
+    "open": 81.58,
+    "high": 86.07,
+    "low": 81.23,
+    "close": 85.16,
+    "volume": 1023900,
+    "price": 85.16,
+    "monthly_difference": 2.89
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-10-01",
+    "open": 85.4,
+    "high": 89.9,
+    "low": 84.33,
+    "close": 85.95,
+    "volume": 804300,
+    "price": 85.95,
+    "monthly_difference": 3.2
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-11-01",
+    "open": 90,
+    "high": 90,
+    "low": 81.73,
+    "close": 88.01,
+    "volume": 824200,
+    "price": 88.01,
+    "monthly_difference": 4.82
+  },
+  {
+    "name": "Allergan",
+    "date": "2012-12-03",
+    "open": 88.47,
+    "high": 91.47,
+    "low": 84.6,
+    "close": 86,
+    "volume": 965600,
+    "price": 86,
+    "monthly_difference": 3.9
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-01-02",
+    "open": 86.58,
+    "high": 88.33,
+    "low": 82.95,
+    "close": 86.39,
+    "volume": 1726600,
+    "price": 86.39,
+    "monthly_difference": 3.14
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-02-01",
+    "open": 86.62,
+    "high": 87.97,
+    "low": 82.02,
+    "close": 85.16,
+    "volume": 1245600,
+    "price": 85.16,
+    "monthly_difference": 3.5
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-03-01",
+    "open": 85.17,
+    "high": 92.37,
+    "low": 84.41,
+    "close": 92.11,
+    "volume": 1120400,
+    "price": 92.11,
+    "monthly_difference": 4.5
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-04-01",
+    "open": 92.33,
+    "high": 107.76,
+    "low": 91.88,
+    "close": 105.73,
+    "volume": 1279800,
+    "price": 105.73,
+    "monthly_difference": 7.95
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-05-01",
+    "open": 105.24,
+    "high": 133,
+    "low": 103.75,
+    "close": 123.29,
+    "volume": 2508700,
+    "price": 123.29,
+    "monthly_difference": 12.35
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-06-03",
+    "open": 123.73,
+    "high": 127.57,
+    "low": 118.68,
+    "close": 126.22,
+    "volume": 1354900,
+    "price": 126.22,
+    "monthly_difference": 3.61
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-07-01",
+    "open": 126.63,
+    "high": 136.29,
+    "low": 121.12,
+    "close": 134.27,
+    "volume": 1404100,
+    "price": 134.27,
+    "monthly_difference": 5.89
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-08-01",
+    "open": 134.76,
+    "high": 139.1,
+    "low": 130.06,
+    "close": 135.18,
+    "volume": 953100,
+    "price": 135.18,
+    "monthly_difference": 3.36
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-09-03",
+    "open": 136.68,
+    "high": 145.5,
+    "low": 134.75,
+    "close": 144,
+    "volume": 2176800,
+    "price": 144,
+    "monthly_difference": 3.84
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-10-01",
+    "open": 144,
+    "high": 157.13,
+    "low": 136.52,
+    "close": 154.58,
+    "volume": 1686600,
+    "price": 154.58,
+    "monthly_difference": 7.02
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-11-01",
+    "open": 155.14,
+    "high": 166.32,
+    "low": 153.42,
+    "close": 163.07,
+    "volume": 1157400,
+    "price": 163.07,
+    "monthly_difference": 4.03
+  },
+  {
+    "name": "Allergan",
+    "date": "2013-12-02",
+    "open": 163.46,
+    "high": 170.51,
+    "low": 156.4,
+    "close": 168,
+    "volume": 1226300,
+    "price": 168,
+    "monthly_difference": 4.32
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-01-02",
+    "open": 167.33,
+    "high": 191.17,
+    "low": 166.38,
+    "close": 188.98,
+    "volume": 1765000,
+    "price": 188.98,
+    "monthly_difference": 6.93
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-02-03",
+    "open": 190,
+    "high": 230.77,
+    "low": 180.7,
+    "close": 220.82,
+    "volume": 3619000,
+    "price": 220.82,
+    "monthly_difference": 12.17
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-03-03",
+    "open": 213,
+    "high": 227.39,
+    "low": 198.4,
+    "close": 205.85,
+    "volume": 2720600,
+    "price": 205.85,
+    "monthly_difference": 6.81
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-04-01",
+    "open": 205.34,
+    "high": 213.5,
+    "low": 184.71,
+    "close": 204.33,
+    "volume": 3109200,
+    "price": 204.33,
+    "monthly_difference": 7.23
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-05-01",
+    "open": 204.67,
+    "high": 216.7,
+    "low": 193,
+    "close": 211.54,
+    "volume": 2113500,
+    "price": 211.54,
+    "monthly_difference": 5.78
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-06-02",
+    "open": 212,
+    "high": 226.23,
+    "low": 203.83,
+    "close": 223.05,
+    "volume": 2659600,
+    "price": 223.05,
+    "monthly_difference": 5.21
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-07-01",
+    "open": 226.8,
+    "high": 229.4,
+    "low": 210.78,
+    "close": 214.26,
+    "volume": 2185800,
+    "price": 214.26,
+    "monthly_difference": 4.23
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-08-01",
+    "open": 213.87,
+    "high": 229.61,
+    "low": 201.91,
+    "close": 226.98,
+    "volume": 2661400,
+    "price": 226.98,
+    "monthly_difference": 6.42
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-09-02",
+    "open": 227,
+    "high": 249.94,
+    "low": 225.26,
+    "close": 241.28,
+    "volume": 2195200,
+    "price": 241.28,
+    "monthly_difference": 5.19
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-10-01",
+    "open": 241.2,
+    "high": 248.56,
+    "low": 208.64,
+    "close": 242.74,
+    "volume": 2525800,
+    "price": 242.74,
+    "monthly_difference": 8.73
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-11-03",
+    "open": 242.39,
+    "high": 272.75,
+    "low": 239.28,
+    "close": 270.61,
+    "volume": 4431700,
+    "price": 270.61,
+    "monthly_difference": 6.54
+  },
+  {
+    "name": "Allergan",
+    "date": "2014-12-01",
+    "open": 269.34,
+    "high": 269.34,
+    "low": 252.02,
+    "close": 257.41,
+    "volume": 2390300,
+    "price": 257.41,
+    "monthly_difference": 3.32
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-01-02",
+    "open": 260.27,
+    "high": 285.09,
+    "low": 253,
+    "close": 266.54,
+    "volume": 2807600,
+    "price": 266.54,
+    "monthly_difference": 5.96
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-02-02",
+    "open": 268.39,
+    "high": 296.77,
+    "low": 262,
+    "close": 291.36,
+    "volume": 3707700,
+    "price": 291.36,
+    "monthly_difference": 6.22
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-03-02",
+    "open": 291.36,
+    "high": 317.72,
+    "low": 287.6,
+    "close": 297.62,
+    "volume": 3821300,
+    "price": 297.62,
+    "monthly_difference": 4.98
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-04-01",
+    "open": 299.5,
+    "high": 301.76,
+    "low": 280.06,
+    "close": 282.86,
+    "volume": 2982800,
+    "price": 282.86,
+    "monthly_difference": 3.73
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-05-01",
+    "open": 285.17,
+    "high": 315,
+    "low": 279.74,
+    "close": 306.81,
+    "volume": 2486400,
+    "price": 306.81,
+    "monthly_difference": 5.93
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-06-01",
+    "open": 310,
+    "high": 314.69,
+    "low": 294.72,
+    "close": 303.46,
+    "volume": 1969700,
+    "price": 303.46,
+    "monthly_difference": 3.28
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-07-01",
+    "open": 306.86,
+    "high": 340.34,
+    "low": 298.88,
+    "close": 331.15,
+    "volume": 2422700,
+    "price": 331.15,
+    "monthly_difference": 6.49
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-08-03",
+    "open": 334.17,
+    "high": 339,
+    "low": 277.83,
+    "close": 303.74,
+    "volume": 2720700,
+    "price": 303.74,
+    "monthly_difference": 9.92
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-09-01",
+    "open": 299.03,
+    "high": 306.65,
+    "low": 245.32,
+    "close": 271.81,
+    "volume": 3918000,
+    "price": 271.81,
+    "monthly_difference": 11.11
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-10-01",
+    "open": 270.6,
+    "high": 317.04,
+    "low": 237.5,
+    "close": 308.47,
+    "volume": 6284100,
+    "price": 308.47,
+    "monthly_difference": 14.34
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-11-02",
+    "open": 310.99,
+    "high": 321.88,
+    "low": 293.83,
+    "close": 313.89,
+    "volume": 5496300,
+    "price": 313.89,
+    "monthly_difference": 4.56
+  },
+  {
+    "name": "Allergan",
+    "date": "2015-12-01",
+    "open": 314.12,
+    "high": 322.68,
+    "low": 299.62,
+    "close": 312.5,
+    "volume": 2898100,
+    "price": 312.5,
+    "monthly_difference": 3.71
+  },
+  {
+    "name": "Allergan",
+    "date": "2016-01-04",
+    "open": 306.5,
+    "high": 310.83,
+    "low": 278.35,
+    "close": 284.43,
+    "volume": 2991600,
+    "price": 284.43,
+    "monthly_difference": 5.51
+  },
+  {
+    "name": "Allergan",
+    "date": "2016-02-01",
+    "open": 283.4,
+    "high": 301.32,
+    "low": 261.6,
+    "close": 290.11,
+    "volume": 2849600,
+    "price": 290.11,
+    "monthly_difference": 7.06
+  },
+  {
+    "name": "Allergan",
+    "date": "2016-03-01",
+    "open": 293.17,
+    "high": 299.11,
+    "low": 265.6,
+    "close": 268.03,
+    "volume": 3383400,
+    "price": 268.03,
+    "monthly_difference": 5.93
+  },
+  {
+    "name": "Allergan",
+    "date": "2016-04-01",
+    "open": 266.53,
+    "high": 270.76,
+    "low": 262.18,
+    "close": 268.09,
+    "volume": 15095600,
+    "price": 268.09,
+    "monthly_difference": 1.61
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-05-01",
+    "price": 12579.99
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-06-01",
+    "price": 12097.31
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-07-01",
+    "price": 12512.33
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-08-01",
+    "price": 11326.62
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-09-01",
+    "price": 11175.45
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-10-01",
+    "price": 11515.93
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-11-01",
+    "price": 11804.33
+  },
+  {
+    "name": "DJIA",
+    "date": "2011-12-01",
+    "price": 12075.68
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-01-01",
+    "price": 12550.89
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-02-01",
+    "price": 12889.05
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-03-01",
+    "price": 13079.47
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-04-01",
+    "price": 13030.75
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-05-01",
+    "price": 12721.08
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-06-01",
+    "price": 12544.9
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-07-01",
+    "price": 12814.1
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-08-01",
+    "price": 13134.9
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-09-01",
+    "price": 13418.5
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-10-01",
+    "price": 13380.65
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-11-01",
+    "price": 12896.44
+  },
+  {
+    "name": "DJIA",
+    "date": "2012-12-01",
+    "price": 13144.18
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-01-01",
+    "price": 13615.32
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-02-01",
+    "price": 13967.33
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-03-01",
+    "price": 14418.26
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-04-01",
+    "price": 14675.91
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-05-01",
+    "price": 15172.18
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-06-01",
+    "price": 15035.75
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-07-01",
+    "price": 15390.21
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-08-01",
+    "price": 15195.35
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-09-01",
+    "price": 15269.84
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-10-01",
+    "price": 15289.29
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-11-01",
+    "price": 15870.83
+  },
+  {
+    "name": "DJIA",
+    "date": "2013-12-01",
+    "price": 16095.77
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-01-01",
+    "price": 16243.72
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-02-01",
+    "price": 15958.44
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-03-01",
+    "price": 16308.63
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-04-01",
+    "price": 16399.5
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-05-01",
+    "price": 16567.25
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-06-01",
+    "price": 16843.75
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-07-01",
+    "price": 16988.26
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-08-01",
+    "price": 16775.15
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-09-01",
+    "price": 17098.13
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-10-01",
+    "price": 16701.87
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-11-01",
+    "price": 17648.98
+  },
+  {
+    "name": "DJIA",
+    "date": "2014-12-01",
+    "price": 17754.24
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-01-01",
+    "price": 17542.26
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-02-01",
+    "price": 17945.41
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-03-01",
+    "price": 17931.75
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-04-01",
+    "price": 17970.51
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-05-01",
+    "price": 18124.71
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-06-01",
+    "price": 17927.22
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-07-01",
+    "price": 17795.02
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-08-01",
+    "price": 17061.59
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-09-01",
+    "price": 16339.95
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-10-01",
+    "price": 17182.28
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-11-01",
+    "price": 17723.77
+  },
+  {
+    "name": "DJIA",
+    "date": "2015-12-01",
+    "price": 17542.86
+  },
+  {
+    "name": "DJIA",
+    "date": "2016-01-01",
+    "price": 16305.25
+  },
+  {
+    "name": "DJIA",
+    "date": "2016-02-01",
+    "price": 16299.9
+  },
+  {
+    "name": "DJIA",
+    "date": "2016-03-01",
+    "price": 17302.14
+  },
+  {
+    "name": "DJIA",
+    "date": "2016-04-01",
+    "price": "#N/A"
   },
   {
     "name": "Gold",
@@ -2616,6 +6555,11 @@
     "name": "Gold",
     "date": "2016-03-01",
     "price": 1246.31
+  },
+  {
+    "name": "Gold",
+    "date": "2016-04-01",
+    "price": "#N/A"
   },
   {
     "name": "Crude Oil",
@@ -2918,934 +6862,299 @@
     "price": 37.55
   },
   {
-    "name": "10YRT",
-    "date": "2011-03-01",
-    "price": 3.27
+    "name": "Crude Oil",
+    "date": "2016-04-01",
+    "price": null
   },
   {
-    "name": "10YRT",
-    "date": "2011-04-01",
-    "price": 3.36
-  },
-  {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-05-01",
-    "price": 3.08
+    "price": 177.1
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-06-01",
-    "price": 2.91
+    "price": 170.88
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-07-01",
-    "price": 2.93
+    "price": 172.98
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-08-01",
-    "price": 2.2
+    "price": 177.45
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-09-01",
-    "price": 1.9
+    "price": 177.23
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-10-01",
-    "price": 2.08
+    "price": 150.43
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-11-01",
-    "price": 1.93
+    "price": 135.54
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2011-12-01",
-    "price": 1.91
+    "price": 136.46
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-01-01",
-    "price": 1.89
+    "price": 140.35
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-02-01",
-    "price": 1.87
+    "price": 140.4
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-03-01",
-    "price": 2.04
+    "price": 144.66
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-04-01",
-    "price": 1.91
+    "price": 147.65
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-05-01",
-    "price": 1.64
+    "price": 136.27
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-06-01",
-    "price": 1.46
+    "price": 134.62
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-07-01",
-    "price": 1.37
+    "price": 127.94
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-08-01",
-    "price": 1.55
+    "price": 107.8
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-09-01",
-    "price": 1.58
+    "price": 99.47
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-10-01",
-    "price": 1.59
+    "price": 113.95
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-11-01",
-    "price": 1.49
+    "price": 120.35
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2012-12-01",
-    "price": 1.56
+    "price": 128.87
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-01-01",
-    "price": 1.77
+    "price": 150.49
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-02-01",
-    "price": 1.83
+    "price": 154.64
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-03-01",
-    "price": 1.82
+    "price": 139.87
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-04-01",
-    "price": 1.61
+    "price": 137.39
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-05-01",
-    "price": 1.82
+    "price": 124.01
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-06-01",
-    "price": 2.21
+    "price": 114.82
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-07-01",
-    "price": 2.49
+    "price": 127.19
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-08-01",
-    "price": 2.66
+    "price": 137.06
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-09-01",
-    "price": 2.73
+    "price": 134.19
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-10-01",
-    "price": 2.53
+    "price": 132.57
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-11-01",
-    "price": 2.64
+    "price": 136.32
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2013-12-01",
-    "price": 2.81
+    "price": 135.79
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-01-01",
-    "price": 2.79
+    "price": 128.12
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-02-01",
-    "price": 2.64
+    "price": 121.37
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-03-01",
-    "price": 2.64
+    "price": 111.83
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-04-01",
-    "price": 2.62
+    "price": 114.58
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-05-01",
-    "price": 2.47
+    "price": 100.56
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-06-01",
-    "price": 2.5
+    "price": 92.74
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-07-01",
-    "price": 2.45
+    "price": 95.97
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-08-01",
-    "price": 2.33
+    "price": 92.63
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-09-01",
-    "price": 2.44
+    "price": 82.27
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-10-01",
-    "price": 2.21
+    "price": 80.09
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-11-01",
-    "price": 2.24
+    "price": 73.13
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2014-12-01",
-    "price": 2.09
+    "price": 68.8
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-01-01",
-    "price": 1.77
+    "price": 67.39
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-02-01",
-    "price": 1.87
+    "price": 62.69
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-03-01",
-    "price": 1.93
+    "price": 56.94
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-04-01",
-    "price": 1.82
+    "price": 51.15
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-05-01",
-    "price": 2.08
+    "price": 60.23
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-06-01",
-    "price": 2.23
+    "price": 62.29
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-07-01",
-    "price": 2.19
+    "price": 51.5
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-08-01",
-    "price": 2.03
+    "price": 55.38
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-09-01",
-    "price": 2.03
+    "price": 56.43
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-10-01",
-    "price": 1.95
+    "price": 52.74
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-11-01",
-    "price": 2.14
+    "price": 46.16
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2015-12-01",
-    "price": 2
+    "price": 39.6
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2016-01-01",
-    "price": 1.75
+    "price": 41.25
   },
   {
-    "name": "10YRT",
+    "name": "Iron Ore",
     "date": "2016-02-01",
-    "price": 1.4
-  },
-  {
-    "name": "10YRT",
-    "date": "2016-03-01",
-    "price": 1.53
-  },
-  {
-    "name": "Coffee",
-    "date": "1980-01-01",
-    "price": 164.82
-  },
-  {
-    "name": "Coffee",
-    "date": "1980-04-01",
-    "price": 168.66
-  },
-  {
-    "name": "Coffee",
-    "date": "1980-07-01",
-    "price": 134.98
-  },
-  {
-    "name": "Coffee",
-    "date": "1980-10-01",
-    "price": 120.13
-  },
-  {
-    "name": "Coffee",
-    "date": "1981-01-01",
-    "price": 117.18
-  },
-  {
-    "name": "Coffee",
-    "date": "1981-04-01",
-    "price": 102.18
-  },
-  {
-    "name": "Coffee",
-    "date": "1981-07-01",
-    "price": 89.17
-  },
-  {
-    "name": "Coffee",
-    "date": "1981-10-01",
-    "price": 103.12
-  },
-  {
-    "name": "Coffee",
-    "date": "1982-01-01",
-    "price": 111.49
-  },
-  {
-    "name": "Coffee",
-    "date": "1982-04-01",
-    "price": 104.16
-  },
-  {
-    "name": "Coffee",
-    "date": "1982-07-01",
-    "price": 105.12
-  },
-  {
-    "name": "Coffee",
-    "date": "1982-10-01",
-    "price": 123.39
-  },
-  {
-    "name": "Coffee",
-    "date": "1983-01-01",
-    "price": 122.28
-  },
-  {
-    "name": "Coffee",
-    "date": "1983-04-01",
-    "price": 121.2
-  },
-  {
-    "name": "Coffee",
-    "date": "1983-07-01",
-    "price": 121.34
-  },
-  {
-    "name": "Coffee",
-    "date": "1983-10-01",
-    "price": 131.64
-  },
-  {
-    "name": "Coffee",
-    "date": "1984-01-01",
-    "price": 136.86
-  },
-  {
-    "name": "Coffee",
-    "date": "1984-04-01",
-    "price": 142.51
-  },
-  {
-    "name": "Coffee",
-    "date": "1984-07-01",
-    "price": 140.16
-  },
-  {
-    "name": "Coffee",
-    "date": "1984-10-01",
-    "price": 133.2
-  },
-  {
-    "name": "Coffee",
-    "date": "1985-01-01",
-    "price": 125.53
-  },
-  {
-    "name": "Coffee",
-    "date": "1985-04-01",
-    "price": 121.73
-  },
-  {
-    "name": "Coffee",
-    "date": "1985-07-01",
-    "price": 106.4
-  },
-  {
-    "name": "Coffee",
-    "date": "1985-10-01",
-    "price": 131.3
-  },
-  {
-    "name": "Coffee",
-    "date": "1986-01-01",
-    "price": 168.44
-  },
-  {
-    "name": "Coffee",
-    "date": "1986-04-01",
-    "price": 141.96
-  },
-  {
-    "name": "Coffee",
-    "date": "1986-07-01",
-    "price": 141.8
-  },
-  {
-    "name": "Coffee",
-    "date": "1986-10-01",
-    "price": 141.09
-  },
-  {
-    "name": "Coffee",
-    "date": "1987-01-01",
-    "price": 107.51
-  },
-  {
-    "name": "Coffee",
-    "date": "1987-04-01",
-    "price": 101.7
-  },
-  {
-    "name": "Coffee",
-    "date": "1987-07-01",
-    "price": 95.59
-  },
-  {
-    "name": "Coffee",
-    "date": "1987-10-01",
-    "price": 104.55
-  },
-  {
-    "name": "Coffee",
-    "date": "1988-01-01",
-    "price": 102.37
-  },
-  {
-    "name": "Coffee",
-    "date": "1988-04-01",
-    "price": 95.23
-  },
-  {
-    "name": "Coffee",
-    "date": "1988-07-01",
-    "price": 85.65
-  },
-  {
-    "name": "Coffee",
-    "date": "1988-10-01",
-    "price": 97.18
-  },
-  {
-    "name": "Coffee",
-    "date": "1989-01-01",
-    "price": 98.33
-  },
-  {
-    "name": "Coffee",
-    "date": "1989-04-01",
-    "price": 89.43
-  },
-  {
-    "name": "Coffee",
-    "date": "1989-07-01",
-    "price": 61.93
-  },
-  {
-    "name": "Coffee",
-    "date": "1989-10-01",
-    "price": 53.07
-  },
-  {
-    "name": "Coffee",
-    "date": "1990-01-01",
-    "price": 53.17
-  },
-  {
-    "name": "Coffee",
-    "date": "1990-04-01",
-    "price": 54.93
-  },
-  {
-    "name": "Coffee",
-    "date": "1990-07-01",
-    "price": 54.55
-  },
-  {
-    "name": "Coffee",
-    "date": "1990-10-01",
-    "price": 57.29
-  },
-  {
-    "name": "Coffee",
-    "date": "1991-01-01",
-    "price": 52.84
-  },
-  {
-    "name": "Coffee",
-    "date": "1991-04-01",
-    "price": 49.24
-  },
-  {
-    "name": "Coffee",
-    "date": "1991-07-01",
-    "price": 47.05
-  },
-  {
-    "name": "Coffee",
-    "date": "1991-10-01",
-    "price": 50.2
-  },
-  {
-    "name": "Coffee",
-    "date": "1992-01-01",
-    "price": 45.24
-  },
-  {
-    "name": "Coffee",
-    "date": "1992-04-01",
-    "price": 39.74
-  },
-  {
-    "name": "Coffee",
-    "date": "1992-07-01",
-    "price": 40.64
-  },
-  {
-    "name": "Coffee",
-    "date": "1992-10-01",
-    "price": 48.89
-  },
-  {
-    "name": "Coffee",
-    "date": "1993-01-01",
-    "price": 47.75
-  },
-  {
-    "name": "Coffee",
-    "date": "1993-04-01",
-    "price": 46.69
-  },
-  {
-    "name": "Coffee",
-    "date": "1993-07-01",
-    "price": 57.7
-  },
-  {
-    "name": "Coffee",
-    "date": "1993-10-01",
-    "price": 61.84
-  },
-  {
-    "name": "Coffee",
-    "date": "1994-01-01",
-    "price": 63.21
-  },
-  {
-    "name": "Coffee",
-    "date": "1994-04-01",
-    "price": 94
-  },
-  {
-    "name": "Coffee",
-    "date": "1994-07-01",
-    "price": 170.09
-  },
-  {
-    "name": "Coffee",
-    "date": "1994-10-01",
-    "price": 151.96
-  },
-  {
-    "name": "Coffee",
-    "date": "1995-01-01",
-    "price": 138.26
-  },
-  {
-    "name": "Coffee",
-    "date": "1995-04-01",
-    "price": 138.96
-  },
-  {
-    "name": "Coffee",
-    "date": "1995-07-01",
-    "price": 122.86
-  },
-  {
-    "name": "Coffee",
-    "date": "1995-10-01",
-    "price": 107.22
-  },
-  {
-    "name": "Coffee",
-    "date": "1996-01-01",
-    "price": 94.72
-  },
-  {
-    "name": "Coffee",
-    "date": "1996-04-01",
-    "price": 90.01
-  },
-  {
-    "name": "Coffee",
-    "date": "1996-07-01",
-    "price": 77.79
-  },
-  {
-    "name": "Coffee",
-    "date": "1996-10-01",
-    "price": 68.86
-  },
-  {
-    "name": "Coffee",
-    "date": "1997-01-01",
-    "price": 75.21
-  },
-  {
-    "name": "Coffee",
-    "date": "1997-04-01",
-    "price": 88.72
-  },
-  {
-    "name": "Coffee",
-    "date": "1997-07-01",
-    "price": 78.96
-  },
-  {
-    "name": "Coffee",
-    "date": "1997-10-01",
-    "price": 79.92
-  },
-  {
-    "name": "Coffee",
-    "date": "1998-01-01",
-    "price": 85.5
-  },
-  {
-    "name": "Coffee",
-    "date": "1998-04-01",
-    "price": 89.26
-  },
-  {
-    "name": "Coffee",
-    "date": "1998-07-01",
-    "price": 79.75
-  },
-  {
-    "name": "Coffee",
-    "date": "1998-10-01",
-    "price": 81.19
-  },
-  {
-    "name": "Coffee",
-    "date": "1999-01-01",
-    "price": 77.36
-  },
-  {
-    "name": "Coffee",
-    "date": "1999-04-01",
-    "price": 67.75
-  },
-  {
-    "name": "Coffee",
-    "date": "1999-07-01",
-    "price": 62.16
-  },
-  {
-    "name": "Coffee",
-    "date": "1999-10-01",
-    "price": 63.34
-  },
-  {
-    "name": "Coffee",
-    "date": "2000-01-01",
-    "price": 50.14
-  },
-  {
-    "name": "Coffee",
-    "date": "2000-04-01",
-    "price": 44.71
-  },
-  {
-    "name": "Coffee",
-    "date": "2000-07-01",
-    "price": 40.12
-  },
-  {
-    "name": "Coffee",
-    "date": "2000-10-01",
-    "price": 33.65
-  },
-  {
-    "name": "Coffee",
-    "date": "2001-01-01",
-    "price": 31.97
-  },
-  {
-    "name": "Coffee",
-    "date": "2001-04-01",
-    "price": 29.22
-  },
-  {
-    "name": "Coffee",
-    "date": "2001-07-01",
-    "price": 25.75
-  },
-  {
-    "name": "Coffee",
-    "date": "2001-10-01",
-    "price": 22.35
-  },
-  {
-    "name": "Coffee",
-    "date": "2002-01-01",
-    "price": 25.71
-  },
-  {
-    "name": "Coffee",
-    "date": "2002-04-01",
-    "price": 29.68
-  },
-  {
-    "name": "Coffee",
-    "date": "2002-07-01",
-    "price": 30.45
-  },
-  {
-    "name": "Coffee",
-    "date": "2002-10-01",
-    "price": 37.44
-  },
-  {
-    "name": "Coffee",
-    "date": "2003-01-01",
-    "price": 41.16
-  },
-  {
-    "name": "Coffee",
-    "date": "2003-04-01",
-    "price": 37.6
-  },
-  {
-    "name": "Coffee",
-    "date": "2003-07-01",
-    "price": 37.78
-  },
-  {
-    "name": "Coffee",
-    "date": "2003-10-01",
-    "price": 36.99
-  },
-  {
-    "name": "Coffee",
-    "date": "2004-01-01",
-    "price": 39.64
-  },
-  {
-    "name": "Coffee",
-    "date": "2004-04-01",
-    "price": 39.01
-  },
-  {
-    "name": "Coffee",
-    "date": "2004-07-01",
-    "price": 35.56
-  },
-  {
-    "name": "Coffee",
-    "date": "2004-10-01",
-    "price": 34.91
-  },
-  {
-    "name": "Coffee",
-    "date": "2005-01-01",
-    "price": 44.97
-  },
-  {
-    "name": "Coffee",
-    "date": "2005-04-01",
-    "price": 58.24
-  },
-  {
-    "name": "Coffee",
-    "date": "2005-07-01",
-    "price": 55.42
-  },
-  {
-    "name": "Coffee",
-    "date": "2005-10-01",
-    "price": 54.85
-  },
-  {
-    "name": "Coffee",
-    "date": "2006-01-01",
-    "price": 64.94
-  },
-  {
-    "name": "Coffee",
-    "date": "2006-04-01",
-    "price": 64.19
-  },
-  {
-    "name": "Coffee",
-    "date": "2006-07-01",
-    "price": 74.09
-  },
-  {
-    "name": "Coffee",
-    "date": "2006-10-01",
-    "price": 77.89
-  },
-  {
-    "name": "Coffee",
-    "date": "2007-01-01",
-    "price": 80.13
-  },
-  {
-    "name": "Coffee",
-    "date": "2007-04-01",
-    "price": 87.56
-  },
-  {
-    "name": "Coffee",
-    "date": "2007-07-01",
-    "price": 91.82
-  },
-  {
-    "name": "Coffee",
-    "date": "2007-10-01",
-    "price": 93.67
-  },
-  {
-    "name": "Coffee",
-    "date": "2008-01-01",
-    "price": 113.47
-  },
-  {
-    "name": "Coffee",
-    "date": "2008-04-01",
-    "price": 111.23
-  },
-  {
-    "name": "Coffee",
-    "date": "2008-07-01",
-    "price": 111.71
-  },
-  {
-    "name": "Coffee",
-    "date": "2008-10-01",
-    "price": 88.55
-  },
-  {
-    "name": "Coffee",
-    "date": "2009-01-01",
-    "price": 81.57
-  },
-  {
-    "name": "Coffee",
-    "date": "2009-04-01",
-    "price": 76.4
-  },
-  {
-    "name": "Coffee",
-    "date": "2009-07-01",
-    "price": 75.72
-  },
-  {
-    "name": "Coffee",
-    "date": "2009-10-01",
-    "price": 74.81
-  },
-  {
-    "name": "Coffee",
-    "date": "2010-01-01",
-    "price": 73.73
-  },
-  {
-    "name": "Coffee",
-    "date": "2010-04-01",
-    "price": 78.37
-  },
-  {
-    "name": "Coffee",
-    "date": "2010-07-01",
-    "price": 88.71
-  },
-  {
-    "name": "Coffee",
-    "date": "2010-10-01",
-    "price": 95.61
-  },
-  {
-    "name": "Coffee",
-    "date": "2011-01-01",
-    "price": 114.37
+    "price": 46.18
   },
   {
     "name": "Coffee",
@@ -3941,21 +7250,6 @@
     "name": "Coffee",
     "date": "2015-10-01",
     "price": 87.87
-  },
-  {
-    "name": "Coffee",
-    "date": "2016-01-01",
-    "price": 82.1
-  },
-  {
-    "name": "Copper",
-    "date": "2011-03-01",
-    "price": 9503.36
-  },
-  {
-    "name": "Copper",
-    "date": "2011-04-01",
-    "price": 9482.75
   },
   {
     "name": "Copper",
@@ -4248,308 +7542,293 @@
     "price": 4598.62
   },
   {
-    "name": "Copper",
-    "date": "2016-03-01",
-    "price": 4953.8
-  },
-  {
-    "name": "DJI",
-    "date": "2011-04-01",
-    "level": 12434.88
-  },
-  {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-05-01",
-    "level": 12579.99
+    "price": 3.17
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-06-01",
-    "level": 12097.31
+    "price": 3
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-07-01",
-    "level": 12512.33
+    "price": 3
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-08-01",
-    "level": 11326.62
+    "price": 2.3
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-09-01",
-    "level": 11175.45
+    "price": 1.98
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-10-01",
-    "level": 11515.93
+    "price": 2.15
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-11-01",
-    "level": 11804.33
+    "price": 2.01
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2011-12-01",
-    "level": 12075.68
+    "price": 1.98
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-01-01",
-    "level": 12550.89
+    "price": 1.97
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-02-01",
-    "level": 12889.05
+    "price": 1.97
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-03-01",
-    "level": 13079.47
+    "price": 2.17
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-04-01",
-    "level": 13030.75
+    "price": 2.05
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-05-01",
-    "level": 12721.08
+    "price": 1.8
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-06-01",
-    "level": 12544.9
+    "price": 1.62
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-07-01",
-    "level": 12814.1
+    "price": 1.53
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-08-01",
-    "level": 13134.9
+    "price": 1.68
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-09-01",
-    "level": 13418.5
+    "price": 1.72
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-10-01",
-    "level": 13380.65
+    "price": 1.75
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-11-01",
-    "level": 12896.44
+    "price": 1.65
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2012-12-01",
-    "level": 13144.18
+    "price": 1.72
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-01-01",
-    "level": 13615.32
+    "price": 1.91
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-02-01",
-    "level": 13967.33
+    "price": 1.98
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-03-01",
-    "level": 14418.26
+    "price": 1.96
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-04-01",
-    "level": 14675.91
+    "price": 1.76
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-05-01",
-    "level": 15172.18
+    "price": 1.93
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-06-01",
-    "level": 15035.75
+    "price": 2.3
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-07-01",
-    "level": 15390.21
+    "price": 2.58
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-08-01",
-    "level": 15195.35
+    "price": 2.74
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-09-01",
-    "level": 15269.84
+    "price": 2.81
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-10-01",
-    "level": 15289.29
+    "price": 2.62
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-11-01",
-    "level": 15870.83
+    "price": 2.72
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2013-12-01",
-    "level": 16095.77
+    "price": 2.9
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-01-01",
-    "level": 16243.72
+    "price": 2.86
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-02-01",
-    "level": 15958.44
+    "price": 2.71
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-03-01",
-    "level": 16308.63
+    "price": 2.72
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-04-01",
-    "level": 16399.5
+    "price": 2.71
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-05-01",
-    "level": 16567.25
+    "price": 2.56
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-06-01",
-    "level": 16843.75
+    "price": 2.6
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-07-01",
-    "level": 16988.26
+    "price": 2.54
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-08-01",
-    "level": 16775.15
+    "price": 2.42
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-09-01",
-    "level": 17098.13
+    "price": 2.53
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-10-01",
-    "level": 16701.87
+    "price": 2.3
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-11-01",
-    "level": 17648.98
+    "price": 2.33
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2014-12-01",
-    "level": 17754.24
+    "price": 2.21
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-01-01",
-    "level": 17542.26
+    "price": 1.88
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-02-01",
-    "level": 17945.41
+    "price": 1.98
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-03-01",
-    "level": 17931.75
+    "price": 2.04
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-04-01",
-    "level": 17970.51
+    "price": 1.94
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-05-01",
-    "level": 18124.71
+    "price": 2.2
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-06-01",
-    "level": 17927.22
+    "price": 2.36
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-07-01",
-    "level": 17795.02
+    "price": 2.32
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-08-01",
-    "level": 17061.59
+    "price": 2.17
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-09-01",
-    "level": 16339.95
+    "price": 2.17
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-10-01",
-    "level": 17182.28
+    "price": 2.07
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-11-01",
-    "level": 17723.77
+    "price": 2.26
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2015-12-01",
-    "level": 17542.86
+    "price": 2.24
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2016-01-01",
-    "level": 16305.25
+    "price": 2.09
   },
   {
-    "name": "DJI",
+    "name": "10YRT",
     "date": "2016-02-01",
-    "level": 16299.9
-  },
-  {
-    "name": "DJI",
-    "date": "2016-03-01",
-    "level": 17302.14
+    "price": 1.78
   }
 ]

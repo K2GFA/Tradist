@@ -28,13 +28,6 @@
   <option value="Starbucks">Starbucks</option>
   <option value="Yahoo">Yahoo</option>
   <option value="Allergan">Allergan</option>
-  <option value="DJIA">Dow Jones Industrial</option>
-  <option value="Gold">Gold</option>
-  <option value="Crude Oil">Crude Oil</option>
-  <option value="Iron Ore">Iron Ore</option>
-  <option value="Coffee">Coffee</option>
-  <option value="Copper">Copper</option>
-  <option value="10YRT">10 Year Treasury Bonds</option>
 </select>
 
 
@@ -58,7 +51,6 @@
         
      $('select').on('change', function() {
         test = this.value;
-         alert(test);
          $.get({
         url: '/api/ticker/' + test,
         success: function (data) {
