@@ -1,50 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="https://cdn.rawgit.com/etpinard/plotlyjs-finance/master/plotlyjs-finance.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-</head>
+  <head>
+    <meta charset="UTF-8">
+    <title>Tradist - your porfolio, visualized</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/flatly/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.rawgit.com/etpinard/plotlyjs-finance/master/plotlyjs-finance.js"></script>
+  </head>
+​
+  <body>
 
-<body>
-  <p>Histogram View</p>
-  <div id="myDiv" style="width: 100%; height: 600px;"></div>
-  <script>
-  $(document).ready(function() {
-    $.get('/api/ticker/Apple', function (data1) {
-      console.log(data1);
-      makeplot(data1);
-    });
-  });
 
-    function makeplot(data) {
-      var x = [];
+      <div class="col-md-3" id="side-nav-bar">
+        <br>
+        <div id="brandtitle">
+          <i class="fa fa-line-chart fa-3x"></i>
+          <h1>TRADIST</h1>
+        </div>
 
-      for (var i = 0; i < data.length; i ++) {
-        x[i] = data[i]["volume"];
-      };
+        <div id="side-menu">
+            <br>
+          <ul><i class="fa fa-user"></i>  Profile
+            <li><a href="">Name</a></li>
+            <li><a href="">Account Type</a></li>
+          </ul>
 
-      var dataFeed = [
-        {
-          x: x,
-          type: 'histogram'
-        }
-      ];
+          <br>
+          <ul><i class="fa fa-bar-chart-o"></i>  Chart Types
 
-      var layout = {
-        title: "Histogram of Trading Volume for " + data[0]["name"] + " between " + data[data.length-1]["date"].substring(0,10) + " and " + data[0]["date"].substring(0,10),
-        xaxis: {
-          title: "Days grouped by trading volume"
-        },
-        yaxis: {
-          title: "Number of days in trading range"
-        },
-        bargap: 0.1
-      };
+            <li><a href="/candlestick">Candlestick</a></li>
+            <li><a href="/heatmap">Heatmap</a></li>
+            <li><a href="/histogram">Histogram</a></li>
+            <li><a href="/timeseries">Time Series</a></li>
+            <li><a href="/bubblechart">Bubble</a></li>
 
-      Plotly.newPlot('myDiv', dataFeed, layout);
-    };
+          </ul>
+        </div>
+​
+      </div>
+​
+      <div class="col-md-9" id="chartcontent">
 
-  </script>
+      <div id = "title">
+          <h1>Tradist Charts</h1>
+        <h4><span style="color:#404040">"A loss is only a loss if you lose the lesson."</span></h4>
+      </div>
+
+          <div class="jumbotron">
+            <% include ./partials/histogram.ejs %>
+          </div>
+​
+​
+      </div>
+​
+  </body>
+</html>

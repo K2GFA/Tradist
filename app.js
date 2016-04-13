@@ -34,7 +34,7 @@ app.get('/api/ticker/:name', function(req, res) {
 
 
 app.get('/timeseries', function(req, res) {
-    res.render('multiple');
+    res.render('timeseries');
 });
 
 app.get('/candlestick', function(req, res) {
@@ -47,6 +47,10 @@ app.get('/heatmap', function(req, res) {
 
 app.get('/histogram', function(req, res) {
     res.render('histogram');
+});
+
+app.get('/home', function(req, res) {
+    res.render('layout');
 });
 
 app.get('/bubbles', function(req,res) {
