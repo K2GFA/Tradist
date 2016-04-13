@@ -60,5 +60,10 @@ app.get('/bubblechart', function(req, res){
 		res.render('index');
 });
 
+// INDEX, with form
+app.get('/tickers', function(req, res) {
+    res.render('layout');
+});
+
 app.listen(port);
 console.log(`server started on port ${port}`);
