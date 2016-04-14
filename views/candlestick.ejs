@@ -35,16 +35,28 @@
   <script>
 
   $(document).ready(function() {
-    var url = '/api/ticker/<%= stockName %>?token=' + window.localStorage.getItem('token')
-    $.get({
-        url: url,
-        success: function (data) {
-                  console.log(data);
-                  makeplot(data, data[0].name);
-                  }
-    });
+
+    $('#tickerSelector').on('change', function(){
+
+      var selection = this.value;
+      alert(selection);
+
+      $.get('/api/ticker/'+ selection + '?token=' + window.localStorage.getItem('token'), function (data) {
+                    console.log(data);
+                    makeplot(data, data[0].name);
+
+
+
+      });
 
   });
+
+    $.get('/api/ticker/<%= stockName %>?token=' + window.localStorage.getItem('token'), function (data) {
+                  console.log(data);
+                  makeplot(data, data[0].name);
+                });
+
+      });
 
   function makeplot(data, name) {
     var data_open = [], data_close = [], data_high = [], data_low = [], data_dates = [];
