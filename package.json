@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
+    "bson": "*",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
-    "bson": "*",
     "mongoose": "*",
     "morgan": "^1.7.0"
   }
