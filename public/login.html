@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+</head>
+<body>
+  <form>
+    <input id="name" type="text" name="name" value="Jeremiah Alexander">
+    <input id="password" type="password" name="password" value="hello">
+    <button type="submit">Login</button>
+  </form>
+  <script type="text/javascript">
+    $('form').submit(function (event) {
+      event.preventDefault()
+      var name = $('input[type="text"]').val()
+      var password = $('input[type="password"]').val()
+      $.ajax({
+        method: 'POST',
+        contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+        url: '/authenticate',
+        data: {
+          name: name,
+          password: password
+        }
+      }).done(function (result) {
+        console.log(result)
+        window.localStorage.clear()
+        window.localStorage.setItem('token', result.token)
+      })
+
+    })
+  </script>
+</body>

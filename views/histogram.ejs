@@ -16,8 +16,10 @@
   <script>
 
   $(document).ready(function() {
+    var url = '/api/ticker/<%= stockName %>?token=' + window.localStorage.getItem('token')
     $.get({
-        url: '/api/ticker/<%= stockName %>',
+        url: url,
+        // headers: ,
         success: function (data1) {
                   console.log(data1);
                   makeplot(data1);
