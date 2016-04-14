@@ -21,7 +21,7 @@
           <option value="Chevron">Chevron</option>
           <option value="Chipotle Mexican Grill">Chipotle Mexican Grill</option>
           <option value="Alphabet">Google</option>
-          <option value="MacDonalds">MacDonalds</option>
+          <option value="Mcdonalds">Mcdonalds</option>
           <option value="Starbucks">Starbucks</option>
           <option value="Yahoo">Yahoo</option>
           <option value="Allergan">Allergan</option>
@@ -39,13 +39,11 @@
     $('#tickerSelector').on('change', function(){
 
       var selection = this.value;
-      alert(selection);
+      // alert(selection);
 
       $.get('/api/ticker/'+ selection + '?token=' + window.localStorage.getItem('token'), function (data) {
                     console.log(data);
                     makeplot(data, data[0].name);
-
-
 
       });
 
@@ -96,7 +94,7 @@ function makePlotly( data_open, data_close, data_high, data_low, data_dates, nam
   console.log(dateArray);
   console.log(data_close);
 
-  fig.layout.title = name + " Prices between " + data_dates[data_dates.length-1].toString().substring(0,15) + " and " + data_dates[0].toString().substring(0,15);
+  fig.layout.title = name + " Prices between " + data_dates[0].toString().substring(0,15) + " and " + data_dates[data_dates.length-1].toString().substring(0,15);
   fig.layout.xaxis.title = 'Dates';
   fig.layout.yaxis.title = 'Price';
 
