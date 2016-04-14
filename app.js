@@ -12,6 +12,9 @@ var bcrypt = require('bcrypt');
 var morgan        = require('morgan');
 var bodyParser    = require("body-parser");
 var apiRoutes     = express.Router();
+var methodOverride = require('method-override');
+
+var usersController = require('./controllers/usersController');
 
 var mongoose      = require('mongoose');
 mongoose.connect('mongodb://localhost/tradist');
@@ -38,41 +41,49 @@ function authorizeUser() {
   return expressJWT({secret: jwtSecret});
 }
 
+
+
 app.get('/', function(req, res){
   res.send('Welcome to Tradist! The API is at http://localhost:' + port + '/api');
 });
 
-app.get('/setup', function(req, res) {
+app.post('/users/new', function createUser(request, response) {
+  // console.log('in POST');
+  // console.log('body:',request.body);
+  var user = new User(request.body);
 
-  // create a sample user
-  var nick = new User({
-    name: 'ABC',
-    password: 'goodbye',
-    email: 'a@random.com'
-  });
-
-  // save the sample user
-  nick.save(function(err) {
-    if (err) throw err;
-
-    console.log('User saved successfully');
-    res.json({ success: true });
+  user.save(function(error) {
+    if(error) response.json({messsage: 'Could not create user b/c:' + error});
+    // console.log(user);
+    response.json(user);
   });
 });
+
+  // // create a sample user
+  // var nick = new User({
+  //   name: 'ABC',
+  //   password: 'goodbye',
+  //   email: 'a@random.com'
+  // });
+  //
+  // // save the sample user
+  // nick.save(function(err) {
+  //   if (err) throw err;
+  //
+  //   console.log('User saved successfully');
+  //   res.json({ success: true });
+//   });
+// });
 
 app.get('/api', function(req, res) {
   res.json({ message: 'Welcome to the coolest API on earth!' });
 });
 
 // route to return all users (GET http://localhost:8080/api/users)
-app.get('/api/users', function(req, res) {
-  User.find({}, function(err, users) {
-    res.json(users);
-  });
-});
+
 
 app.post('/authenticate', function(req, res) {
-  console.log(req.body.name)
+  // console.log(req.body.name)
   // find the user
   User.findOne({name: req.body.name}, function(err, user) {
 
@@ -91,7 +102,10 @@ app.post('/authenticate', function(req, res) {
           } else {
             // if user is found and password is right
             // create a token
-            var token = jwt.sign(user, app.get('secretKey'), {
+            var tokenInfo = {
+              id: user.id
+            };
+            var token = jwt.sign(tokenInfo, app.get('secretKey'), {
               expiresIn: 360000 // expires in 100 hours
             });
 
@@ -170,6 +184,51 @@ app.use(function(req, res, next) {
   }
 });
 
+app.get('/api/users', function(req, res) {
+  console.log("Jeremiah is a disbeliever")
+  console.log(req.decoded);
+  User.find({}, function(err, users) {
+    res.json(users);
+  });
+});
+
+app.post('/api/users/:id/', function updateUser(request, response) {
+  var id = request.params.id;
+
+  if ( request.decoded.id !== id ){
+    response.json({message: 'You are not authorized to perform this action.'});
+  } else {
+    User.findById({_id: id}, function(error, user) {
+      if(error) response.json({message: 'Could not find user b/c:' + error});
+
+      if(request.body.name) user.name = request.body.name;
+      if(request.body.password) user.password = request.body.password;
+      if(request.body.admin) user.admin = request.body.admin;
+
+      user.save(function(error) {
+        if(error) response.json({messsage: 'Could not update user b/c:' + error});
+
+        response.json({message: 'User successfully updated'});
+
+    });
+  });
+}
+});
+
+app.delete('/api/users/:id', function removeUser(request, response) {
+  var id = request.params.id;
+
+  if (request.decoded.id !== id){
+    response.json({message: 'You are not authorized to perform this action.'});
+  } else {
+    User.remove({_id: id}, function(error) {
+      if(error) response.json({message: 'Could not delete user b/c:' + error});
+
+      response.json({message: 'User successfully deleted'});
+    });
+  }
+});
+
 app.get('/api/testauth', function(req, res){
   res.send('If this shows up, it means you have commented out the middleware to verify the token.');
 });
@@ -180,6 +239,8 @@ app.get('/api/ticker/:name', function(req, res) {
     res.json(data);
   });
 });
+
+
 
 app.listen(port);
 console.log(`server started on port ${port}`);
