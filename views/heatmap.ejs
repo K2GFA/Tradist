@@ -30,36 +30,31 @@
       console.log(data);
 //      makeplot(data);
     });
-  });
+      
+      var apple = []
+      var applePrice = []
+      
+      $.get({
+        url: '/api/ticker/Apple',
+        success: function (data1) {
+                console.log(data1)
+                apple.push(data1);
+                console.log(apple)
+                for(var i = 0; i < apple.length; i++) {
+		          console.log(apple[i])
+                  apple[i].forEach(function(e){
+                      applePrice.push(e.price)
+                  })
+                }
+                console.log(applePrice);
+                localStorage.setItem("applePrice", applePrice);
+                }
+            })
+});
 
-//TEST HERE
-        
-var rawGold = [
-	{
-	"Date": "2011-04-01",
-	"Price": 1474.431
-	},
-	{
-	"Date": "2011-05-01",
-	"Price": 1512.188
-	},
-	{
-	"Date": "2011-06-01",
-	"Price": 1528.38
-	}
-]
-
-//Extract Price from the Raw Gold Data
-function push(array) {
-	var gold = [];
-	for(var i = 0; i<array.length; i++) {
-		gold.push(array[i]["Price"]);
-	}
-	return gold;
-}
 
 //Define Variable for use in Pearson Correlation
-var x = push(rawGold);
+var x = push(applePrice);
 console.log(x);
 
 //IRON IRON IRON

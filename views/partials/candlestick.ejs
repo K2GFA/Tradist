@@ -21,12 +21,12 @@
 
     $.get( '/api/ticker/Starbucks', function( data ) {
       console.log(data);
-      makeplot(data);
+      plotcandlestick(data);
     });
 
   });
 
-  function makeplot(data) {
+  function plotcandlestick(data) {
     var data_open = [], data_close = [], data_high = [], data_low = [], data_dates = [];
 
     for (var i=0; i<data.length; i++) {
@@ -39,12 +39,12 @@
          return new Date(d[0], d[1]-1, d[2].substring(0,1));
        }))
     }
-    makePlotly( data_open, data_close, data_high, data_low, data_dates);
+    plotcandlestickly( data_open, data_close, data_high, data_low, data_dates);
     console.log(data_dates.length);
 
 };
 
-function makePlotly( data_open, data_close, data_high, data_low, data_dates){
+function plotcandlestickly( data_open, data_close, data_high, data_low, data_dates){
   var dateArray = []
 
   data_dates.forEach(function(e){

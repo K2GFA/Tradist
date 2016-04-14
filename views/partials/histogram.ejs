@@ -10,16 +10,16 @@
 
 <body>
   <p>Histogram View</p>
-  <div id="myDiv3" style="width: 100%; height: 600px;"></div>
+  <div id="histogram" style="width: 100%; height: 600px;"></div>
   <script>
   $(document).ready(function() {
     $.get('/api/ticker/Apple', function (data1) {
       console.log(data1);
-      makeplot(data1);
+      plotHistogram(data1);
     });
   });
 
-    function makeplot(data) {
+    function plotHistogram(data) {
       var x = [];
 
       for (var i = 0; i < data.length; i ++) {
@@ -44,7 +44,7 @@
         bargap: 0.1
       };
 
-      Plotly.newPlot('myDiv3', dataFeed, layout);
+      Plotly.newPlot('histogram', dataFeed, layout);
     };
 
   </script>
