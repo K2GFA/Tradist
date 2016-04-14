@@ -9,42 +9,86 @@
 </head>
 
 <body>
-  <p>Histogram View</p>
-  <div id="myDiv" style="width: 100%; height: 600px;"></div>
-  <script>
-  $(document).ready(function() {
-    $.get('/api/ticker/Apple', function (data1) {
-      console.log(data1);
-      makeplot(data1);
+
+      <center>
+          <h1>Histogram Chart</h1>
+          <a href="/home" class="btn btn-danger btn-md" role="button" class="glyphicon glyphicon-home" aria-hidden="true"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>    HOME</a>
+      </center>
+
+      <center>
+          <select id="tickerSelector">
+            <option value="Apple">Apple</option>
+            <option value="British Petroleum">British Petroleum</option>
+            <option value="Chevron">Chevron</option>
+            <option value="Chipotle Mexican Grill">Chipotle Mexican Grill</option>
+            <option value="Alphabet">Google</option>
+            <option value="MacDonalds">MacDonalds</option>
+            <option value="Starbucks">Starbucks</option>
+            <option value="Yahoo">Yahoo</option>
+            <option value="Allergan">Allergan</option>
+          </select>
+      </center>
+
+
+      <div id="myDiv" style="width: 100%; height: 600px;"></div>
+
+
+    <script>
+
+    $(document).ready(function() {
+
+       $('select').on('change', function() {
+         console.log(tickerSelector.value);
+
+          test = this.value;
+           $.get({
+          url: '/api/ticker/' + test,
+          success: function (data) {
+                    console.log(data);
+                    makeplot(data, data[0].name);
+                    }
+          });
+       });
+
+
+        $.get({
+          url: '/api/ticker/<%= stockName %>',
+          success: function (data1) {
+                    console.log(data1);
+                    makeplot(data1);
+                    }
+        });
     });
-  });
 
-    function makeplot(data) {
-      var x = [];
+      function makeplot(data) {
+        var x = [];
 
-      for (var i = 0; i < data.length; i ++) {
-        x[i] = data[i]["volume"];
+        for (var i = 0; i < data.length; i ++) {
+          x[i] = data[i]["volume"];
+        };
+
+        var dataFeed = [
+          {
+            x: x,
+            type: 'histogram'
+          }
+        ];
+
+        var layout = {
+          title: "Histogram of Trading Volume for " + data[0]["name"] + " between " + data[data.length-1]["date"].substring(0,10) + " and " + data[0]["date"].substring(0,10),
+          xaxis: {
+            title: "Days grouped by trading volume"
+          },
+          yaxis: {
+            title: "Number of days in trading range"
+          },
+          bargap: 0.1
+        };
+
+        Plotly.newPlot('myDiv', dataFeed, layout);
       };
 
-      var dataFeed = [
-        {
-          x: x,
-          type: 'histogram'
-        }
-      ];
 
-      var layout = {
-        title: "Histogram of Trading Volume for " + data[0]["name"] + " between " + data[data.length-1]["date"].substring(0,10) + " and " + data[0]["date"].substring(0,10),
-        xaxis: {
-          title: "Days grouped by trading volume"
-        },
-        yaxis: {
-          title: "Number of days in trading range"
-        },
-        bargap: 0.1
-      };
-
-      Plotly.newPlot('myDiv', dataFeed, layout);
-    };
-
-  </script>
+    </script>
+  </body>
+</html>

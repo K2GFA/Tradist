@@ -33,8 +33,8 @@ app.get('/api/ticker/:name', function(req, res) {
 });
 
 
-app.get('/timeseries', function(req, res) {
-    res.render('multiple');
+app.get('/timeseries/:name1/:name2', function(req, res) {
+  res.render('multiple',{stockName1: req.params.name1, stockName2: req.params.name2});
 });
 
 // app.get('/candlestick', function(req, res) {
@@ -49,8 +49,8 @@ app.get('/heatmap', function(req, res) {
     res.render('heatmap');
 });
 
-app.get('/histogram', function(req, res) {
-    res.render('histogram');
+app.get('/histogram/:name', function(req, res) {
+    res.render('histogram', {stockName: req.params.name});
 });
 
 app.get('/bubbles', function(req,res) {
@@ -67,6 +67,10 @@ app.get('/bubblechart', function(req, res){
 // INDEX, with form
 app.get('/home', function(req, res) {
     res.render('layout');
+});
+
+app.get('/partials', function (req, res) {
+  res.render('layout', 'multiple');
 });
 
 app.listen(port);

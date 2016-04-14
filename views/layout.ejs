@@ -4,58 +4,51 @@
     <meta charset="UTF-8">
     <title>Tradist - your porfolio, visualized</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdn.rawgit.com/etpinard/plotlyjs-finance/master/plotlyjs-finance.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
   </head>
 
   <body>
 
       <div class="col-md-3" id="side-nav-bar">
+        <br>
+        <div id="brandtitle">
+          <i class="fa fa-line-chart fa-3x"></i>
+          <h1>TRADIST</h1>
+        </div>
+
         <div id="side-menu">
-          <ul>Profile
-            <li>Name</li>
-            <li>Account Type</li>
+            <br>
+          <ul><i class="fa fa-user"></i>  Profile
+            <li><a href="">Name</a></li>
+            <li><a href="">Account Type</a></li>
           </ul>
-          <ul>Charts
-            <li><a href="">Candlestick</a></li>
-            <li><a href="">Heatmap</a></li>
-            <li><a href="">Histogram</a></li>
-            <li><a href="">Time Series</a></li>
-            <li><a href="">Bubble</a></li>
+
+          <br>
+          <ul><i class="fa fa-bar-chart-o"></i>  Chart Types
+
+            <li><a href="/candlestick">Candlestick</a></li>
+            <li><a href="/heatmap">Heatmap</a></li>
+            <li><a href="/histogram">Histogram</a></li>
+            <li><a href="/timeseries">Time Series</a></li>
+            <li><a href="/bubblechart">Bubble</a></li>
+
           </ul>
         </div>
 
       </div>
 
-      <div class="col-md-9">
+      <div class="col-md-9" id="chartcontent">
 
-          <h1>Tradist</h1>
+      <div id = "title">
+          <h1>Tradist Charts</h1>
+        <h4><span style="color:#404040">"You may not understand it fully right now but the market is always right."</span></h4>
+      </div>
 
-          <div class="jumbotron">
-            Your portfolio, visualized
-          </div>
 
-          <div class="jumbotron">
-            <% include ./partials/form.ejs %>
-          </div>
-
-          <div class="jumbotron">
-            <% include ./partials/candlestick.ejs %>
-          </div>
-
-          <div class="jumbotron">
-            <% include ./partials/heatmap.ejs %>
-          </div>
-
-          <div class="jumbotron">
-            <% include ./partials/histogram.ejs %>
-          </div>
-
-          <div class="jumbotron">
-            <% include ./partials/multiple.ejs %>
-          </div>
 
       </div>
 
