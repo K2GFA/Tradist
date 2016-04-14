@@ -8,14 +8,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Gentallela Alela! | </title>
+  <title> TRADIST </title>
 
   <!-- Bootstrap core CSS -->
 
   <link href="css/bootstrap.min.css" rel="stylesheet">
 
   <link href="fonts/css/font-awesome.min.css" rel="stylesheet">
-  <link href="./public/production/css/animate.min.css" rel="stylesheet">
+  <link href="css/animate.min.css" rel="stylesheet">
 
   <!-- Custom styling plus plugins -->
   <link href="css/custom.css" rel="stylesheet">
@@ -23,12 +23,10 @@
   <link href="css/icheck/flat/green.css" rel="stylesheet" />
   <link href="css/floatexamples.css" rel="stylesheet" type="text/css" />
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/nprogress.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://cdn.rawgit.com/etpinard/plotlyjs-finance/master/plotlyjs-finance.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-<script src="js/custom.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/nprogress.js"></script>
 
   <!--[if lt IE 9]>
         <script src="../assets/js/ie8-responsive-file-warning.js"></script>
@@ -54,76 +52,45 @@
         <div class="left_col scroll-view">
 
           <div class="navbar nav_title" style="border: 0;">
-            <a href="/home" class="site_title"><i class="fa fa-paw"></i> <span>Tickeroo!!</span></a>
+            <a href="index.html" class="site_title"><i class="fa fa-line-chart"></i> <span>TRADIST</span></a>
           </div>
           <div class="clearfix"></div>
-
-          <!-- menu prile quick info -->
-          <div class="profile">
-            <div class="profile_pic">
-              <img src="images/img.jpg" alt="..." class="img-circle profile_img">
-            </div>
-            <div class="profile_info">
-              <span>Welcome,</span>
-              <h2>John Doe</h2>
-            </div>
-          </div>
-          <!-- /menu prile quick info -->
 
           <br />
 
           <!-- sidebar menu -->
-          <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                  <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                    <div class="menu_section">
 
-            <div class="menu_section">
-              <h3>General</h3>
-              <ul class="nav side-menu">
-                <li><a href="/home"><i class="fa fa-home"></i> Home </a>
-                </li>
-                <li><a><i class="fa fa-edit"></i> My Profile<span class="fa fa-chevron-down"></span></a>
-                  <ul class="nav child_menu" style="display: none">
-                    <li><a href="form.html">Change Profile</a>
-                    </li>
-                    </li>
-                  </ul>
-                </li>
-                <li><a><i class="fa fa-bar-chart-o"></i> Chart Types <span class="fa fa-chevron-down"></span></a>
-                  <ul class="nav child_menu" style="display: none">
-                    <li><a href="/candlestick/Apple">Candlesticks Charts</a>
-                    </li>
-                    <li><a href="/timeseries/Apple/Gold">Time Series Charts</a>
-                    </li>
-                    <li><a href="/histogram/Apple">Histogram Chart</a>
-                    </li>
-                    <li><a href="/heatmap">Heatmap Chart </a>
-                    </li>
-                    <li><a href="/bubblechart">Bubble Chart </a>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
+                      <ul class="nav side-menu">
+                        <li><a href="/home"><i class="fa fa-home"></i> Home </a>
+                        </li>
+                        <li><a><i class="fa fa-edit"></i> My Profile<span class="fa fa-chevron-down"></span></a>
+                          <ul class="nav child_menu" style="display: none">
+                            <li><a href="form.html">Change Profile</a>
+                            </li>
+                            </li>
+                          </ul>
+                        </li>
+                        <li><a><i class="fa fa-bar-chart-o"></i> Chart Types <span class="fa fa-chevron-down"></span></a>
+                          <ul class="nav child_menu" style="display: none">
+                            <li><a href="/candlestick/Apple">Candlesticks Charts</a>
+                            </li>
+                            <li><a href="/timeseries/Apple/Gold">Time Series Charts</a>
+                            </li>
+                            <li><a href="/histogram/Apple">Histogram Chart</a>
+                            </li>
+                            <li><a href="/heatmap">Heatmap Chart </a>
+                            </li>
+                            <li><a href="/bubblechart">Bubble Chart </a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <!-- /sidebar menu -->
 
-
-          </div>
-          <!-- /sidebar menu -->
-
-          <!-- /menu footer buttons -->
-          <div class="sidebar-footer hidden-small">
-            <a data-toggle="tooltip" data-placement="top" title="Settings">
-              <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
-            </a>
-            <a data-toggle="tooltip" data-placement="top" title="FullScreen">
-              <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
-            </a>
-            <a data-toggle="tooltip" data-placement="top" title="Lock">
-              <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
-            </a>
-            <a data-toggle="tooltip" data-placement="top" title="Logout">
-              <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
-            </a>
-          </div>
-          <!-- /menu footer buttons -->
         </div>
       </div>
 
@@ -135,15 +102,10 @@
             <div class="nav toggle">
               <a id="menu_toggle"><i class="fa fa-bars"></i></a>
             </div>
-
             <ul class="nav navbar-nav navbar-right">
               <li class="">
-                <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                  <img src="images/img.jpg" alt="">John Doe
-                  <span class=" fa fa-angle-down"></span>
-                </a>
                 <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right">
-                  <li><a href="javascript:;">  Profile</a>
+                  <li><a href="javascript:;"> Profile</a>
                   </li>
                   <li>
                     <a href="javascript:;">
@@ -158,132 +120,41 @@
                   </li>
                 </ul>
               </li>
-
-              <li role="presentation" class="dropdown">
-                <a href="javascript:;" class="dropdown-toggle info-number" data-toggle="dropdown" aria-expanded="false">
-                  <i class="fa fa-envelope-o"></i>
-                  <span class="badge bg-green">6</span>
-                </a>
-                <ul id="menu1" class="dropdown-menu list-unstyled msg_list animated fadeInDown" role="menu">
-                  <li>
-                    <a>
-                      <span class="image">
-                                        <img src="images/img.jpg" alt="Profile Image" />
-                                    </span>
-                      <span>
-                                        <span>John Smith</span>
-                      <span class="time">3 mins ago</span>
-                      </span>
-                      <span class="message">
-                                        Film festivals used to be do-or-die moments for movie makers. They were where...
-                                    </span>
-                    </a>
-                  </li>
-                  <li>
-                    <a>
-                      <span class="image">
-                                        <img src="images/img.jpg" alt="Profile Image" />
-                                    </span>
-                      <span>
-                                        <span>John Smith</span>
-                      <span class="time">3 mins ago</span>
-                      </span>
-                      <span class="message">
-                                        Film festivals used to be do-or-die moments for movie makers. They were where...
-                                    </span>
-                    </a>
-                  </li>
-                  <li>
-                    <a>
-                      <span class="image">
-                                        <img src="images/img.jpg" alt="Profile Image" />
-                                    </span>
-                      <span>
-                                        <span>John Smith</span>
-                      <span class="time">3 mins ago</span>
-                      </span>
-                      <span class="message">
-                                        Film festivals used to be do-or-die moments for movie makers. They were where...
-                                    </span>
-                    </a>
-                  </li>
-                  <li>
-                    <a>
-                      <span class="image">
-                                        <img src="images/img.jpg" alt="Profile Image" />
-                                    </span>
-                      <span>
-                                        <span>John Smith</span>
-                      <span class="time">3 mins ago</span>
-                      </span>
-                      <span class="message">
-                                        Film festivals used to be do-or-die moments for movie makers. They were where...
-                                    </span>
-                    </a>
-                  </li>
-                  <li>
-                    <div class="text-center">
-                      <a href="inbox.html">
-                        <strong>See All Alerts</strong>
-                        <i class="fa fa-angle-right"></i>
-                      </a>
-                    </div>
-                  </li>
-                </ul>
-              </li>
-
             </ul>
           </nav>
         </div>
-
-      </div>
-      <!-- /top navigation -->
+</div>
 
 
       <!-- page content -->
-      <div class="right_col" role="main">
+<div class="right_col" role="main">
         <div class="row">
-            
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="dashboard_graph">
               <div class="row x_title">
                 <div class="col-md-6">
-                  <h3>Timeseries <small>Overlay your Charts Here</small></h3>
-                </div></div>
-                <br>
-        <div>
-            <% include ./partials/multiple.ejs%>
-        </div>
-                
-        <br>
-        <br>
-        <br>
-                
-        <div>
-            <% include ./partials/candlestick.ejs%>
-        </div>
-                
-        <br>
-        <br>
-        <br>
-                
-         <div>
-            <% include ./partials/heatmap.ejs%>
-        </div>
-                
-        <br>
-        <br>
-        <br>
-                
-        <div>
-            <% include ./partials/histogram.ejs%>
-        </div>
-
+                  <h3> Charts </h3>
+                </div>
               </div>
-              
-    </div>
-</div>
+                <div class="container">
+                <% include ./partials/candlestick.ejs %>
+                <br>
+                <% include ./partials/heatmap.ejs %>
+                <br>
+                  <% include ./partials/multiple.ejs %>
+                  <br>
+                  <% include ./partials/histogram.ejs %>
+
+                  </div>
+              <!-- <div class="col-md-12 col-sm-3 col-xs-12 bg-white">
+              </div> -->
+              <!-- <div class="clearfix"></div> -->
+            </div>
+          </div>
+        </div>
+  </div>
+
 
 </body>
-        
+<script src="js/custom.js"></script>
 </html>
