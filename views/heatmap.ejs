@@ -2,18 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Heatmap</title>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://cdn.rawgit.com/etpinard/plotlyjs-finance/master/plotlyjs-finance.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 </head>
+    
     <body>
 
+    <center>
+        <h1>Heatmap Correlation Chart</h1>
+        <a href="/home" class="btn btn-danger btn-md" role="button" class="glyphicon glyphicon-home" aria-hidden="true"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>    HOME</a>
+    </center>
 
-
-
-
-  <p>HEATMAP TEST</p>
 
   <div id="myDiv" style="width: 100%; height: 600px;"><!-- Plotly chart will be drawn inside this DIV --></div>
 
@@ -28,138 +30,133 @@
       console.log(data);
 //      makeplot(data);
     });
-
   });
 
-
+//TEST HERE
         
-//Extract Price from the Raw Iron Data
+var rawGold = [
+	{
+	"Date": "2011-04-01",
+	"Price": 1474.431
+	},
+	{
+	"Date": "2011-05-01",
+	"Price": 1512.188
+	},
+	{
+	"Date": "2011-06-01",
+	"Price": 1528.38
+	}
+]
 
-        //GOLD GOLD GOLD
-// Raw Gold Data
-//var rawGold = [
-//	{
-//	"Date": "2011-04-01",
-//	"Price": 1474.431
-//	},
-//	{
-//	"Date": "2011-05-01",
-//	"Price": 1512.188
-//	},
-//	{
-//	"Date": "2011-06-01",
-//	"Price": 1528.38
-//	}
-//]
-//
-////Extract Price from the Raw Gold Data
-//function push(array) {
-//	var gold = [];
-//	for(var i = 0; i<array.length; i++) {
-//		gold.push(array[i]["Price"]);
-//	}
-//	return gold;
-//}
-//
-////Define Variable for use in Pearson Correlation
-//var x = push(rawGold);
-//console.log(x);
-//
-////IRON IRON IRON
-//// Raw Iron Data
-//var rawIron = [
-//	{
-//	Date: "2011-04-01",
-//	Price: 109.53
-//	},
-//	{
-//	Date: "2011-05-01",
-//	Price: 100.9
-//	},
-//	{
-//	Date: "2011-06-01",
-//	Price: 96.26
-//	}
-//]
-//        
-//        
-//        
-//        
-//        
-//        
-//        function push(array) {
-//	var iron = [];
-//	for(var i = 0; i<array.length; i++) {
-//		iron.push(array[i]["Price"]);
-//	}
-//	return iron;
-//}
-//
-////Define Variable for use in Pearson Correlation
-//var y = push(rawIron);
-//console.log(y);
-//
-//
-//
-//
-////PEARSON CORRELATION
-//function getPearsonCorrelation(x, y) {
-//    var shortestArrayLength = 0;
-//     
-//    if(x.length == y.length) {
-//        shortestArrayLength = x.length;
-//    } 
-//    else if(x.length > y.length) {
-//        shortestArrayLength = y.length;
-//        console.error('x has more items in it, the last ' + (x.length - shortestArrayLength) + ' item(s) will be ignored');
-//    } 
-//    else {
-//        shortestArrayLength = x.length;
-//        console.error('y has more items in it, the last ' + (y.length - shortestArrayLength) + ' item(s) will be ignored');
-//    }
-//  
-//    var xy = [];
-//    var x2 = [];
-//    var y2 = [];
-//  
-//    for(var i=0; i<shortestArrayLength; i++) {
-//        xy.push(x[i] * y[i]);
-//        x2.push(x[i] * x[i]);
-//        y2.push(y[i] * y[i]);
-//    }
-//  
-//    var sum_x = 0;
-//    var sum_y = 0;
-//    var sum_xy = 0;
-//    var sum_x2 = 0;
-//    var sum_y2 = 0;
-//  
-//    for(var i=0; i< shortestArrayLength; i++) {
-//        sum_x += x[i];
-//        sum_y += y[i];
-//        sum_xy += xy[i];
-//        sum_x2 += x2[i];
-//        sum_y2 += y2[i];
-//    }
-//  
-//    var step1 = (shortestArrayLength * sum_xy) - (sum_x * sum_y);
-//    var step2 = (shortestArrayLength * sum_x2) - (sum_x * sum_x);
-//    var step3 = (shortestArrayLength * sum_y2) - (sum_y * sum_y);
-//    var step4 = Math.sqrt(step2 * step3);
-//    var answer = step1 / step4;
-//    
-//      console.log(answer);
-//      return answer;
-//}
-// 
-//var result = getPearsonCorrelation(x, y)
-//console.log(result)
-//// zValues[0][1]        
-//        
-//        
-//        
+//Extract Price from the Raw Gold Data
+function push(array) {
+	var gold = [];
+	for(var i = 0; i<array.length; i++) {
+		gold.push(array[i]["Price"]);
+	}
+	return gold;
+}
 
+//Define Variable for use in Pearson Correlation
+var x = push(rawGold);
+console.log(x);
+
+//IRON IRON IRON
+// Raw Iron Data
+var rawIron = [
+	{
+	Date: "2011-04-01",
+	Price: 109.53
+	},
+	{
+	Date: "2011-05-01",
+	Price: 100.9
+	},
+	{
+	Date: "2011-06-01",
+	Price: 96.26
+	}
+]
+        
+        
+        
+        
+        
+        
+        function push(array) {
+	var iron = [];
+	for(var i = 0; i<array.length; i++) {
+		iron.push(array[i]["Price"]);
+	}
+	return iron;
+}
+
+//Define Variable for use in Pearson Correlation
+var y = push(rawIron);
+console.log(y);
+
+
+
+
+//PEARSON CORRELATION
+function getPearsonCorrelation(x, y) {
+    var shortestArrayLength = 0;
+     
+    if(x.length == y.length) {
+        shortestArrayLength = x.length;
+    } 
+    else if(x.length > y.length) {
+        shortestArrayLength = y.length;
+        console.error('x has more items in it, the last ' + (x.length - shortestArrayLength) + ' item(s) will be ignored');
+    } 
+    else {
+        shortestArrayLength = x.length;
+        console.error('y has more items in it, the last ' + (y.length - shortestArrayLength) + ' item(s) will be ignored');
+    }
+  
+    var xy = [];
+    var x2 = [];
+    var y2 = [];
+  
+    for(var i=0; i<shortestArrayLength; i++) {
+        xy.push(x[i] * y[i]);
+        x2.push(x[i] * x[i]);
+        y2.push(y[i] * y[i]);
+    }
+  
+    var sum_x = 0;
+    var sum_y = 0;
+    var sum_xy = 0;
+    var sum_x2 = 0;
+    var sum_y2 = 0;
+  
+    for(var i=0; i< shortestArrayLength; i++) {
+        sum_x += x[i];
+        sum_y += y[i];
+        sum_xy += xy[i];
+        sum_x2 += x2[i];
+        sum_y2 += y2[i];
+    }
+  
+    var step1 = (shortestArrayLength * sum_xy) - (sum_x * sum_y);
+    var step2 = (shortestArrayLength * sum_x2) - (sum_x * sum_x);
+    var step3 = (shortestArrayLength * sum_y2) - (sum_y * sum_y);
+    var step4 = Math.sqrt(step2 * step3);
+    var answer = step1 / step4;
     
+      console.log(answer);
+      return answer;
+}
+ 
+var result = getPearsonCorrelation(x, y)
+console.log(result)
+// zValues[0][1]        
+        
+        
+        
+
+//TEST HERE    
     
     
 var xValues = ['Iron Ore', 'Gold', 'Dow Jones Index', 'Crude Oil', 'Copper', 'Coffee', '10Year Treasury', 'Apple', 'Starbucks', 'British Petroleum', 'STI Index'];
@@ -196,7 +193,7 @@ var data = [{
 }];
 
 var layout = {
-  title: 'Annotated Heatmap',
+  title: 'Correlation Heatmap',
   annotations: [],
   xaxis: {
     ticks: '',

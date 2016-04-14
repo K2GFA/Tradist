@@ -6,22 +6,32 @@
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://cdn.rawgit.com/etpinard/plotlyjs-finance/master/plotlyjs-finance.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+
 </head>
 
 <body>
-
-<select id="tickerSelector">
-  <option value="Apple">Apple</option>
-  <option value="British Petroleum">British Petroleum</option>
-  <option value="Chevron">Chevron</option>
-  <option value="Chipotle Mexican Grill">Chipotle Mexican Grill</option>
-  <option value="Alphabet">Google</option>
-  <option value="MacDonalds">MacDonalds</option>
-  <option value="Starbucks">Starbucks</option>
-  <option value="Yahoo">Yahoo</option>
-  <option value="Allergan">Allergan</option>
-</select>
     
+
+    <center>
+        <h1>Histogram Chart</h1>
+        <a href="/home" class="btn btn-danger btn-md" role="button" class="glyphicon glyphicon-home" aria-hidden="true"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>    HOME</a>
+    </center>
+
+    <center>
+        <select id="tickerSelector">
+          <option value="Apple">Apple</option>
+          <option value="British Petroleum">British Petroleum</option>
+          <option value="Chevron">Chevron</option>
+          <option value="Chipotle Mexican Grill">Chipotle Mexican Grill</option>
+          <option value="Alphabet">Google</option>
+          <option value="MacDonalds">MacDonalds</option>
+          <option value="Starbucks">Starbucks</option>
+          <option value="Yahoo">Yahoo</option>
+          <option value="Allergan">Allergan</option>
+        </select>
+    </center>
     
     
   <div id="myDiv" style="width: 100%; height: 600px;"></div>
@@ -29,10 +39,14 @@
 
   <script>
       
-       $('select').on('change', function() {
-           
-            console.log(tickerSelector.value);
-         
+    
+        
+      
+      
+      
+
+  $(document).ready(function() {
+             
         
      $('select').on('change', function() {
         test = this.value;
@@ -44,22 +58,9 @@
                   }
         });   
      });  
-           
-           
-           
-           
-           
-           
-           
-       
-     });   
-        
       
       
-      
-
-  $(document).ready(function() {
-    $.get({
+      $.get({
         url: '/api/ticker/<%= stockName %>',
         success: function (data1) {
                   console.log(data1);
