@@ -13,7 +13,7 @@ router.get('/bubbles', function(req,res) {
 });
 
 router.get('/bubblechart', function(req, res){
-		res.render('index.html');
+		res.render('index.ejs');
 });
 
 module.exports = router;

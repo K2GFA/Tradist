@@ -56,7 +56,7 @@ $(document).ready(function() {
 
         console.log(x_val2);
 
-        var dataCombine = [{x:x_val, y:y_val, name: gold[0].name, type: 'scatter'}, { x:x_val2, y:y_val2, name: crudeOil[0].name, yaxis: 'y2', type: 'scatter'}];
+        var dataCombine = [{x:x_val, y:y_val, name: gold[0].name, type: 'scatter'}, { x:x_val, y:y_val2, name: crudeOil[0].name, yaxis: 'y2', type: 'scatter'}];
 
         var layout = {
             title: gold[0]["name"] + " vs " + crudeOil[0]["name"],
