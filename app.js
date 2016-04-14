@@ -41,8 +41,6 @@ function authorizeUser() {
   return expressJWT({secret: jwtSecret});
 }
 
-
-
 app.get('/', function(req, res){
   res.send('Welcome to Tradist! The API is at http://localhost:' + port + '/api');
 });
@@ -58,22 +56,6 @@ app.post('/users/new', function createUser(request, response) {
     response.json(user);
   });
 });
-
-  // // create a sample user
-  // var nick = new User({
-  //   name: 'ABC',
-  //   password: 'goodbye',
-  //   email: 'a@random.com'
-  // });
-  //
-  // // save the sample user
-  // nick.save(function(err) {
-  //   if (err) throw err;
-  //
-  //   console.log('User saved successfully');
-  //   res.json({ success: true });
-//   });
-// });
 
 app.get('/api', function(req, res) {
   res.json({ message: 'Welcome to the coolest API on earth!' });
@@ -129,6 +111,14 @@ app.get('/timeseries/:name1/:name2', function(req, res) {
   res.render('multiple',{stockName1: req.params.name1, stockName2: req.params.name2});
 });
 
+app.get('/home', function(req, res) {
+    res.render('home');
+});
+
+app.get('/timeseries/:name1/:name2', function(req, res) {
+  res.render('multiple',{stockName1: req.params.name1, stockName2: req.params.name2});
+});
+
 app.get('/candlestick/:name', function(req, res) {
     res.render('candlestick', {stockName: req.params.name});
 });
@@ -178,8 +168,6 @@ app.use(function(req, res, next) {
 });
 
 app.get('/api/users', function(req, res) {
-  console.log("Jeremiah is a disbeliever")
-  console.log(req.decoded);
   User.find({}, function(err, users) {
     res.json(users);
   });
