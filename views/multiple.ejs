@@ -26,13 +26,13 @@ $(document).ready(function() {
   //   type1 = data1;
 
     $.get({
-        url: '/api/ticker/<%= stockName1 %>',
+        url: '/api/ticker/<%= stockName1 %>?token=' + window.localStorage.getItem('token'),
         success: function (data1) {
                     console.log(data1);
                     type1 = data1;
 
                     $.get({
-                        url: '/api/ticker/<%= stockName2 %>',
+                        url: '/api/ticker/<%= stockName2 %>?token=' + window.localStorage.getItem('token'),
                         success: function (data2) {
                                     console.log(data2);
                                     type2 = data2;

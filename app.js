@@ -141,13 +141,6 @@ app.get('/histogram/:name', function(req, res) {
     res.render('histogram', {stockName: req.params.name});
 });
 
-app.get('/bubbles', function(req,res) {
-		Bubble.find({}, function(err, stocks) {
-		if (err) res.json({Message: "Stocks cannot be found."});
-		res.json(stocks);
-		});
-});
-
 app.get('/bubblechart', function(req, res){
 		res.render('index');
 });
@@ -240,7 +233,12 @@ app.get('/api/ticker/:name', function(req, res) {
   });
 });
 
-
+app.get('/bubbles', function(req,res) {
+		Bubble.find({}, function(err, stocks) {
+		if (err) res.json({Message: "Stocks cannot be found."});
+		res.json(stocks);
+		});
+});
 
 app.listen(port);
 console.log(`server started on port ${port}`);

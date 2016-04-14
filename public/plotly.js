@@ -47,7 +47,7 @@
 // ];
 
 $(document).ready(function() {
-    $.get("/bubbles", function(stocks) {
+    $.get('/bubbles?token=' + window.localStorage.getItem('token'), function(stocks) {
 
       var data = [];
       feedData();
