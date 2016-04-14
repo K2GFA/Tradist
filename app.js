@@ -214,6 +214,13 @@ app.get('/api/testauth', function(req, res){
   res.send('If this shows up, it means you have commented out the middleware to verify the token.');
 });
 
+app.get('/api/ticker', function(req, res) {
+  Ticker.find({}, function (err, data) {
+    if(err) res.json({message: 'Could not find commodities b/c:' + err});
+    res.json(data);
+  });
+});
+
 app.get('/api/ticker/:name', function(req, res) {
   Ticker.find({name: req.params.name}, function (err, data) {
     if(err) res.json({message: 'Could not find commodities b/c:' + err});
