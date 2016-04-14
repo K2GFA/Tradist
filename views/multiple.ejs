@@ -15,7 +15,7 @@
             <h1>Time Series Chart</h1>
             <a href="/home" class="btn btn-danger btn-md" role="button" class="glyphicon glyphicon-home" aria-hidden="true"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>    HOME</a>
         </center>
-    
+
         <center>
             <form id="myForm" action="form_action.asp">
                 <h4>Choose Ticker 1</h4>
@@ -29,6 +29,13 @@
                   <option value="Starbucks">Starbucks</option>
                   <option value="Yahoo">Yahoo</option>
                   <option value="Allergan">Allergan</option>
+                  <option value="DJIA">Dow Jones Industrial</option>
+                  <option value="Gold">Gold</option>
+                  <option value="Crude Oil">Crude Oil</option>
+                  <option value="Iron Ore">Iron Ore</option>
+                  <option value="Coffee">Coffee</option>
+                  <option value="Copper">Copper</option>
+                  <option value="10YRT">10 Year Treasury</option>
                 </select>
 
                 <h4>Choose Ticker 2</h4>
@@ -42,13 +49,20 @@
                   <option value="Starbucks">Starbucks</option>
                   <option value="Yahoo">Yahoo</option>
                   <option value="Allergan">Allergan</option>
+                  <option value="DJIA">Dow Jones Industrial</option>
+                  <option value="Gold">Gold</option>
+                  <option value="Crude Oil">Crude Oil</option>
+                  <option value="Iron Ore">Iron Ore</option>
+                  <option value="Coffee">Coffee</option>
+                  <option value="Copper">Copper</option>
+                  <option value="10YRT">10 Year Treasury</option>
                 </select>
                 <br>
                 <br>
                 <input id="submitButton" type="button" value="SUBMIT">
-            </form>  
+            </form>
         </center>
-    
+
   <div id="myDiv" style="width: 100%; height: 500px;"></div>
 </body>
 
@@ -62,12 +76,12 @@ $(document).ready(function() {
 // get the values currently in ticker1 and ticker2
           var ticker1 = $('#tickerSelector1').val();
           var ticker2 = $('#tickerSelector2').val();
-        
+
          var type1 = {};
          var type2 = {};
-        
-        
-        
+
+
+
 // input these 2 values to the main graphing function
         $.get({
         url: '/api/ticker/' + ticker1,
@@ -86,19 +100,19 @@ $(document).ready(function() {
                   }
     });
 });
- 
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
   var type1 = {};
   var type2 = {};
 
 
-  
+
     $.get({
         url: '/api/ticker/<%= stockName1 %>',
         success: function (data1) {
